@@ -1,0 +1,62 @@
+{
+  "Name": "Silva & Aegis Prime",
+  "Type": "Melee",
+  "Mastery": 12,
+  "Damage": {
+    "Heat": 120
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Sword and Shield",
+  "StancePolarity": "V",
+  "FireRate": 0.75,
+  "WallAttack": 480,
+  "WallElement": "Heat",
+  "SlideAttack": 257,
+  "SlideElement": "Heat",
+  "JumpAttack": 240,
+  "JumpElement": "Heat",
+  "JumpRadius": 4,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Traits": [
+    "Prime"
+  ],
+  "Image": "SilvaAegisPrime.png",
+  "Polarities": [
+    "V",
+    "D",
+    "D"
+  ],
+  "Introduced": "[[Update 20#Hotfix 20.6.2|Hotfix 20.6.2]]",
+  "Cost": {
+    "Credits": 20000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Blade",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Guard",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Hilt",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "Family": "Silva & Aegis",
+  "Conclave": true
+}

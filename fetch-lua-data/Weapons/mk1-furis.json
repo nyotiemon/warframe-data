@@ -1,0 +1,27 @@
+{
+  "Name": "MK1-Furis",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 2,
+    "Puncture": 9.1,
+    "Slash": 1.9
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.01,
+  "Magazine": 35,
+  "Reload": 1.4,
+  "FireRate": 8.33,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Family": "Furis",
+  "Conclave": true
+}

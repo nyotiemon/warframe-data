@@ -1,0 +1,26 @@
+{
+  "Name": "Akstiletto",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 10.8,
+    "Puncture": 1.8,
+    "Slash": 5.4
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Magazine": 28,
+  "Reload": 1.1,
+  "FireRate": 10,
+  "Trigger": "Auto",
+  "Disposition": 1,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

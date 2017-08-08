@@ -1,0 +1,26 @@
+{
+  "Name": "Aksomati",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 1.8,
+    "Puncture": 7.2,
+    "Slash": 9
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 3,
+  "StatusChance": 0.05,
+  "Magazine": 70,
+  "Reload": 1.4,
+  "FireRate": 12.5,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

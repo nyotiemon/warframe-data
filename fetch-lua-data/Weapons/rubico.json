@@ -1,0 +1,23 @@
+{
+  "Name": "Rubico",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 160,
+    "Puncture": 30,
+    "Slash": 10
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.05,
+  "Magazine": 5,
+  "Reload": 3,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

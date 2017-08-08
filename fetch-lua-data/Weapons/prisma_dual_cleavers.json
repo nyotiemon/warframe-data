@@ -1,0 +1,25 @@
+{
+  "Name": "Prisma Dual Cleavers",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 3.5,
+    "Puncture": 3.5,
+    "Slash": 28
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.25,
+  "Class": "Dual Swords",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 140,
+  "SlideAttack": 210,
+  "JumpAttack": 70,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

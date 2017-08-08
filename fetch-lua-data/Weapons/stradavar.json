@@ -1,0 +1,48 @@
+{
+  "Name": "Stradavar",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 9.8,
+    "Puncture": 9.8,
+    "Slash": 8.4
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 65,
+  "Reload": 2,
+  "FireRate": 10,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "SecondaryAttack": {
+    "Damage": {
+      "Impact": 7.5,
+      "Puncture": 30,
+      "Slash": 12.5
+    },
+    "Polarities": [
+      "V",
+      "V"
+    ],
+    "CritChance": 0.2,
+    "CritMultiplier": 2,
+    "StatusChance": 0.15,
+    "Magazine": 65,
+    "Reload": 2,
+    "FireRate": 5,
+    "Trigger": "Semi-Auto",
+    "Disposition": 4,
+    "Bullet": {
+      "Type": "Hit-Scan"
+    }
+  },
+  "Conclave": true
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "Vectis Prime",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 130,
+    "Puncture": 146.3,
+    "Slash": 48.7
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 2,
+  "Reload": 0.9,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Disposition": 3,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

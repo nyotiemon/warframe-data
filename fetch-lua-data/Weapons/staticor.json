@@ -1,0 +1,25 @@
+{
+  "Name": "Staticor",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 5,
+  "Damage": {
+    "Radiation": 80
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 45,
+  "Reload": 1.5,
+  "FireRate": 1,
+  "ChargeTime": 3,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Explosive"
+  },
+  "Disposition": 1,
+  "Conclave": true
+}

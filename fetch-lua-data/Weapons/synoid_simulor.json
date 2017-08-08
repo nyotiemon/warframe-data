@@ -1,0 +1,30 @@
+{
+  "Name": "Synoid Simulor",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 12,
+  "Damage": {
+    "Magnetic": 50
+  },
+  "Polarities": [
+    "V",
+    "D",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.35,
+  "Magazine": 15,
+  "Reload": 2,
+  "FireRate": 2.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 1,
+  "Traits": [
+    "Syndicate",
+    "Cephalon Suda"
+  ],
+  "Conclave": true
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Magnus",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 20.3,
+    "Puncture": 12.4,
+    "Slash": 12.4
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 8,
+  "Reload": 2,
+  "FireRate": 5.83,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

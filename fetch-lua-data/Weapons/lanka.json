@@ -1,0 +1,22 @@
+{
+  "Name": "Lanka",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 7,
+  "Damage": {
+    "Electricity": 525
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 10,
+  "Reload": 2,
+  "FireRate": 1,
+  "ChargeTime": 1.5,
+  "Trigger": "Charge",
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

@@ -1,0 +1,27 @@
+{
+  "Name": "Strun Wraith",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 195,
+    "Puncture": 45,
+    "Slash": 60
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.4,
+  "Magazine": 10,
+  "Reload": 5,
+  "FireRate": 2.5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 10,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,61 @@
+{
+  "Name": "Bronco Prime",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 280,
+    "Puncture": 35,
+    "Slash": 35
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 4,
+  "Reload": 2,
+  "FireRate": 4.17,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Disposition": 5,
+  "Family": "Bronco",
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ],
+  "Image": "PrimeBronco.png",
+  "Accuracy": 3.7,
+  "NoiseLevel": "Alarming",
+  "MaxAmmo": 210,
+  "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Barrel",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Receiver",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "Falloff": {
+    "StartRange": 9,
+    "EndRange": 18,
+    "Reduction": 0.74
+  }
+}

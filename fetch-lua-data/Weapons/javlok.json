@@ -1,0 +1,26 @@
+{
+  "Name": "Javlok",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Heat": 235
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 6,
+  "Reload": 2.2,
+  "FireRate": 1,
+  "ChargeTime": 0.6,
+  "Trigger": "Charge",
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

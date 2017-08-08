@@ -1,0 +1,24 @@
+{
+  "Name": "Boar",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 96.8,
+    "Puncture": 26.4,
+    "Slash": 52.8
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Magazine": 20,
+  "Reload": 2.7,
+  "FireRate": 4.17,
+  "Trigger": "Auto",
+  "PelletCount": 8,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

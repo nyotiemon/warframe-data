@@ -1,0 +1,28 @@
+{
+  "Name": "Detron Mara",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 9,
+  "Damage": {
+    "Radiation": 210
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Magazine": 8,
+  "Reload": 1,
+  "FireRate": 4.17,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Detron",
+  "Falloff": {
+    "StartRange": 16,
+    "EndRange": 32,
+    "Reduction": 0.5
+  }
+}

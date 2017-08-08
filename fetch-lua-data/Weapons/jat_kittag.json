@@ -1,0 +1,26 @@
+{
+  "Name": "Jat Kittag",
+  "Type": "Melee",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 104,
+    "Puncture": 19.5,
+    "Slash": 6.5
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 260,
+  "SlideAttack": 260,
+  "JumpAttack": 260,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Conclave": true
+}

@@ -1,0 +1,54 @@
+{
+  "Name": "War",
+  "Type": "Melee",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 112,
+    "Puncture": 3.5,
+    "Slash": 24.5
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Heavy Blade",
+  "StancePolarity": "D",
+  "FireRate": 0.917,
+  "WallAttack": 280,
+  "SlideAttack": 280,
+  "JumpAttack": 280,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Image": "StalkerTwoGreatSword.png",
+  "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
+  "Cost": {
+    "Credits": 20000,
+    "Rush": 45,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Polymer Bundle",
+        "Type": "Resource",
+        "Count": 2300
+      },
+      {
+        "Name": "Rubedo",
+        "Type": "Resource",
+        "Count": 1400
+      },
+      {
+        "Name": "Nitain Extract",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Broken War",
+        "Type": "Weapon",
+        "Count": 1
+      }
+    ]
+  },
+  "Conclave": true
+}

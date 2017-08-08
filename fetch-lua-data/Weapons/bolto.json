@@ -1,0 +1,26 @@
+{
+  "Name": "Bolto",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 40.5
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.075,
+  "Magazine": 15,
+  "Reload": 1.3,
+  "FireRate": 6.83,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Family": "Bolto",
+  "Conclave": true
+}

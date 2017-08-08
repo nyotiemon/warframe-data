@@ -1,0 +1,28 @@
+{
+  "Name": "Vaykor Sydon",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 4.3,
+    "Puncture": 80.8
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 1.08,
+  "WallAttack": 142,
+  "SlideAttack": 189,
+  "JumpAttack": 170,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Traits": [
+    "Syndicate",
+    "Steel Meridian"
+  ],
+  "Conclave": true
+}

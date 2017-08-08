@@ -1,0 +1,26 @@
+{
+  "Name": "Orthos Prime",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 9.75,
+    "Puncture": 9.75,
+    "Slash": 45.5
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 1.17,
+  "WallAttack": 108,
+  "SlideAttack": 144,
+  "JumpAttack": 130,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "Name": "Lex Prime",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 15,
+    "Puncture": 120,
+    "Slash": 15
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 8,
+  "Reload": 2.35,
+  "FireRate": 2.08,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lex",
+  "Image": "PrimeLex.png",
+  "Disposition": 1,
+  "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
+  "NoiseLevel": "Alarming",
+  "Accuracy": 16,
+  "MaxAmmo": 210,
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ],
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Barrel",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Receiver",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "Conclave": true
+}

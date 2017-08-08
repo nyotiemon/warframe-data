@@ -1,0 +1,26 @@
+{
+  "Name": "Guandao",
+  "Type": "Melee",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 22.5,
+    "Puncture": 4.5,
+    "Slash": 63
+  },
+  "Polarities": [
+    "D",
+    "V"
+  ],
+  "CritChance": 0.24,
+  "CritMultiplier": 2.2,
+  "StatusChance": 0.04,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 0.833,
+  "WallAttack": 150,
+  "SlideAttack": 200,
+  "JumpAttack": 180,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

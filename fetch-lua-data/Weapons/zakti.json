@@ -1,0 +1,38 @@
+{
+  "Name": "Zakti",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 12,
+    "Puncture": 18,
+    "Slash": 0
+  },
+  "Polarities": [
+    "Bar",
+    "Bar"
+  ],
+  "CritChance": 0.02,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Magazine": 3,
+  "MaxAmmo": 210,
+  "Reload": 0.8,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 66
+  },
+  "Conclave": true,
+  "AreaAttack": {
+    "Damage": {
+      "Gas": 80
+    },
+    "Radius": 5
+  },
+  "Image": "Zakti.png",
+  "Accuracy": 26.7,
+  "Introduced": "[[Update 21#Update 21.1|Update 21.1]]"
+}

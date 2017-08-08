@@ -1,0 +1,28 @@
+{
+  "Name": "Hikou",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 2.5,
+    "Puncture": 15,
+    "Slash": 7.5
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.025,
+  "Magazine": 20,
+  "Reload": 0.8,
+  "FireRate": 6.67,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 1,
+  "Conclave": true,
+  "Family": "Hikou"
+}

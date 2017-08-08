@@ -1,0 +1,28 @@
+{
+  "Name": "Braton Prime",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 1.75,
+    "Puncture": 12.25,
+    "Slash": 21
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 75,
+  "Reload": 2.2,
+  "FireRate": 9.58,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Braton",
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ]
+}

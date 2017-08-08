@@ -1,0 +1,25 @@
+{
+  "Name": "Heat Dagger",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 2.3,
+    "Puncture": 36,
+    "Slash": 6.7
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Class": "Dagger",
+  "StancePolarity": "V",
+  "FireRate": 0.75,
+  "WallAttack": 135,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,85 @@
+{
+  "Name": "Halikar",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 36,
+    "Slash": 4.5
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Glaive",
+  "StancePolarity": "Bar",
+  "FireRate": 1.17,
+  "WallAttack": 135,
+  "SlideAttack": 225,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "ThrowAttack": {
+    "Damage": {
+      "Impact": 20,
+      "Puncture": 160,
+      "Slash": 20,
+      "Blast": 150
+    },
+    "StatusChance": 0.2,
+    "CritChance": 0.1,
+    "CritMultiplier": 2
+  },
+  "ChargedThrowAttack": {
+    "Damage": {
+      "Impact": 46,
+      "Puncture": 368,
+      "Slash": 46,
+      "Blast": 440
+    },
+    "StatusChance": 0.25,
+    "CritChance": 0.1,
+    "CritMultiplier": 2,
+    "PunchThrough": 1
+  },
+  "Disposition": 5,
+  "Image": "GrnBoomerang.png",
+  "Bullet": {
+    "Type": "Thrown",
+    "Speed": 30,
+    "Range": 23
+  },
+  "Introduced": "[[Update 15#Update 15.0|Update 15.0]]",
+  "Cost": {
+    "Credits": 15000,
+    "BPCost": 20000,
+    "MarketCost": 150,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Argon Crystal",
+        "Type": "Resource",
+        "Count": 2
+      },
+      {
+        "Name": "Ferrite",
+        "Type": "Resource",
+        "Count": 4800
+      },
+      {
+        "Name": "Nano Spores",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Oxium",
+        "Type": "Resource",
+        "Count": 500
+      }
+    ]
+  },
+  "Conclave": true
+}

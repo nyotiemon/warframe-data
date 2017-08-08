@@ -1,0 +1,43 @@
+{
+  "Name": "Vaykor Hek",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 12,
+  "Damage": {
+    "Impact": 78.75,
+    "Puncture": 341.25,
+    "Slash": 105
+  },
+  "Polarities": [
+    "D",
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 8,
+  "Reload": 2.3,
+  "FireRate": 3,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Traits": [
+    "Syndicate",
+    "Steel Meridian"
+  ],
+  "Conclave": true,
+  "SyndicateEffect": "Justice",
+  "Cost": {
+    "Syndicate": "Steel Meridian",
+    "Reputation": "125000",
+    "Rank": 5
+  },
+  "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
+  "Image": "SyndicateSMHek.png",
+  "Disposition": 1,
+  "Accuracy": 9.1,
+  "MaxAmmo": 120,
+  "Family": "Hek"
+}

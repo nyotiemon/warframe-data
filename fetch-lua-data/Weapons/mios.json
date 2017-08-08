@@ -1,0 +1,25 @@
+{
+  "Name": "Mios",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 24,
+    "Puncture": 20,
+    "Slash": 36
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Blade and Whip",
+  "StancePolarity": "V",
+  "FireRate": 1.08,
+  "WallAttack": 320,
+  "SlideAttack": 171,
+  "JumpAttack": 160,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Sonicor",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 50
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0,
+  "Magazine": 15,
+  "Reload": 3,
+  "FireRate": 1.25,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": " Explosive"
+  },
+  "Disposition": 1,
+  "Conclave": true
+}

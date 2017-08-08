@@ -1,0 +1,23 @@
+{
+  "Name": "Spectra",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 3,
+    "Puncture": 21,
+    "Slash": 6
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 80,
+  "Reload": 2,
+  "FireRate": 5,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

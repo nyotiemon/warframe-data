@@ -1,0 +1,24 @@
+{
+  "Name": "Tiberon",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 15,
+    "Puncture": 30,
+    "Slash": 15
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.025,
+  "Magazine": 30,
+  "Reload": 2.3,
+  "FireRate": 9.09,
+  "Trigger": "Burst",
+  "BurstCount": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

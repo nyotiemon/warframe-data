@@ -1,0 +1,38 @@
+{
+  "Name": "Lex",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 13,
+    "Puncture": 104,
+    "Slash": 13
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 6,
+  "Reload": 2.35,
+  "FireRate": 1.08,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lex",
+  "Disposition": 1,
+  "Users": [
+    "[[Maroo]] (when down)"
+  ],
+  "Accuracy": 16,
+  "NoiseLevel": "Alarming",
+  "Image": "Lex.png",
+  "MaxAmmo": 210,
+  "Cost": {
+    "Credits": 50000
+  },
+  "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
+  "Conclave": true
+}

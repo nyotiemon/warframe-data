@@ -1,0 +1,27 @@
+{
+  "Name": "Hind",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 7.5,
+    "Puncture": 7.5,
+    "Slash": 15
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 65,
+  "Reload": 2,
+  "FireRate": 6.25,
+  "Trigger": "Burst",
+  "BurstCount": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

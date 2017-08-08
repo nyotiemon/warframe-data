@@ -1,0 +1,31 @@
+{
+  "Name": "Skana Prime",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 6.3,
+    "Puncture": 6.3,
+    "Slash": 29.4
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Sword",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 168,
+  "SlideAttack": 90,
+  "JumpAttack": 84,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted",
+    "Founder"
+  ]
+}

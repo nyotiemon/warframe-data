@@ -1,0 +1,25 @@
+{
+  "Name": "Simulor",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 5,
+  "Damage": {
+    "Magnetic": 50
+  },
+  "Polarities": [
+    "D",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 10,
+  "Reload": 3,
+  "FireRate": 2,
+  "Trigger": "Semi-Auto",
+  "Disposition": 1,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

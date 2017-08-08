@@ -1,0 +1,63 @@
+{
+  "Name": "Amphis",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 38.5,
+    "Puncture": 8.3,
+    "Slash": 8.2
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Staff",
+  "StancePolarity": "V",
+  "FireRate": 1.25,
+  "WallAttack": 92,
+  "SlideAttack": 75,
+  "JumpAttack": 40,
+  "JumpElement": "Electricity",
+  "JumpRadius": 5,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true,
+  "Image": "DEAmphis.png",
+  "Stagger": "Yes",
+  "Users": [
+    "[[Executioners/Dok Thul|Dok Thul]]",
+    "[[Guardsman]]"
+  ],
+  "Introduced": "[[Update 6#Update 6.5|Update 6.5]]",
+  "Cost": {
+    "Credits": 30000,
+    "BPCost": 15000,
+    "MarketCost": 150,
+    "Rush": 45,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Neurodes",
+        "Type": "Resource",
+        "Count": 2
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 500
+      },
+      {
+        "Name": "Circuits",
+        "Type": "Resource",
+        "Count": 600
+      },
+      {
+        "Name": "Alloy Plate",
+        "Type": "Resource",
+        "Count": 600
+      }
+    ]
+  }
+}

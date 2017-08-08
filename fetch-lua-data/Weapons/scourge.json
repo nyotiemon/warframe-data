@@ -1,0 +1,25 @@
+{
+  "Name": "Scourge",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Corrosive": 60
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.04,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 20,
+  "Reload": 2.5,
+  "FireRate": 2.67,
+  "Trigger": "Auto",
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

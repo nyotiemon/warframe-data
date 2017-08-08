@@ -1,0 +1,33 @@
+{
+  "Name": "Sheev",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 2.25,
+    "Puncture": 2.25,
+    "Slash": 40.5
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Dagger",
+  "StancePolarity": "V",
+  "FireRate": 0.667,
+  "WallAttack": 135,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Image": "GrineerCombatKnife.png",
+  "Users": [
+    "[[Executioners/Harkonar|Harkonar]]",
+    "[[Executioners/Nok|Nok]]",
+    "[[Executioners/Reth|Reth]]",
+    "*Ranged [[Grineer]] soldiers"
+  ],
+  "Introduced": "[[Update 14#Update 14.7|Update 14.7]]",
+  "Conclave": true
+}

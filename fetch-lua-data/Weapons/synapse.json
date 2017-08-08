@@ -1,0 +1,20 @@
+{
+  "Name": "Synapse",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Electricity": 12.5
+  },
+  "CritChance": 0.5,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 100,
+  "Reload": 1.5,
+  "FireRate": 10,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

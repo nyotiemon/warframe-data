@@ -1,0 +1,32 @@
+{
+  "Name": "Sobek",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 262.5,
+    "Puncture": 43.75,
+    "Slash": 43.75
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 20,
+  "Reload": 4,
+  "FireRate": 2.5,
+  "Trigger": "Auto",
+  "PelletCount": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Accuracy": 9.1,
+  "MaxAmmo": 240,
+  "Disposition": 5,
+  "Image": "GrnDBSG.png",
+  "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
+  "Users": [
+    "[[Trooper]]",
+    "[[Executioners/Nok|Nok]]"
+  ],
+  "Conclave": true
+}

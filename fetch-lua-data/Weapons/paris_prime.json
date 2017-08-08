@@ -1,0 +1,34 @@
+{
+  "Name": "Paris Prime",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 160,
+    "Slash": 35
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.45,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 1,
+  "Reload": 0.7,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Family": "Paris",
+  "Conclave": true,
+  "Disposition": 3,
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ]
+}

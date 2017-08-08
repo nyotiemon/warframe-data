@@ -1,0 +1,28 @@
+{
+  "Name": "Dual Kamas Prime",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 3.5,
+    "Puncture": 14,
+    "Slash": 52.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Dual Swords",
+  "StancePolarity": "Bar",
+  "FireRate": 1.17,
+  "WallAttack": 280,
+  "SlideAttack": 420,
+  "JumpAttack": 140,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Conclave": true,
+  "Traits": [
+    "Prime"
+  ]
+}

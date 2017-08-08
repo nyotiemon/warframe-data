@@ -1,0 +1,31 @@
+{
+  "Name": "Bronco",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 212.8,
+    "Puncture": 26.6,
+    "Slash": 26.6
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 2,
+  "Reload": 1,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Disposition": 5,
+  "Family": "Bronco",
+  "Image": "Bronco.png",
+  "Falloff": {
+    "StartRange": 7,
+    "EndRange": 14,
+    "Reduction": 0.7368
+  }
+}

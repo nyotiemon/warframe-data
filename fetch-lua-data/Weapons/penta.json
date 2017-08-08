@@ -1,0 +1,71 @@
+{
+  "Name": "Penta",
+  "Type": "Primary",
+  "Class": "Launcher",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 75,
+    "Puncture": 0,
+    "Slash": 0
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 5,
+  "Reload": 2.5,
+  "FireRate": 1,
+  "Trigger": "Active",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 20
+  },
+  "NoiseLevel": "Silent",
+  "Family": "Penta",
+  "Conclave": true,
+  "Disposition": 4,
+  "SecondaryAttack": {
+    "Damage": {
+      "Blast": 350
+    },
+    "Radius": 5,
+    "Trigger": "Detonate"
+  },
+  "Image": "DEPenta.png",
+  "Accuracy": 100,
+  "MaxAmmo": 20,
+  "AmmoType": "Sniper",
+  "Introduced": "[[Update 11#Update 11.3|Update 11.3]]",
+  "Users": [
+    "[[Penta Ranger]]",
+    "[[M-W.A.M.]]"
+  ],
+  "Cost": {
+    "Credits": 25000,
+    "BPCost": 30000,
+    "MarketCost": 150,
+    "Rush": 40,
+    "Time": 24,
+    "Parts": [
+      {
+        "Name": "Control Module",
+        "Type": "Resource",
+        "Count": 3
+      },
+      {
+        "Name": "Circuits",
+        "Type": "Resource",
+        "Count": 1000
+      },
+      {
+        "Name": "Ferrite",
+        "Type": "Resource",
+        "Count": 1200
+      },
+      {
+        "Name": "Alloy Plate",
+        "Type": "Resource",
+        "Count": 400
+      }
+    ]
+  }
+}

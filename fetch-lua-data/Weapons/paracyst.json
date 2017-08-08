@@ -1,0 +1,21 @@
+{
+  "Name": "Paracyst",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 2,
+  "Damage": {
+    "Toxin": 25
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 60,
+  "Reload": 2,
+  "FireRate": 11.11,
+  "Trigger": "Burst",
+  "BurstCount": 3,
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Projectile"
+  }
+}

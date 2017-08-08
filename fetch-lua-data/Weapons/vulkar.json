@@ -1,0 +1,23 @@
+{
+  "Name": "Vulkar",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 180,
+    "Puncture": 33.8,
+    "Slash": 11.2
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 6,
+  "Reload": 3,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

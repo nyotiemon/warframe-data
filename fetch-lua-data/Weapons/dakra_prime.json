@@ -1,0 +1,30 @@
+{
+  "Name": "Dakra Prime",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 6,
+    "Puncture": 6,
+    "Slash": 48
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Sword",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 240,
+  "SlideAttack": 129,
+  "JumpAttack": 120,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Okina",
+  "Type": "Melee",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 2,
+    "Puncture": 18,
+    "Slash": 20
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Dual Daggers",
+  "StancePolarity": "D",
+  "FireRate": 1.08,
+  "WallAttack": 160,
+  "SlideAttack": 200,
+  "JumpAttack": 80,
+  "ChannelMult": 1.5,
+  "Disposition": 5
+}

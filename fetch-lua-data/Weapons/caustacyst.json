@@ -1,0 +1,23 @@
+{
+  "Name": "Caustacyst",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Corrosive": 75
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Scythe",
+  "StancePolarity": "Ability",
+  "FireRate": 1,
+  "WallAttack": 150,
+  "SlideAttack": 150,
+  "JumpAttack": 150,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

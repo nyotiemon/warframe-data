@@ -1,0 +1,24 @@
+{
+  "Name": "Sarpa",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 7,
+    "Puncture": 14,
+    "Slash": 49
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Gunblade",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 280,
+  "SlideAttack": 210,
+  "JumpAttack": 140,
+  "ChannelMult": 1.5,
+  "Disposition": 4
+}

@@ -1,0 +1,52 @@
+{
+  "Name": "Dread",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 5,
+    "Slash": 90
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.5,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 1,
+  "Reload": 0.7,
+  "FireRate": 1,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 70
+  },
+  "ChargeAttack": {
+    "Damage": {
+      "Impact": 10,
+      "Puncture": 10,
+      "Slash": 180
+    },
+    "PunchThrough": 1,
+    "CritChance": 0.5,
+    "CritMultiplier": 2,
+    "StatusChance": 0.2,
+    "Bullet": {
+      "Type": "Projectile",
+      "Speed": 85
+    },
+    "ChargeTime": 1
+  },
+  "Disposition": 2,
+  "Accuracy": 16.7,
+  "MaxAmmo": 72,
+  "NoiseLevel": "Silent",
+  "Users": [
+    "[[Stalker]]"
+  ],
+  "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
+  "Image": "Dread2.png",
+  "Conclave": true
+}

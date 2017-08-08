@@ -1,0 +1,52 @@
+{
+  "Name": "Secura Penta",
+  "Type": "Primary",
+  "Class": "Launcher",
+  "Mastery": 12,
+  "Damage": {
+    "Impact": 75,
+    "Puncture": 0,
+    "Slash": 0
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 7,
+  "Reload": 2.5,
+  "FireRate": 2,
+  "Trigger": "Active",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 25
+  },
+  "NoiseLevel": "Silent",
+  "Family": "Penta",
+  "Disposition": 4,
+  "SecondaryAttack": {
+    "Damage": {
+      "Blast": 375
+    },
+    "Radius": 5,
+    "Trigger": "Detonate"
+  },
+  "Image": "SyndicatePSPenta.png",
+  "Accuracy": 100,
+  "MaxAmmo": 30,
+  "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
+  "Polarities": [
+    "Bar",
+    "D",
+    "V"
+  ],
+  "Traits": [
+    "Syndicate",
+    "The Perrin Sequence"
+  ],
+  "SyndicateEffect": "Sequence",
+  "Cost": {
+    "Syndicate": "The Perrin Sequence",
+    "Reputation": "125000",
+    "Rank": 5
+  },
+  "Conclave": true
+}

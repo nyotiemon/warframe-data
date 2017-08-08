@@ -1,0 +1,25 @@
+{
+  "Name": "Ether Reaper",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 9.8,
+    "Puncture": 9.8,
+    "Slash": 45.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Scythe",
+  "StancePolarity": "Ability",
+  "FireRate": 1.08,
+  "WallAttack": 130,
+  "SlideAttack": 130,
+  "JumpAttack": 130,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

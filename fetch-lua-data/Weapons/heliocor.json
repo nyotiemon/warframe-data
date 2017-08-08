@@ -1,0 +1,22 @@
+{
+  "Name": "Heliocor",
+  "Type": "Melee",
+  "Mastery": 9,
+  "Damage": {
+    "Impact": 119,
+    "Puncture": 14,
+    "Slash": 7
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.025,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 280,
+  "SlideAttack": 280,
+  "JumpAttack": 280,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

@@ -1,0 +1,56 @@
+{
+  "Name": "Tekko",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 9,
+    "Puncture": 4.5,
+    "Slash": 31.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Fist",
+  "StancePolarity": "D",
+  "FireRate": 0.917,
+  "WallAttack": 135,
+  "SlideAttack": 135,
+  "JumpAttack": 45,
+  "ChannelMult": 1.5,
+  "Introduced": "[[Update 17#Update_17.5|Update 17.5]]",
+  "Image": "BrawlerKnuckles.png",
+  "Disposition": 5,
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 25000,
+    "MarketCost": 125,
+    "Rush": 35,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Gallium",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Rubedo",
+        "Type": "Resource",
+        "Count": 700
+      },
+      {
+        "Name": "Polymer Bundle",
+        "Type": "Resource",
+        "Count": 3300
+      },
+      {
+        "Name": "Ankyros",
+        "Type": "Weapon",
+        "Count": 1
+      }
+    ]
+  },
+  "Conclave": true
+}

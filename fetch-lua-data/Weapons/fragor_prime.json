@@ -1,0 +1,28 @@
+{
+  "Name": "Fragor Prime",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 91,
+    "Puncture": 19.5,
+    "Slash": 19.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.35,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.1,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 0.8,
+  "WallAttack": 260,
+  "SlideAttack": 260,
+  "JumpAttack": 260,
+  "ChannelMult": 1.8,
+  "Disposition": 3,
+  "Traits": [
+    "Prime"
+  ],
+  "Conclave": true
+}

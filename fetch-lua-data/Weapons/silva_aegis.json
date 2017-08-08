@@ -1,0 +1,25 @@
+{
+  "Name": "Silva & Aegis",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Heat": 35
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Class": "Sword and Shield",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 140,
+  "WallElement": "Heat",
+  "SlideAttack": 75,
+  "SlideElement": "Heat",
+  "JumpAttack": 70,
+  "JumpElement": "Heat",
+  "JumpRadius": 4,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Silva & Aegis"
+}

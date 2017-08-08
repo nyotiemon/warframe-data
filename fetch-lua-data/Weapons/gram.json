@@ -1,0 +1,22 @@
+{
+  "Name": "Gram",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 15,
+    "Puncture": 15,
+    "Slash": 70
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Heavy Blade",
+  "StancePolarity": "V",
+  "FireRate": 0.95,
+  "WallAttack": 200,
+  "SlideAttack": 200,
+  "JumpAttack": 200,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

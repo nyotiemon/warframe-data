@@ -1,0 +1,33 @@
+{
+  "Name": "Lato Prime",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 3.7,
+    "Puncture": 7.4,
+    "Slash": 25.9
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 15,
+  "Reload": 1,
+  "FireRate": 6.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lato",
+  "Disposition": 5,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted",
+    "Founder"
+  ]
+}

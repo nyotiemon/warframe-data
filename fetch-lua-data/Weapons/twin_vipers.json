@@ -1,0 +1,25 @@
+{
+  "Name": "Twin Vipers",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 9.6,
+    "Puncture": 1.6,
+    "Slash": 4.8
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.01,
+  "Magazine": 28,
+  "Reload": 2,
+  "FireRate": 25,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

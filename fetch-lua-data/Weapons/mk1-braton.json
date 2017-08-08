@@ -1,0 +1,23 @@
+{
+  "Name": "MK1-Braton",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 4.5,
+    "Slash": 9
+  },
+  "CritChance": 0.08,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Magazine": 60,
+  "Reload": 2,
+  "FireRate": 7.5,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Kama",
+  "Type": "Melee",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 6.75,
+    "Puncture": 6.75,
+    "Slash": 31.5
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.02,
+  "Class": "Machete",
+  "StancePolarity": "Ability",
+  "FireRate": 1.17,
+  "WallAttack": 180,
+  "SlideAttack": 135,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

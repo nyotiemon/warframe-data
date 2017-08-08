@@ -1,0 +1,22 @@
+{
+  "Name": "Atterax",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 2.25,
+    "Puncture": 2.25,
+    "Slash": 40.5
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.2,
+  "Class": "Whip",
+  "StancePolarity": "D",
+  "FireRate": 0.917,
+  "WallAttack": 180,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

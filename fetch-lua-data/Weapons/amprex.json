@@ -1,0 +1,26 @@
+{
+  "Name": "Amprex",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 5,
+  "Damage": {
+    "Electricity": 7.5
+  },
+  "CritChance": 0.5,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 100,
+  "Reload": 2.7,
+  "FireRate": 20,
+  "Trigger": "Held",
+  "Bullet": {
+    "Type": "Discharge"
+  },
+  "Image": "ChainLightningGunEdit.png",
+  "NoiseLevel": "Alarming",
+  "Accuracy": 12.5,
+  "Disposition": 3,
+  "MaxAmmo": 540,
+  "Introduced": "13.1",
+  "Conclave": true
+}

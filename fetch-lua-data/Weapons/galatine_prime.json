@@ -1,0 +1,54 @@
+{
+  "Name": "Galatine Prime",
+  "Type": "Melee",
+  "Mastery": 13,
+  "Damage": {
+    "Impact": 4.1,
+    "Puncture": 4.1,
+    "Slash": 156.8
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Heavy Blade",
+  "StancePolarity": "D",
+  "FireRate": 1,
+  "WallAttack": 330,
+  "SlideAttack": 330,
+  "JumpAttack": 330,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Family": "Galatine",
+  "Traits": [
+    "Prime"
+  ],
+  "Image": "PrimeGalatine342.png",
+  "Introduced": "[[Update 19#Hotfix: The Silver Grove 3|Hotfix: The Silver Grove 3]]",
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Blade",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Handle",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "Conclave": true
+}

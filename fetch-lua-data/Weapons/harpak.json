@@ -1,0 +1,27 @@
+{
+  "Name": "Harpak",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 37.5,
+    "Slash": 7.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 45,
+  "Reload": 2,
+  "FireRate": 6,
+  "Trigger": "Burst",
+  "BurstCount": 3,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

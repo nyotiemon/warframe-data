@@ -1,0 +1,23 @@
+{
+  "Name": "Seer",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 28.3,
+    "Puncture": 28.3,
+    "Slash": 28.3
+  },
+  "CritChance": 0,
+  "CritMultiplier": 1,
+  "StatusChance": 0.1,
+  "Magazine": 8,
+  "Reload": 2.8,
+  "FireRate": 2,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

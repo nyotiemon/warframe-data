@@ -1,0 +1,23 @@
+{
+  "Name": "Dera",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 4.4,
+    "Puncture": 16.5,
+    "Slash": 1.1
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 45,
+  "Reload": 2.4,
+  "FireRate": 11.25,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

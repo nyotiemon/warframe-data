@@ -1,0 +1,28 @@
+{
+  "Name": "Fang Prime",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 3.6,
+    "Puncture": 32.4
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Class": "Dual Daggers",
+  "StancePolarity": "R",
+  "FireRate": 1,
+  "WallAttack": 144,
+  "SlideAttack": 180,
+  "JumpAttack": 72,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ]
+}

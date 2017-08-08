@@ -1,0 +1,44 @@
+{
+  "Name": "Vaykor Marelok",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 96,
+    "Puncture": 16,
+    "Slash": 48
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.35,
+  "Magazine": 10,
+  "Reload": 1.7,
+  "FireRate": 2,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Traits": [
+    "Syndicate",
+    "Steel Meridian"
+  ],
+  "Disposition": 1,
+  "Conclave": true,
+  "SyndicateEffect": "Justice",
+  "Cost": {
+    "Syndicate": "Steel Meridian",
+    "Reputation": "125000",
+    "Rank": 5
+  },
+  "Users": [
+    "[[Steel Meridian]] [[Syndicate Operatives|Operatives]]"
+  ],
+  "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
+  "Image": "SMMarelok.png",
+  "Accuracy": 10,
+  "Family": "Marelok"
+}

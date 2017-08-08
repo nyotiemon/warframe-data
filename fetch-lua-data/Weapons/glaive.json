@@ -1,0 +1,86 @@
+{
+  "Name": "Glaive",
+  "Type": "Melee",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 5.25,
+    "Puncture": 5.25,
+    "Slash": 24.5
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Glaive",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 135,
+  "SlideAttack": 225,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Image": "DEGlaive.png",
+  "Bullet": {
+    "Type": "Thrown",
+    "Speed": "20",
+    "Range": "30"
+  },
+  "ThrowAttack": {
+    "Damage": {
+      "Impact": 30,
+      "Puncture": 30,
+      "Slash": 140,
+      "Blast": 50
+    },
+    "StatusChance": 0.1,
+    "CritChance": 0.1,
+    "CritMultiplier": 2
+  },
+  "ChargedThrowAttack": {
+    "Damage": {
+      "Impact": 60,
+      "Puncture": 60,
+      "Slash": 280,
+      "Blast": 300
+    },
+    "StatusChance": 0.11,
+    "CritChance": 0.11,
+    "CritMultiplier": 2.1,
+    "PunchThrough": 1
+  },
+  "Introduced": "[[Update 7#Update 7.9|Update 7.9]]",
+  "FinisherDamage": 75,
+  "Family": "Glaive",
+  "Cost": {
+    "Credits": 15000,
+    "MarketCost": 150,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Morphics",
+        "Type": "Resource",
+        "Count": 10
+      },
+      {
+        "Name": "Ferrite",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Nano Spores",
+        "Type": "Resource",
+        "Count": 6000
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 4500
+      }
+    ]
+  },
+  "Conclave": true
+}

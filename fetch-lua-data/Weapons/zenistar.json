@@ -1,0 +1,19 @@
+{
+  "Name": "Zenistar",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Heat": 130
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Heavy Blade",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 260,
+  "SlideAttack": 260,
+  "JumpAttack": 260,
+  "ChannelMult": 1.5,
+  "Disposition": 1
+}

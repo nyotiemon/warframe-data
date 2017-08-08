@@ -1,0 +1,41 @@
+{
+  "Name": "Tenora",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 6.9,
+    "Puncture": 9.2,
+    "Slash": 6.9
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 150,
+  "Reload": 2.5,
+  "FireRate": 11.67,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "SecondaryAttack": {
+    "Damage": {
+      "Impact": 4.6,
+      "Puncture": 13.8,
+      "Slash": 4.6
+    },
+    "CritChance": 0.33,
+    "CritMultiplier": 3,
+    "StatusChance": 0.11,
+    "Magazine": 80,
+    "Reload": 2,
+    "FireRate": 1,
+    "ChargeTime": 0.8,
+    "Trigger": "Charge",
+    "Disposition": 3,
+    "Bullet": {
+      "Type": "Projectile"
+    }
+  },
+  "Conclave": true
+}

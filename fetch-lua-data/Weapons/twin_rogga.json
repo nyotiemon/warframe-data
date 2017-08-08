@@ -1,0 +1,28 @@
+{
+  "Name": "Twin Rogga",
+  "Type": "Secondary",
+  "Class": "Dual Shotguns",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 240,
+    "Puncture": 300,
+    "Slash": 60
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 2,
+  "Reload": 1.5,
+  "FireRate": 2.5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 5,
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

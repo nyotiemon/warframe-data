@@ -1,0 +1,23 @@
+{
+  "Name": "Dual Ichor",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Toxin": 35
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.15,
+  "Class": "Dual Swords",
+  "StancePolarity": "Ability",
+  "FireRate": 1.08,
+  "WallAttack": 140,
+  "SlideAttack": 210,
+  "JumpAttack": 70,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

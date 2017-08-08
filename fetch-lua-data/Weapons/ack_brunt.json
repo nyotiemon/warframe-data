@@ -1,0 +1,57 @@
+{
+  "Name": "Ack & Brunt",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 5,
+    "Slash": 40
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Sword and Shield",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 200,
+  "SlideAttack": 107,
+  "JumpAttack": 50,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true,
+  "Image": "RegorAxeShield.png",
+  "Users": [
+    "[[Tyl Regor]]",
+    "[[Executioners/Gorth|Gorth]]"
+  ],
+  "Cost": {
+    "Credits": 65000,
+    "BPCost": 15000,
+    "MarketCost": 150,
+    "Rush": 35,
+    "Time": 24,
+    "Parts": [
+      {
+        "Name": "Detonite Injector",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 7500
+      },
+      {
+        "Name": "Cryotic",
+        "Type": "Resource",
+        "Count": 3300
+      },
+      {
+        "Name": "Forma",
+        "Type": "Item",
+        "Count": 1
+      }
+    ]
+  },
+  "Introduced": "[[Update 17#Update 17.0|Update 17.0]]"
+}

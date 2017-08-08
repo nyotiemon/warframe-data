@@ -1,0 +1,28 @@
+{
+  "Name": "Sicarus",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 28,
+    "Puncture": 6,
+    "Slash": 6
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 15,
+  "Reload": 2,
+  "FireRate": 7.39,
+  "Trigger": "Burst",
+  "BurstCount": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true,
+  "Family": "Sicarus"
+}

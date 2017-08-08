@@ -1,0 +1,55 @@
+{
+  "Name": "Broken War",
+  "Type": "Melee",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 9,
+    "Puncture": 9,
+    "Slash": 72
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Sword",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 360,
+  "SlideAttack": 193,
+  "JumpAttack": 180,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Conclave": true,
+  "Cost": {
+    "Credits": 20000,
+    "Rush": 25,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Forma",
+        "Type": "Item",
+        "Count": 1
+      },
+      {
+        "Name": "Nitain Extract",
+        "Type": "Resource",
+        "Count": 2
+      },
+      {
+        "Name": "Hilt",
+        "Type": "Item",
+        "Count": 1
+      },
+      {
+        "Name": "Blade",
+        "Type": "Item",
+        "Count": 2
+      }
+    ]
+  },
+  "Image": "StalkerTwoSword.png",
+  "Introduced": "[[Update 18#Update 18.0|Update 18.0]]"
+}

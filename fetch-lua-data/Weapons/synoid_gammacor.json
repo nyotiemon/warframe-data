@@ -1,0 +1,29 @@
+{
+  "Name": "Synoid Gammacor",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Magnetic": 28
+  },
+  "Polarities": [
+    "D",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 150,
+  "Reload": 2,
+  "FireRate": 15,
+  "Trigger": "Held",
+  "Bullet": {
+    "Type": "Discharge"
+  },
+  "Disposition": 1,
+  "Traits": [
+    "Syndicate",
+    "Cephalon Suda"
+  ],
+  "Conclave": true
+}

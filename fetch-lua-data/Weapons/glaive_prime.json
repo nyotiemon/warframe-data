@@ -1,0 +1,83 @@
+{
+  "Name": "Glaive Prime",
+  "Type": "Melee",
+  "Image": "PrimeGlaive.png",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 7.5,
+    "Puncture": 7.5,
+    "Slash": 35
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Glaive",
+  "StancePolarity": "Bar",
+  "FireRate": 1.25,
+  "WallAttack": 150,
+  "SlideAttack": 250,
+  "JumpAttack": 100,
+  "ChannelMult": 1.5,
+  "Bullet": {
+    "Type": "Thrown",
+    "Speed": "40",
+    "Range": 30
+  },
+  "ThrowAttack": {
+    "Damage": {
+      "Impact": 37.5,
+      "Puncture": 37.5,
+      "Slash": 175,
+      "Blast": 175
+    },
+    "StatusChance": 0.3,
+    "CritChance": 0.15,
+    "CritMultiplier": 2
+  },
+  "ChargedThrowAttack": {
+    "Damage": {
+      "Impact": 75,
+      "Puncture": 75,
+      "Slash": 350,
+      "Blast": 460
+    },
+    "StatusChance": 0.33,
+    "CritChance": 0.18,
+    "CritMultiplier": 2.2,
+    "PunchThrough": 1
+  },
+  "Disposition": 4,
+  "Introduced": "[[Update 11]]",
+  "Family": "Glaive",
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ],
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Blade",
+        "Type": "PrimePart",
+        "Count": 2
+      },
+      {
+        "Name": "Disc",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "Conclave": true
+}

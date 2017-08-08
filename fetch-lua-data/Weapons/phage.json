@@ -1,0 +1,24 @@
+{
+  "Name": "Phage",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 6,
+  "Damage": {
+    "Viral": 330
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 40,
+  "Reload": 2,
+  "FireRate": 1,
+  "Trigger": "Held",
+  "PelletCount": 7,
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

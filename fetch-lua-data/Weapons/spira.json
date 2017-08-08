@@ -1,0 +1,27 @@
+{
+  "Name": "Spira",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 5.5,
+    "Puncture": 33,
+    "Slash": 16.5
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 10,
+  "Reload": 1,
+  "FireRate": 2.5,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 1,
+  "Conclave": true
+}

@@ -1,0 +1,24 @@
+{
+  "Name": "Scoliac",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 8.25,
+    "Puncture": 8.25,
+    "Slash": 38.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Class": "Whip",
+  "StancePolarity": "Ability",
+  "FireRate": 1.25,
+  "WallAttack": 220,
+  "SlideAttack": 118,
+  "JumpAttack": 110,
+  "ChannelMult": 1.5,
+  "Disposition": 4
+}

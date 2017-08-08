@@ -1,0 +1,22 @@
+{
+  "Name": "Orthos",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 7.5,
+    "Puncture": 7.5,
+    "Slash": 35
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Class": "Polearm",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 83,
+  "SlideAttack": 111,
+  "JumpAttack": 100,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "Telos Boltor",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 12,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 45
+  },
+  "Polarities": [
+    "D",
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.075,
+  "Magazine": 90,
+  "Reload": 2.4,
+  "FireRate": 9.33,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Traits": [
+    "Syndicate",
+    "Arbiters of Hexis"
+  ],
+  "Conclave": true,
+  "Disposition": 2,
+  "Family": "Boltor"
+}

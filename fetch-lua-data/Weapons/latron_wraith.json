@@ -1,0 +1,26 @@
+{
+  "Name": "Latron Wraith",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 13.75,
+    "Puncture": 38.5,
+    "Slash": 2.75
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.2,
+  "Magazine": 15,
+  "Reload": 2.4,
+  "FireRate": 5.4,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

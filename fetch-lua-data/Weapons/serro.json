@@ -1,0 +1,23 @@
+{
+  "Name": "Serro",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Electricity": 75
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.25,
+  "Class": "Polearm",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 125,
+  "SlideAttack": 167,
+  "JumpAttack": 150,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

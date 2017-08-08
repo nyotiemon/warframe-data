@@ -1,0 +1,20 @@
+{
+  "Name": "Prova Vandal",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Electricity": 48
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Class": "Machete",
+  "StancePolarity": "Ability",
+  "FireRate": 1,
+  "WallAttack": 192,
+  "SlideAttack": 144,
+  "JumpAttack": 96,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

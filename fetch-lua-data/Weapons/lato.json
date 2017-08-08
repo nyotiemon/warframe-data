@@ -1,0 +1,38 @@
+{
+  "Name": "Lato",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 7.5,
+    "Puncture": 7.5,
+    "Slash": 15
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 1.75,
+  "StatusChance": 0.03,
+  "Magazine": 15,
+  "Reload": 1,
+  "FireRate": 6.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Image": "Lato.png",
+  "Accuracy": 18.2,
+  "MaxAmmo": 210,
+  "Disposition": 5,
+  "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
+  "Users": [
+    "[[Lancer]] (During Tutorial and [[Vor's Prize]])"
+  ],
+  "NoiseLevel": "Alarming",
+  "Family": "Lato",
+  "Traits": [
+    "Tutorial"
+  ],
+  "Cost": {
+    "Credits": 10000
+  },
+  "Conclave": true
+}

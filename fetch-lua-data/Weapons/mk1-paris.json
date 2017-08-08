@@ -1,0 +1,28 @@
+{
+  "Name": "MK1-Paris",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 6,
+    "Puncture": 96,
+    "Slash": 18
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "FireRate": 1,
+  "ChargeTime": 0.5,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

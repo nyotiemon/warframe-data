@@ -1,0 +1,32 @@
+{
+  "Name": "Aklato",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 7.5,
+    "Slash": 18
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 1.75,
+  "StatusChance": 0.03,
+  "Magazine": 30,
+  "Reload": 2.4,
+  "FireRate": 8.3,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "NoiseLevel": "Alarming",
+  "Family": "Lato",
+  "Disposition": 5,
+  "Conclave": true,
+  "Cost": {
+    "Credits": 25000
+  },
+  "Accuracy": 11.1,
+  "MaxAmmo": 210,
+  "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
+  "Image": "Aklato.png"
+}

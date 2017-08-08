@@ -1,0 +1,20 @@
+{
+  "Name": "Ignis",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 4,
+  "Damage": {
+    "Heat": 27
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 150,
+  "Reload": 2,
+  "FireRate": 10,
+  "Trigger": "Held",
+  "Disposition": 2,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

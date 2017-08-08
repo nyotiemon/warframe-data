@@ -1,0 +1,23 @@
+{
+  "Name": "Buzlok",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 33.8,
+    "Puncture": 4.5,
+    "Slash": 6.7
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 75,
+  "Reload": 3,
+  "FireRate": 6.25,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

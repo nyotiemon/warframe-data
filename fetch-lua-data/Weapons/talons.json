@@ -1,0 +1,25 @@
+{
+  "Name": "Talons",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 5,
+  "Damage": {
+    "Blast": 100
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 4,
+  "Reload": 1,
+  "FireRate": 5,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Explosive"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Convectrix",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 10,
+    "Puncture": 10,
+    "Slash": 80
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 90,
+  "Reload": 2,
+  "FireRate": 3,
+  "Trigger": "Held",
+  "PelletCount": 2,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

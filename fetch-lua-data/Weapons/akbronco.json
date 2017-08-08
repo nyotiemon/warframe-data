@@ -1,0 +1,61 @@
+{
+  "Name": "Akbronco",
+  "Type": "Secondary",
+  "Class": "Dual Shotguns",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 212.8,
+    "Puncture": 26.6,
+    "Slash": 26.6
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 4,
+  "Reload": 2.3,
+  "FireRate": 8.33,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Bronco",
+  "Image": "Dual Broncos.png",
+  "Accuracy": 3.7,
+  "Disposition": 4,
+  "MaxAmmo": 210,
+  "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
+  "NoiseLevel": "Alarming",
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 20000,
+    "MarketCost": 225,
+    "Rush": 25,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Bronco",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Bronco",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 1
+      }
+    ]
+  },
+  "Falloff": {
+    "StartRange": 7,
+    "EndRange": 14,
+    "Reduction": 0.7368
+  }
+}

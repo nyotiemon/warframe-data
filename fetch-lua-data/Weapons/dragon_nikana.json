@@ -1,0 +1,26 @@
+{
+  "Name": "Dragon Nikana",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 4.25,
+    "Puncture": 8.5,
+    "Slash": 72.25
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Nikana",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 182,
+  "SlideAttack": 182,
+  "JumpAttack": 170,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

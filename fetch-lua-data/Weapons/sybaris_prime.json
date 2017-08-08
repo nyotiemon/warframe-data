@@ -1,0 +1,65 @@
+{
+  "Name": "Sybaris Prime",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 12,
+  "Damage": {
+    "Impact": 29,
+    "Puncture": 29,
+    "Slash": 29.9
+  },
+  "CritChance": 0.3,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 20,
+  "Reload": 2,
+  "FireRate": 4.72,
+  "BurstFireRate": 3.33,
+  "Trigger": "Burst",
+  "BurstCount": 2,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 2,
+  "Traits": [
+    "Prime"
+  ],
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Barrel",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Receiver",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Stock",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "NoiseLevel": "Alarming",
+  "Accuracy": 25,
+  "MaxAmmo": 540,
+  "Introduced": "[[Update 20#Hotfix 20.6.2|Hotfix 20.6.2]]",
+  "Image": "Sybaris_Prime.png",
+  "Polarities": [
+    "Bar",
+    "Bar",
+    "V"
+  ],
+  "Family": "Sybaris"
+}

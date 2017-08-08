@@ -1,0 +1,26 @@
+{
+  "Name": "Snipetron",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 17.5,
+    "Puncture": 140,
+    "Slash": 17.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 4,
+  "Reload": 3.5,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

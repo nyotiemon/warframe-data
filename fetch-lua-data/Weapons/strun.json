@@ -1,0 +1,27 @@
+{
+  "Name": "Strun",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 165,
+    "Puncture": 45,
+    "Slash": 90
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Magazine": 6,
+  "Reload": 3.8,
+  "FireRate": 2.5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 6,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

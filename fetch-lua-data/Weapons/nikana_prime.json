@@ -1,0 +1,54 @@
+{
+  "Name": "Nikana Prime",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 4.75,
+    "Puncture": 4.75,
+    "Slash": 85.5
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Nikana",
+  "StancePolarity": "V",
+  "FireRate": 1.08,
+  "WallAttack": 204,
+  "SlideAttack": 204,
+  "JumpAttack": 190,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Traits": [
+    "Prime"
+  ],
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Blade",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Handle",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 15
+      }
+    ]
+  },
+  "Image": "PrimeNikana.png",
+  "Introduced": "[[Update 18#Hotfix 18.4.12|Hotfix 18.4.12]]",
+  "Family": "Nikana",
+  "Conclave": true
+}

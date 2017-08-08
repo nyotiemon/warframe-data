@@ -1,0 +1,28 @@
+{
+  "Name": "Ferrox",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 35,
+    "Puncture": 245,
+    "Slash": 70
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.1,
+  "Magazine": 10,
+  "Reload": 1.8,
+  "FireRate": 1,
+  "ChargeTime": 0.5,
+  "Trigger": "Charge",
+  "Disposition": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

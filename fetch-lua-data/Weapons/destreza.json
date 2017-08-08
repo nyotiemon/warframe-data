@@ -1,0 +1,59 @@
+{
+  "Name": "Destreza",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 1.9,
+    "Puncture": 63.8,
+    "Slash": 9.4
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Class": "Rapier",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 300,
+  "SlideAttack": 161,
+  "JumpAttack": 150,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true,
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 25000,
+    "MarketCost": 175,
+    "Rush": 35,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Alloy Plate",
+        "Type": "Resource",
+        "Count": 10000
+      },
+      {
+        "Name": "Plastids",
+        "Type": "Resource",
+        "Count": 1700
+      },
+      {
+        "Name": "Nitain Extract",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Argon Crystal",
+        "Type": "Resource",
+        "Count": 2
+      }
+    ]
+  },
+  "Users": [
+    "[[Violence]]"
+  ],
+  "Introduced": "[[Update 18#Update 18.3|Update 18.3]]",
+  "Image": "TnoRapier.png"
+}

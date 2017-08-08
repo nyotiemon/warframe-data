@@ -1,0 +1,23 @@
+{
+  "Name": "Obex",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 17.5,
+    "Puncture": 3.8,
+    "Slash": 3.7
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Sparring",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 75,
+  "SlideAttack": 100,
+  "JumpAttack": 50,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Obex"
+}

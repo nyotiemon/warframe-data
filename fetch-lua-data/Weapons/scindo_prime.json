@@ -1,0 +1,29 @@
+{
+  "Name": "Scindo Prime",
+  "Type": "Melee",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 13,
+    "Puncture": 13,
+    "Slash": 104
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Heavy Blade",
+  "StancePolarity": "V",
+  "FireRate": 0.967,
+  "WallAttack": 260,
+  "SlideAttack": 260,
+  "JumpAttack": 260,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ],
+  "Conclave": true
+}

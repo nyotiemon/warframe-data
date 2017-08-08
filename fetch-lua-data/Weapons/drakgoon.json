@@ -1,0 +1,25 @@
+{
+  "Name": "Drakgoon",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 90,
+    "Puncture": 90,
+    "Slash": 720
+  },
+  "CritChance": 0.075,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 7,
+  "Reload": 2.3,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "Trigger": "Charge",
+  "PelletCount": 7,
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

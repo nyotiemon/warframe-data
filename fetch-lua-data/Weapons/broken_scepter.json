@@ -1,0 +1,25 @@
+{
+  "Name": "Broken Scepter",
+  "Type": "Melee",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 42,
+    "Puncture": 6,
+    "Slash": 12
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Staff",
+  "StancePolarity": "R",
+  "FireRate": 1.25,
+  "WallAttack": 100,
+  "SlideAttack": 129,
+  "JumpAttack": 120,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

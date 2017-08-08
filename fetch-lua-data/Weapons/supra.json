@@ -1,0 +1,23 @@
+{
+  "Name": "Supra",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 33.8,
+    "Slash": 6.7
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Magazine": 180,
+  "Reload": 3,
+  "FireRate": 12.5,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

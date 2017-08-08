@@ -1,0 +1,33 @@
+{
+  "Name": "Lenz",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 50,
+    "Cold": 10,
+    "Blast": 660
+  },
+  "Polarities": [
+    "Bar",
+    "Bar"
+  ],
+  "CritChance": 0.5,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "Accuracy": 16.7,
+  "FireRate": 1,
+  "ChargeTime": 1.2,
+  "MaxAmmo": 6,
+  "Introduced": "[[Update 21#Update 21.3|Update 21.3]]",
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 3,
+  "Image": "Lenz.png",
+  "NoiseLevel": "Alarming",
+  "Conclave": true
+}

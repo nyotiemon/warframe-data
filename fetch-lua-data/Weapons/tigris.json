@@ -1,0 +1,25 @@
+{
+  "Name": "Tigris",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 105,
+    "Puncture": 105,
+    "Slash": 840
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 2,
+  "Reload": 1.8,
+  "FireRate": 2,
+  "Trigger": "Duplex-Auto",
+  "PelletCount": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Conclave": true,
+  "Family": "Tigris"
+}

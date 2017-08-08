@@ -1,0 +1,28 @@
+{
+  "Name": "Daikyu",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 100,
+    "Puncture": 300,
+    "Slash": 100
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.5,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "FireRate": 1,
+  "ChargeTime": 1.75,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Dual Zoren",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 1.5,
+    "Puncture": 1.5,
+    "Slash": 27
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.05,
+  "Class": "Dual Swords",
+  "StancePolarity": "Ability",
+  "FireRate": 1.17,
+  "WallAttack": 120,
+  "SlideAttack": 180,
+  "JumpAttack": 60,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

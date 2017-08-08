@@ -1,0 +1,22 @@
+{
+  "Name": "Redeemer",
+  "Type": "Melee",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 6,
+    "Puncture": 12,
+    "Slash": 42
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Gunblade",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 240,
+  "SlideAttack": 180,
+  "JumpAttack": 120,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

@@ -1,0 +1,33 @@
+{
+  "Name": "Brakk",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 90,
+    "Puncture": 50,
+    "Slash": 60
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 5,
+  "Reload": 1,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 10,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 2,
+  "Conclave": true,
+  "Falloff": {
+    "StartRange": 11,
+    "EndRange": 22,
+    "Reduction": 0.6
+  }
+}

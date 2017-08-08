@@ -1,0 +1,28 @@
+{
+  "Name": "Aklex Prime",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 15,
+    "Puncture": 120,
+    "Slash": 15
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 16,
+  "Reload": 3,
+  "FireRate": 2.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lex",
+  "Disposition": 3,
+  "Traits": [
+    "Prime",
+    "Baro"
+  ],
+  "Conclave": true
+}

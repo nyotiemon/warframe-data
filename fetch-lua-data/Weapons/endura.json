@@ -1,0 +1,56 @@
+{
+  "Name": "Endura",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 4.75,
+    "Puncture": 66.5,
+    "Slash": 23.75
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Rapier",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 380,
+  "SlideAttack": 204,
+  "JumpAttack": 190,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true,
+  "Image": "Endura.png",
+  "Introduced": "[[Update 20#Update 20.6|Update 20.6]]",
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 15000,
+    "MarketCost": 175,
+    "Rush": 35,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Alloy Plate",
+        "Type": "Resource",
+        "Count": 12000
+      },
+      {
+        "Name": "Plastids",
+        "Type": "Resource",
+        "Count": 1200
+      },
+      {
+        "Name": "Gallium",
+        "Type": "Resource",
+        "Count": 2
+      },
+      {
+        "Name": "Argon Crystal",
+        "Type": "Resource",
+        "Count": 2
+      }
+    ]
+  }
+}

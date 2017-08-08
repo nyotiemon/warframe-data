@@ -1,0 +1,31 @@
+{
+  "Name": "Rakta Cernos",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 12,
+  "Damage": {
+    "Impact": 225,
+    "Puncture": 12.5,
+    "Slash": 12.5
+  },
+  "Polarities": [
+    "V",
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.35,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "FireRate": 1,
+  "ChargeTime": 0.25,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Family": "Cernos",
+  "Disposition": 2,
+  "Conclave": true
+}

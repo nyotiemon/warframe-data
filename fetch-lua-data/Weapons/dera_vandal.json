@@ -1,0 +1,23 @@
+{
+  "Name": "Dera Vandal",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 6.2,
+    "Puncture": 23.25,
+    "Slash": 1.55
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 60,
+  "Reload": 2.4,
+  "FireRate": 11.3,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Prisma Gorgon",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 18.75,
+    "Puncture": 3.75,
+    "Slash": 2.5
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 120,
+  "Reload": 3,
+  "FireRate": 14.2,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Gorgon",
+  "MaxAmmo": 840,
+  "Spool": 12,
+  "Disposition": 4,
+  "Conclave": true
+}

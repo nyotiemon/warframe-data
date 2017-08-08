@@ -1,0 +1,29 @@
+{
+  "Name": "Venka Prime",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 2.75,
+    "Puncture": 11,
+    "Slash": 41.25
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.15,
+  "Class": "Claws",
+  "StancePolarity": "V",
+  "FireRate": 1.05,
+  "WallAttack": 165,
+  "SlideAttack": 165,
+  "JumpAttack": 110,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Traits": [
+    "Prime"
+  ],
+  "Conclave": true
+}

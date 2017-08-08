@@ -1,0 +1,56 @@
+{
+  "Name": "Akbolto",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 40.5
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.075,
+  "Magazine": 30,
+  "Reload": 2.6,
+  "FireRate": 10,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 75
+  },
+  "Family": "Bolto",
+  "NoiseLevel": "Alarming",
+  "Image": "Akbolto.png",
+  "Introduced": "[[Update 6#Update 6.0|Update 6.0]]",
+  "MaxAmmo": 210,
+  "Accuracy": 26.7,
+  "Disposition": 2,
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 15000,
+    "MarketCost": 225,
+    "Rush": 25,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Bolto",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Bolto",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 1
+      }
+    ]
+  },
+  "Conclave": true
+}

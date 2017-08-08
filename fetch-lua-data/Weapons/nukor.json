@@ -1,0 +1,21 @@
+{
+  "Name": "Nukor",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Radiation": 32
+  },
+  "CritChance": 0.01,
+  "CritMultiplier": 4,
+  "StatusChance": 0.2,
+  "Magazine": 50,
+  "Reload": 2,
+  "FireRate": 5,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  },
+  "Conclave": true
+}

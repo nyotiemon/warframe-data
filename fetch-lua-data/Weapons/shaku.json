@@ -1,0 +1,20 @@
+{
+  "Name": "Shaku",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 55
+  },
+  "CritChance": 0.075,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Nunchaku",
+  "StancePolarity": "D",
+  "FireRate": 1.17,
+  "WallAttack": 220,
+  "SlideAttack": 118,
+  "JumpAttack": 110,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Dark Split-Sword (Dual Swords)",
+  "Type": "Melee",
+  "Mastery": 5,
+  "Damage": {
+    "Radiation": 65
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.15,
+  "Class": "Dual Swords",
+  "StancePolarity": "Ability",
+  "FireRate": 1.17,
+  "WallAttack": 260,
+  "SlideAttack": 390,
+  "JumpAttack": 130,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

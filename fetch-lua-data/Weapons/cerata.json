@@ -1,0 +1,56 @@
+{
+  "Name": "Cerata",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Toxin": 44
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Glaive",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 132,
+  "WallElement": "Toxin",
+  "SlideAttack": 220,
+  "SlideElement": "Toxin",
+  "JumpAttack": 88,
+  "JumpElement": "Toxin",
+  "ChannelMult": 1.5,
+  "ThrowAttack": {
+    "Damage": {
+      "Impact": 20,
+      "Puncture": 160,
+      "Slash": 20,
+      "Toxin": 150
+    },
+    "StatusChance": 0.3,
+    "CritChance": 0.15,
+    "CritMultiplier": 2
+  },
+  "ChargedThrowAttack": {
+    "Damage": {
+      "Impact": 42,
+      "Puncture": 336,
+      "Slash": 42,
+      "Toxin": 220
+    },
+    "StatusChance": 0.33,
+    "CritChance": 0.15,
+    "CritMultiplier": 2,
+    "PunchThrough": 1
+  },
+  "Disposition": 5,
+  "Image": "PunctureGlaive.png",
+  "Bullet": {
+    "Type": "Thrown",
+    "Speed": 35
+  },
+  "Introduced": "[[Update 17#Update 17.9|Update 17.9]]",
+  "Conclave": true
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Venka",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 1.85,
+    "Puncture": 9.25,
+    "Slash": 25.9
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Claws",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 111,
+  "SlideAttack": 111,
+  "JumpAttack": 74,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

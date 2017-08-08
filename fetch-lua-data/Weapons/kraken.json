@@ -1,0 +1,24 @@
+{
+  "Name": "Kraken",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 33.8,
+    "Puncture": 5.6,
+    "Slash": 5.6
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 14,
+  "Reload": 2.5,
+  "FireRate": 4.42,
+  "Trigger": "Burst",
+  "BurstCount": 2,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

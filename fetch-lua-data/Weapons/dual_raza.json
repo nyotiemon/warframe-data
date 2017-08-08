@@ -1,0 +1,22 @@
+{
+  "Name": "Dual Raza",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 4.8,
+    "Puncture": 14.4,
+    "Slash": 28.8
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 3,
+  "StatusChance": 0.05,
+  "Class": "Dual Swords",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 192,
+  "SlideAttack": 288,
+  "JumpAttack": 96,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

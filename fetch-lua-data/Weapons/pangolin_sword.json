@@ -1,0 +1,25 @@
+{
+  "Name": "Pangolin Sword",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 1.85,
+    "Puncture": 5.55,
+    "Slash": 29.6
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.12,
+  "Class": "Sword",
+  "StancePolarity": "V",
+  "FireRate": 0.917,
+  "WallAttack": 148,
+  "SlideAttack": 79,
+  "JumpAttack": 74,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

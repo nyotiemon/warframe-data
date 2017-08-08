@@ -1,0 +1,27 @@
+{
+  "Name": "Dex Furis",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 2.5,
+    "Puncture": 11.2,
+    "Slash": 2.3
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 100,
+  "Reload": 2,
+  "FireRate": 20,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true,
+  "Family": "Furis"
+}

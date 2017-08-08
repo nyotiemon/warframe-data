@@ -1,0 +1,24 @@
+{
+  "Name": "Aklex",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 13,
+    "Puncture": 104,
+    "Slash": 13
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 12,
+  "Reload": 3,
+  "FireRate": 2,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lex",
+  "Disposition": 3,
+  "Conclave": true
+}

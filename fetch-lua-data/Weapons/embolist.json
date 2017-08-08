@@ -1,0 +1,23 @@
+{
+  "Name": "Embolist",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 8,
+  "Damage": {
+    "Toxin": 18.5
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 100,
+  "Reload": 1.5,
+  "FireRate": 10,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Dark Split-Sword (Heavy Blade)",
+  "Type": "Melee",
+  "Mastery": 5,
+  "Damage": {
+    "Radiation": 90
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Heavy Blade",
+  "StancePolarity": "Ability",
+  "FireRate": 0.917,
+  "WallAttack": 180,
+  "SlideAttack": 180,
+  "JumpAttack": 180,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

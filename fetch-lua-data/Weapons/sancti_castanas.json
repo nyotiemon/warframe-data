@@ -1,0 +1,26 @@
+{
+  "Name": "Sancti Castanas",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 6,
+  "Damage": {
+    "Electricity": 115
+  },
+  "Polarities": [
+    "V",
+    "V",
+    "D"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Magazine": 2,
+  "Reload": 1,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Active"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

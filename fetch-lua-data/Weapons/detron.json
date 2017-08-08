@@ -1,0 +1,28 @@
+{
+  "Name": "Detron",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 6,
+  "Damage": {
+    "Radiation": 280
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.2,
+  "Magazine": 5,
+  "Reload": 1,
+  "FireRate": 3.33,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Detron",
+  "Falloff": {
+    "StartRange": 13,
+    "EndRange": 26,
+    "Reduction": 0.65
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "Name": "Boar Prime",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 119.6,
+    "Puncture": 27.6,
+    "Slash": 36.8
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 20,
+  "Reload": 2.8,
+  "FireRate": 4.67,
+  "Trigger": "Auto",
+  "PelletCount": 9,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Disposition": 5,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

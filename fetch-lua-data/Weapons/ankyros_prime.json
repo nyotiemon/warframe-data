@@ -1,0 +1,30 @@
+{
+  "Name": "Ankyros Prime",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 26.6,
+    "Puncture": 5.7,
+    "Slash": 5.7
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Fist",
+  "StancePolarity": "R",
+  "FireRate": 1.25,
+  "WallAttack": 114,
+  "SlideAttack": 114,
+  "JumpAttack": 76,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

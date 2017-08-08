@@ -1,0 +1,27 @@
+{
+  "Name": "Azima",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 2,
+    "Puncture": 5,
+    "Slash": 13
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 75,
+  "Reload": 1.4,
+  "FireRate": 10,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

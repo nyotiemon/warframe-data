@@ -1,0 +1,22 @@
+{
+  "Name": "Magistar",
+  "Type": "Melee",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 64,
+    "Puncture": 12,
+    "Slash": 4
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Hammer",
+  "StancePolarity": "D",
+  "FireRate": 0.833,
+  "WallAttack": 160,
+  "SlideAttack": 160,
+  "JumpAttack": 160,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

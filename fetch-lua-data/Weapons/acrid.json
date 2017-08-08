@@ -1,0 +1,55 @@
+{
+  "Name": "Acrid",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 7,
+  "Damage": {
+    "Toxin": 35
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 15,
+  "Reload": 1.2,
+  "FireRate": 6.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 65
+  },
+  "Image": "Acrid2.png",
+  "Accuracy": 100,
+  "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
+  "NoiseLevel": "Alarming",
+  "MaxAmmo": 210,
+  "Disposition": 5,
+  "Cost": {
+    "Credits": 30000,
+    "BPCost": 15000,
+    "MarketCost": 225,
+    "Rush": 35,
+    "Time": 24,
+    "Parts": [
+      {
+        "Name": "Mutagen Mass",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 6000
+      },
+      {
+        "Name": "Nano Spores",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Forma",
+        "Type": "Item",
+        "Count": 1
+      }
+    ]
+  }
+}

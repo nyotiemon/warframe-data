@@ -1,0 +1,27 @@
+{
+  "Name": "Soma",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 1,
+    "Puncture": 4,
+    "Slash": 5
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 3,
+  "StatusChance": 0.07,
+  "Magazine": 100,
+  "Reload": 3,
+  "FireRate": 15,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Conclave": true
+}

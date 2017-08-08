@@ -1,0 +1,20 @@
+{
+  "Name": "Ignis Wraith",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 4,
+  "Damage": {
+    "Heat": 25
+  },
+  "CritChance": 0.12,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 200,
+  "Reload": 2,
+  "FireRate": 10,
+  "Trigger": "Held",
+  "Disposition": 2,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Name": "Tigris Prime",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 13,
+  "Damage": {
+    "Impact": 156,
+    "Puncture": 156,
+    "Slash": 1248
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 2,
+  "Reload": 1.8,
+  "FireRate": 2,
+  "Trigger": "Duplex-Auto",
+  "PelletCount": 8,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Traits": [
+    "Prime"
+  ],
+  "Image": "PrimeTigris342.png",
+  "Family": "Tigris",
+  "Introduced": "[[Update 19#Hotfix: The Silver Grove 3|Hotfix: The Silver Grove 3]]",
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Barrel",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Receiver",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Stock",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "MaxAmmo": 120,
+  "Conclave": true
+}

@@ -1,0 +1,23 @@
+{
+  "Name": "Twin Basolk",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Heat": 65
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.4,
+  "Class": "Dual Swords",
+  "StancePolarity": "Ability",
+  "FireRate": 1,
+  "WallAttack": 260,
+  "SlideAttack": 390,
+  "JumpAttack": 130,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

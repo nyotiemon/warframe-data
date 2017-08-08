@@ -1,0 +1,23 @@
+{
+  "Name": "Dual Toxocyst",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 7,
+    "Puncture": 56,
+    "Slash": 7
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.35,
+  "Magazine": 12,
+  "Reload": 2.3,
+  "FireRate": 1,
+  "Trigger": "Semi-Auto",
+  "Disposition": 4,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

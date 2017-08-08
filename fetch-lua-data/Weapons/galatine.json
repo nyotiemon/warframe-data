@@ -1,0 +1,60 @@
+{
+  "Name": "Galatine",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 3.1,
+    "Puncture": 3.1,
+    "Slash": 118.8
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Heavy Blade",
+  "StancePolarity": "D",
+  "FireRate": 1,
+  "WallAttack": 250,
+  "SlideAttack": 250,
+  "JumpAttack": 250,
+  "JumpRadius": 5,
+  "ChannelMult": 1.5,
+  "Stagger": "Yes",
+  "FinisherDamage": 200,
+  "Image": "Galatine_o.png",
+  "Family": "Galatine",
+  "Introduced": "[[Update 10#Update 10.2|Update 10.2]]",
+  "Disposition": 1,
+  "Cost": {
+    "Credits": 30000,
+    "BPCost": 25000,
+    "MarketCost": 175,
+    "Rush": 30,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Gallium",
+        "Type": "Resource",
+        "Count": 4
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 750
+      },
+      {
+        "Name": "Rubedo",
+        "Type": "Resource",
+        "Count": 500
+      },
+      {
+        "Name": "Alloy Plate",
+        "Type": "Resource",
+        "Count": 200
+      }
+    ]
+  },
+  "Conclave": true
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Castanas",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 3,
+  "Damage": {
+    "Electricity": 100
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 2,
+  "Reload": 1,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Active"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

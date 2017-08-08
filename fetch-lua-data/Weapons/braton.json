@@ -1,0 +1,24 @@
+{
+  "Name": "Braton",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 6.6,
+    "Puncture": 6.6,
+    "Slash": 6.8
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Magazine": 45,
+  "Reload": 2,
+  "FireRate": 8.75,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true,
+  "Family": "Braton"
+}

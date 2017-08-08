@@ -1,0 +1,31 @@
+{
+  "Name": "Euphona Prime",
+  "Type": "Secondary",
+  "Class": "Shotgun Pistol",
+  "Mastery": 14,
+  "Damage": {
+    "Impact": 292.5,
+    "Puncture": 16.25,
+    "Slash": 16.25
+  },
+  "Polarities": [
+    "V",
+    "V",
+    "V"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.02,
+  "Magazine": 5,
+  "Reload": 2,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 2,
+  "Traits": [
+    "Prime"
+  ],
+  "Conclave": true
+}

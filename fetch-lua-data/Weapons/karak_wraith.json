@@ -1,0 +1,26 @@
+{
+  "Name": "Karak Wraith",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 13.5,
+    "Puncture": 9,
+    "Slash": 7.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 60,
+  "Reload": 2,
+  "FireRate": 11.7,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

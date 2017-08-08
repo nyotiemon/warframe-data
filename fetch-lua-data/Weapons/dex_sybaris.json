@@ -1,0 +1,25 @@
+{
+  "Name": "Dex Sybaris",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 22.5,
+    "Puncture": 18.75,
+    "Slash": 33.75
+  },
+  "CritChance": 0.35,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 14,
+  "Reload": 1.5,
+  "FireRate": 4.17,
+  "Trigger": "Burst",
+  "BurstCount": 2,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 2,
+  "Conclave": true,
+  "Family": "Sybaris"
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Jat Kusar",
+  "Type": "Melee",
+  "Mastery": 10,
+  "Damage": {
+    "Heat": 80
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.35,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.05,
+  "Class": "Blade and Whip",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 320,
+  "WallElement": "Heat",
+  "SlideAttack": 171,
+  "SlideElement": "Heat",
+  "JumpAttack": 160,
+  "JumpElement": "Heat",
+  "JumpRadius": 10,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Introduced": "[[Update 21#Update 21.2|Update 21.2]]",
+  "Image": "JatKusar.png",
+  "Conclave": true
+}

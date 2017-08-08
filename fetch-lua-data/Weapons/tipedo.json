@@ -1,0 +1,25 @@
+{
+  "Name": "Tipedo",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 5,
+    "Slash": 40
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Staff",
+  "StancePolarity": "R",
+  "FireRate": 1.33,
+  "WallAttack": 83,
+  "SlideAttack": 107,
+  "JumpAttack": 100,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

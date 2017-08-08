@@ -1,0 +1,25 @@
+{
+  "Name": "Jaw Sword",
+  "Type": "Melee",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 2.2,
+    "Puncture": 8.8,
+    "Slash": 33
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Sword",
+  "StancePolarity": "R",
+  "FireRate": 0.917,
+  "WallAttack": 176,
+  "SlideAttack": 94,
+  "JumpAttack": 88,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

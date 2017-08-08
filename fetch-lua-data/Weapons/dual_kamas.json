@@ -1,0 +1,22 @@
+{
+  "Name": "Dual Kamas",
+  "Type": "Melee",
+  "Mastery": 1,
+  "Damage": {
+    "Impact": 2.1,
+    "Puncture": 4.2,
+    "Slash": 35.7
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.075,
+  "Class": "Dual Swords",
+  "StancePolarity": "Bar",
+  "FireRate": 1.17,
+  "WallAttack": 168,
+  "SlideAttack": 252,
+  "JumpAttack": 84,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Conclave": true
+}

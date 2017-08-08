@@ -1,0 +1,65 @@
+{
+  "Name": "Boltor Prime",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 5.5,
+    "Puncture": 49.5,
+    "Slash": 0
+  },
+  "Polarities": [
+    "D",
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 60,
+  "Reload": 2.4,
+  "FireRate": 10,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile",
+    "Speed": 100
+  },
+  "Disposition": 2,
+  "Conclave": true,
+  "Family": "Boltor",
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ],
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Barrel",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Receiver",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Stock",
+        "Type": "PrimePart",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 10
+      }
+    ]
+  },
+  "NoiseLevel": "Alarming",
+  "Accuracy": 50,
+  "MaxAmmo": 540,
+  "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
+  "Image": "DEPrimeBoltor.png"
+}

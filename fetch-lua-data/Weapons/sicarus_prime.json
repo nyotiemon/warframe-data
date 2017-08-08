@@ -1,0 +1,32 @@
+{
+  "Name": "Sicarus Prime",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 20,
+    "Puncture": 15,
+    "Slash": 15
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 24,
+  "Reload": 2,
+  "FireRate": 9.38,
+  "Trigger": "Burst",
+  "BurstCount": 3,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true,
+  "Family": "Sicarus",
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

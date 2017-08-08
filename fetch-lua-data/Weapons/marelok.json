@@ -1,0 +1,62 @@
+{
+  "Name": "Marelok",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 80,
+    "Puncture": 16,
+    "Slash": 64
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.3,
+  "Magazine": 6,
+  "Reload": 1.7,
+  "FireRate": 2,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Conclave": true,
+  "Family": "Marelok",
+  "Image": "GrineerLeverActionPistol.png",
+  "Introduced": "[[Update 12#Update 12.3|Update 12.3]]",
+  "Accuracy": 10,
+  "Users": [
+    "[[Shik Tal]] (Modified)"
+  ],
+  "Cost": {
+    "Credits": 30000,
+    "BPCost": 15000,
+    "MarketCost": 125,
+    "Rush": 35,
+    "Time": 24,
+    "Parts": [
+      {
+        "Name": "Detonite Injector",
+        "Type": "Resource",
+        "Count": 2
+      },
+      {
+        "Name": "Polymer Bundle",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Forma",
+        "Type": "Item",
+        "Count": 1
+      }
+    ]
+  }
+}

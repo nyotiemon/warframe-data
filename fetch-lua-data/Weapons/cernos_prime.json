@@ -1,0 +1,33 @@
+{
+  "Name": "Cernos Prime",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 324,
+    "Puncture": 18,
+    "Slash": 18
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.35,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 1,
+  "Reload": 1,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "Trigger": "Charge",
+  "PelletCount": 3,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Family": "Cernos",
+  "Disposition": 2,
+  "Traits": [
+    "Prime"
+  ],
+  "Conclave": true
+}

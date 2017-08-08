@@ -1,0 +1,23 @@
+{
+  "Name": "Grakata",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 4.4,
+    "Puncture": 3.7,
+    "Slash": 2.9
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 60,
+  "Reload": 2.4,
+  "FireRate": 20,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

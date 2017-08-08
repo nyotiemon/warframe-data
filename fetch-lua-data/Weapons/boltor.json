@@ -1,0 +1,27 @@
+{
+  "Name": "Boltor",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 2.5,
+    "Puncture": 20,
+    "Slash": 2.5
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Magazine": 60,
+  "Reload": 2.6,
+  "FireRate": 8.75,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 2,
+  "Conclave": true,
+  "Family": "Boltor"
+}

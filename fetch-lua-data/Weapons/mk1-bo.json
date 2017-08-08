@@ -1,0 +1,24 @@
+{
+  "Name": "MK1-Bo",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 40.5,
+    "Puncture": 4.5
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.125,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Staff",
+  "StancePolarity": "R",
+  "FireRate": 1,
+  "WallAttack": 75,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

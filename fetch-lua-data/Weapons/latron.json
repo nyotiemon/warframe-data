@@ -1,0 +1,26 @@
+{
+  "Name": "Latron",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 8.3,
+    "Puncture": 38.5,
+    "Slash": 8.2
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 15,
+  "Reload": 2.4,
+  "FireRate": 4.17,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

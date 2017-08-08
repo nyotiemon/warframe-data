@@ -1,0 +1,21 @@
+{
+  "Name": "Glaxion",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Cold": 12.5
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.35,
+  "Magazine": 300,
+  "Reload": 1.5,
+  "FireRate": 20,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  },
+  "Conclave": true
+}

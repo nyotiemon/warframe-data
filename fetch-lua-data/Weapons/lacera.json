@@ -1,0 +1,23 @@
+{
+  "Name": "Lacera",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Electricity": 80
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.45,
+  "Class": "Blade and Whip",
+  "StancePolarity": "V",
+  "FireRate": 0.917,
+  "WallAttack": 320,
+  "SlideAttack": 171,
+  "JumpAttack": 160,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

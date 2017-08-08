@@ -1,0 +1,25 @@
+{
+  "Name": "Ripkas",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 2.8,
+    "Puncture": 5.5,
+    "Slash": 46.8
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Class": "Claws",
+  "StancePolarity": "V",
+  "FireRate": 0.883,
+  "WallAttack": 165,
+  "SlideAttack": 165,
+  "JumpAttack": 110,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

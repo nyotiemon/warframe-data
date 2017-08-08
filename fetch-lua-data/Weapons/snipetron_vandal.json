@@ -1,0 +1,26 @@
+{
+  "Name": "Snipetron Vandal",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 10,
+    "Puncture": 180,
+    "Slash": 10
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 6,
+  "Reload": 2,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

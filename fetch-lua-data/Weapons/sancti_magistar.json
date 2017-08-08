@@ -1,0 +1,25 @@
+{
+  "Name": "Sancti Magistar",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 96,
+    "Puncture": 18,
+    "Slash": 6
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Hammer",
+  "StancePolarity": "D",
+  "FireRate": 1,
+  "WallAttack": 240,
+  "SlideAttack": 240,
+  "JumpAttack": 240,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

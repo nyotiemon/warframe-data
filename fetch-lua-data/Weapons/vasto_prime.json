@@ -1,0 +1,31 @@
+{
+  "Name": "Vasto Prime",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 9,
+    "Puncture": 9,
+    "Slash": 42
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.15,
+  "Magazine": 6,
+  "Reload": 1,
+  "FireRate": 5.42,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Name": "Afuris",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 3,
+    "Puncture": 14,
+    "Slash": 3
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.08,
+  "Magazine": 70,
+  "Reload": 2.8,
+  "FireRate": 20,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Family": "Furis",
+  "Image": "Afuris.png",
+  "Introduced": "[[Update 5#Update 5.3|Update 5.3]]",
+  "Users": [
+    "[[Junction|Valkyr Specter]]"
+  ],
+  "MaxAmmo": 210,
+  "Accuracy": 8.7,
+  "NoiseLevel": "Alarming",
+  "Disposition": 5,
+  "Cost": {
+    "Credits": 20000,
+    "BPCost": 15000,
+    "MarketCost": 225,
+    "Rush": 25,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Furis",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Furis",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Orokin Cell",
+        "Type": "Resource",
+        "Count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Name": "Akbronco Prime",
+  "Type": "Secondary",
+  "Class": "Dual Shotguns",
+  "Mastery": 11,
+  "Damage": {
+    "Impact": 280,
+    "Puncture": 35,
+    "Slash": 35
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 8,
+  "Reload": 2.3,
+  "FireRate": 5.5,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Image": "DEPrimeDualBroncos.png",
+  "Disposition": 4,
+  "Accuracy": 3.7,
+  "MaxAmmo": 210,
+  "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
+  "Family": "Bronco",
+  "NoiseLevel": "Alarming",
+  "Cost": {
+    "Credits": 15000,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Bronco Prime",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Bronco Prime",
+        "Type": "Weapon",
+        "Count": 1
+      },
+      {
+        "Name": "Link",
+        "Type": "PrimePart",
+        "Count": 1
+      }
+    ]
+  },
+  "Traits": [
+    "Prime",
+    "Never Vaulted"
+  ],
+  "Falloff": {
+    "StartRange": 9,
+    "EndRange": 18,
+    "Reduction": 0.74
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Akzani",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 2,
+    "Puncture": 9.1,
+    "Slash": 1.9
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 100,
+  "Reload": 2,
+  "FireRate": 20,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "Lesion",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 20,
+    "Puncture": 5,
+    "Slash": 75
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 1,
+  "WallAttack": 167,
+  "SlideAttack": 222,
+  "JumpAttack": 200,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

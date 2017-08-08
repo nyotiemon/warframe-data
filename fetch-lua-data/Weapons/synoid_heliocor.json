@@ -1,0 +1,25 @@
+{
+  "Name": "Synoid Heliocor",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 102,
+    "Puncture": 12,
+    "Slash": 6
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 1.08,
+  "WallAttack": 240,
+  "SlideAttack": 240,
+  "JumpAttack": 240,
+  "ChannelMult": 1.8,
+  "Disposition": 3,
+  "Traits": [
+    "Syndicate",
+    "Cephalon Suda"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Telos Boltace",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Impact": 8.5,
+    "Puncture": 72.3,
+    "Slash": 4.2
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Tonfa",
+  "StancePolarity": "V",
+  "FireRate": 1.08,
+  "WallAttack": 340,
+  "SlideAttack": 510,
+  "JumpAttack": 170,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Traits": [
+    "Syndicate",
+    "Arbiters of Hexis"
+  ],
+  "Conclave": true
+}

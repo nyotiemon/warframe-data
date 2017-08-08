@@ -1,0 +1,25 @@
+{
+  "Name": "Hirudo",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 8.3,
+    "Puncture": 44,
+    "Slash": 2.7
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 3,
+  "StatusChance": 0.05,
+  "Class": "Sparring",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 165,
+  "SlideAttack": 220,
+  "JumpAttack": 110,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

@@ -1,0 +1,30 @@
+{
+  "Name": "Akstiletto Prime",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 21.6,
+    "Puncture": 3.6,
+    "Slash": 10.8
+  },
+  "Polarities": [
+    "Bar",
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 40,
+  "Reload": 1.1,
+  "FireRate": 7.08,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Traits": [
+    "Prime"
+  ],
+  "Conclave": true
+}

@@ -1,0 +1,22 @@
+{
+  "Name": "Rakta Dark Dagger",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Radiation": 50
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Dagger",
+  "StancePolarity": "Bar",
+  "FireRate": 1,
+  "WallAttack": 150,
+  "SlideAttack": 107,
+  "JumpAttack": 100,
+  "ChannelMult": 1.5,
+  "Disposition": 1
+}

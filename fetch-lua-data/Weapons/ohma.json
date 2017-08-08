@@ -1,0 +1,20 @@
+{
+  "Name": "Ohma",
+  "Type": "Melee",
+  "Mastery": 8,
+  "Damage": {
+    "Electricity": 100
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Class": "Tonfa",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 400,
+  "SlideAttack": 600,
+  "JumpAttack": 200,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

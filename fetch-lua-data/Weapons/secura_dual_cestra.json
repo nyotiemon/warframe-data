@@ -1,0 +1,30 @@
+{
+  "Name": "Secura Dual Cestra",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 6,
+    "Puncture": 24
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.075,
+  "Magazine": 100,
+  "Reload": 3.5,
+  "FireRate": 12.5,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Traits": [
+    "Syndicate",
+    "Perrin Sequence"
+  ],
+  "Disposition": 5,
+  "Conclave": true
+}

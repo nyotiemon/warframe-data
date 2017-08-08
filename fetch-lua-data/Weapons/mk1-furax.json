@@ -1,0 +1,22 @@
+{
+  "Name": "MK1-Furax",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 21,
+    "Puncture": 4.5,
+    "Slash": 4.5
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Fist",
+  "StancePolarity": "D",
+  "FireRate": 1,
+  "WallAttack": 90,
+  "SlideAttack": 90,
+  "JumpAttack": 60,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Tysis",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 4,
+  "Damage": {
+    "Corrosive": 35
+  },
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.5,
+  "Magazine": 15,
+  "Reload": 1.2,
+  "FireRate": 2.5,
+  "Trigger": "Semi-Auto",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

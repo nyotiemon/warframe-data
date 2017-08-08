@@ -1,0 +1,21 @@
+{
+  "Name": "Furax Wraith",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 24.5,
+    "Puncture": 5.3,
+    "Slash": 5.2
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.1,
+  "Class": "Fist",
+  "StancePolarity": "D",
+  "FireRate": 1.08,
+  "WallAttack": 105,
+  "SlideAttack": 105,
+  "JumpAttack": 70,
+  "ChannelMult": 1.8,
+  "Disposition": 5
+}

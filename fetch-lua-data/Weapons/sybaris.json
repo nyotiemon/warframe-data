@@ -1,0 +1,25 @@
+{
+  "Name": "Sybaris",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 23.1,
+    "Puncture": 23.1,
+    "Slash": 23.8
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 10,
+  "Reload": 2,
+  "FireRate": 3.98,
+  "Trigger": "Burst",
+  "BurstCount": 2,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 2,
+  "Conclave": true,
+  "Family": "Sybaris"
+}

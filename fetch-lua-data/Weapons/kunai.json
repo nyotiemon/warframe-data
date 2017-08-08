@@ -1,0 +1,27 @@
+{
+  "Name": "Kunai",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 33.8,
+    "Slash": 6.7
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.025,
+  "Magazine": 10,
+  "Reload": 0.8,
+  "FireRate": 3.33,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

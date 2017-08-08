@@ -1,0 +1,27 @@
+{
+  "Name": "Furis",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 3.1,
+    "Puncture": 14,
+    "Slash": 2.9
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.08,
+  "Magazine": 35,
+  "Reload": 1.4,
+  "FireRate": 10,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true,
+  "Family": "Furis"
+}

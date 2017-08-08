@@ -1,0 +1,28 @@
+{
+  "Name": "Mutalist Cernos",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 202.5,
+    "Puncture": 11.25,
+    "Slash": 11.25
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.45,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

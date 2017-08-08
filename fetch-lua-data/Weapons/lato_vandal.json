@@ -1,0 +1,27 @@
+{
+  "Name": "Lato Vandal",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 7.5,
+    "Puncture": 12.5,
+    "Slash": 30
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 2,
+  "StatusChance": 0.05,
+  "Magazine": 15,
+  "Reload": 1.2,
+  "FireRate": 5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Lato",
+  "Disposition": 5,
+  "Conclave": true
+}

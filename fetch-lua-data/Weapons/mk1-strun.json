@@ -1,0 +1,27 @@
+{
+  "Name": "MK1-Strun",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 99,
+    "Puncture": 27,
+    "Slash": 54
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 6,
+  "Reload": 3.8,
+  "FireRate": 2.08,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 6,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

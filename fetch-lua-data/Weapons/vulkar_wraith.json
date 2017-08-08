@@ -1,0 +1,25 @@
+{
+  "Name": "Vulkar Wraith",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 225,
+    "Puncture": 25
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 8,
+  "Reload": 3,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true
+}

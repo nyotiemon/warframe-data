@@ -1,0 +1,26 @@
+{
+  "Name": "Viper",
+  "Type": "Secondary",
+  "Class": "Pistol",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 9.6,
+    "Puncture": 1.6,
+    "Slash": 4.8
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.01,
+  "Magazine": 14,
+  "Reload": 1.1,
+  "FireRate": 14.38,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

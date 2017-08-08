@@ -1,0 +1,22 @@
+{
+  "Name": "Boltace",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 8.5,
+    "Puncture": 68,
+    "Slash": 8.5
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.25,
+  "Class": "Tonfa",
+  "StancePolarity": "V",
+  "FireRate": 0.917,
+  "WallAttack": 340,
+  "SlideAttack": 510,
+  "JumpAttack": 170,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

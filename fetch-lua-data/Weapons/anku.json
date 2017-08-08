@@ -1,0 +1,25 @@
+{
+  "Name": "Anku",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 10.5,
+    "Puncture": 56,
+    "Slash": 3.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Scythe",
+  "StancePolarity": "Ability",
+  "FireRate": 1.08,
+  "WallAttack": 140,
+  "SlideAttack": 140,
+  "JumpAttack": 140,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

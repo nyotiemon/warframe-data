@@ -1,0 +1,26 @@
+{
+  "Name": "Akjagara",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 9,
+    "Puncture": 9,
+    "Slash": 42
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.2,
+  "Magazine": 24,
+  "Reload": 2.3,
+  "FireRate": 8.33,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

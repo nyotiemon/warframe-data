@@ -1,0 +1,25 @@
+{
+  "Name": "Tonbo",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 8,
+    "Puncture": 12,
+    "Slash": 60
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 1,
+  "WallAttack": 133,
+  "SlideAttack": 178,
+  "JumpAttack": 160,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

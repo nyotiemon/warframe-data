@@ -1,0 +1,29 @@
+{
+  "Name": "Cernos",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 180,
+    "Puncture": 10,
+    "Slash": 10
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.35,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 1,
+  "Reload": 0.6,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Family": "Cernos",
+  "Disposition": 2,
+  "Conclave": true
+}

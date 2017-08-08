@@ -1,0 +1,27 @@
+{
+  "Name": "Supra Vandal",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 10,
+  "Damage": {
+    "Impact": 4.5,
+    "Puncture": 33.8,
+    "Slash": 6.7
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Magazine": 300,
+  "Reload": 3,
+  "FireRate": 12.5,
+  "Trigger": "Auto-Spool",
+  "Disposition": 4,
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Conclave": true
+}

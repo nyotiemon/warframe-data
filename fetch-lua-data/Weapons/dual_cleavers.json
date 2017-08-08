@@ -1,0 +1,25 @@
+{
+  "Name": "Dual Cleavers",
+  "Type": "Melee",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 5.25,
+    "Puncture": 5.25,
+    "Slash": 24.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 3,
+  "StatusChance": 0.1,
+  "Class": "Dual Swords",
+  "StancePolarity": "Bar",
+  "FireRate": 0.833,
+  "WallAttack": 140,
+  "SlideAttack": 210,
+  "JumpAttack": 70,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

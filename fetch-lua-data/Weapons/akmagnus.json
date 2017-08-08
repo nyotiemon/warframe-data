@@ -1,0 +1,23 @@
+{
+  "Name": "Akmagnus",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 20.3,
+    "Puncture": 12.4,
+    "Slash": 12.4
+  },
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 16,
+  "Reload": 3,
+  "FireRate": 8.33,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

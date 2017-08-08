@@ -1,0 +1,27 @@
+{
+  "Name": "Nikana",
+  "Type": "Melee",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 2.25,
+    "Puncture": 4.5,
+    "Slash": 38.25
+  },
+  "Polarities": [
+    "V",
+    "D"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Nikana",
+  "StancePolarity": "V",
+  "FireRate": 0.917,
+  "WallAttack": 96,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true,
+  "Family": "Nikana"
+}

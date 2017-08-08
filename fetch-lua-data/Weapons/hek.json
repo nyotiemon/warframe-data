@@ -1,0 +1,64 @@
+{
+  "Name": "Hek",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 4,
+  "Damage": {
+    "Impact": 78.75,
+    "Puncture": 341.25,
+    "Slash": 105
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 4,
+  "Reload": 2,
+  "FireRate": 2.17,
+  "Trigger": "Semi-Auto",
+  "PelletCount": 7,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Conclave": true,
+  "Image": "Hek.png",
+  "Disposition": 1,
+  "Users": [
+    "[[The Grustrag Three/Vem Tabook|Vem Tabook]] (Modified)",
+    "[[Executioners/Dhurnam|Dhurnam]](Twin)",
+    "[[Kuva Trooper]]"
+  ],
+  "Accuracy": 9.1,
+  "NoiseLevel": "Alarming",
+  "MaxAmmo": 120,
+  "Family": "Hek",
+  "Introduced": "[[Update 5#Update 5.2|Update 5.2]]",
+  "Cost": {
+    "Credits": 25000,
+    "BPCost": 25000,
+    "MarketCost": 225,
+    "Rush": 25,
+    "Time": 24,
+    "Parts": [
+      {
+        "Name": "Neurodes",
+        "Type": "Resource",
+        "Count": 5
+      },
+      {
+        "Name": "Circuits",
+        "Type": "Resource",
+        "Count": 900
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 1200
+      },
+      {
+        "Name": "Rubedo",
+        "Type": "Resource",
+        "Count": 1100
+      }
+    ]
+  }
+}

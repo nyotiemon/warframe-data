@@ -1,0 +1,31 @@
+{
+  "Name": "Soma Prime",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 1.2,
+    "Puncture": 4.8,
+    "Slash": 6
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 3,
+  "StatusChance": 0.1,
+  "Magazine": 200,
+  "Reload": 3,
+  "FireRate": 15,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 1,
+  "Conclave": true,
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

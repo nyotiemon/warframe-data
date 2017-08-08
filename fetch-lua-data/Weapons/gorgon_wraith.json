@@ -1,0 +1,26 @@
+{
+  "Name": "Gorgon Wraith",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 23,
+    "Puncture": 2.7,
+    "Slash": 1.3
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Magazine": 90,
+  "Reload": 3,
+  "FireRate": 13.3,
+  "Trigger": "Auto-Spool",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Family": "Gorgon",
+  "MaxAmmo": 540,
+  "Spool": 10,
+  "Disposition": 4,
+  "Conclave": true
+}

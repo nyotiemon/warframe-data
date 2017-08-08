@@ -1,0 +1,25 @@
+{
+  "Name": "Kesheg",
+  "Type": "Melee",
+  "Mastery": 7,
+  "Damage": {
+    "Impact": 42,
+    "Puncture": 10.5,
+    "Slash": 52.5
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.075,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.1,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 0.833,
+  "WallAttack": 175,
+  "SlideAttack": 233,
+  "JumpAttack": 210,
+  "ChannelMult": 1.5,
+  "Disposition": 4,
+  "Conclave": true
+}

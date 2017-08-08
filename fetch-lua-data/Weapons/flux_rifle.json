@@ -1,0 +1,22 @@
+{
+  "Name": "Flux Rifle",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 2.25,
+    "Puncture": 2.25,
+    "Slash": 18
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 200,
+  "Reload": 2,
+  "FireRate": 10,
+  "Trigger": "Held",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Discharge"
+  }
+}

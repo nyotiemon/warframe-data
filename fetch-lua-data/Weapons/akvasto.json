@@ -1,0 +1,23 @@
+{
+  "Name": "Akvasto",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 12.5,
+    "Puncture": 12.5,
+    "Slash": 25
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.05,
+  "Magazine": 12,
+  "Reload": 1.8,
+  "FireRate": 10,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

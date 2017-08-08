@@ -1,0 +1,32 @@
+{
+  "Name": "Hikou Prime",
+  "Type": "Secondary",
+  "Class": "Thrown",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 3.2,
+    "Puncture": 27.2,
+    "Slash": 1.6
+  },
+  "Polarities": [
+    "V",
+    "V"
+  ],
+  "CritChance": 0.025,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.15,
+  "Magazine": 26,
+  "Reload": 0.5,
+  "FireRate": 5.83,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 1,
+  "Conclave": true,
+  "Family": "Hikou",
+  "Traits": [
+    "Prime",
+    "Vaulted"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Attica",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 6.25,
+    "Puncture": 93.75,
+    "Slash": 25
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 20,
+  "Reload": 2.8,
+  "FireRate": 3.67,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 5,
+  "Conclave": true
+}

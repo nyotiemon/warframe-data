@@ -1,0 +1,26 @@
+{
+  "Name": "Zhuge",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 75,
+    "Slash": 20
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.35,
+  "Magazine": 20,
+  "Reload": 2.5,
+  "FireRate": 4.17,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

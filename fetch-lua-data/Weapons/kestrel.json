@@ -1,0 +1,85 @@
+{
+  "Name": "Kestrel",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 24.5,
+    "Puncture": 5.3,
+    "Slash": 5.2
+  },
+  "Polarities": [
+    "V",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Glaive",
+  "StancePolarity": "Bar",
+  "FireRate": 1.08,
+  "WallAttack": 105,
+  "SlideAttack": 175,
+  "JumpAttack": 70,
+  "ChannelMult": 1.5,
+  "ThrowAttack": {
+    "Damage": {
+      "Impact": 120,
+      "Puncture": 15,
+      "Slash": 15,
+      "Blast": 100
+    },
+    "StatusChance": 0.1,
+    "CritChance": 0.1,
+    "CritMultiplier": 2
+  },
+  "ChargedThrowAttack": {
+    "Damage": {
+      "Impact": 176,
+      "Puncture": 22,
+      "Slash": 22,
+      "Blast": 150
+    },
+    "StatusChance": 0.12,
+    "CritChance": 0.12,
+    "CritMultiplier": 2.2,
+    "PunchThrough": 1
+  },
+  "Image": "Kestrel.png",
+  "Introduced": "[[Update 8#Update 8.1|Update 8.1]]",
+  "Bullet": {
+    "Type": "Thrown",
+    "Speed": 30,
+    "Range": 23
+  },
+  "Disposition": 5,
+  "Cost": {
+    "Credits": 15000,
+    "BPCost": 20000,
+    "MarketCost": 150,
+    "Rush": 50,
+    "Time": 12,
+    "Parts": [
+      {
+        "Name": "Morphics",
+        "Type": "Resource",
+        "Count": 8
+      },
+      {
+        "Name": "Ferrite",
+        "Type": "Resource",
+        "Count": 4800
+      },
+      {
+        "Name": "Nano Spores",
+        "Type": "Resource",
+        "Count": 5000
+      },
+      {
+        "Name": "Salvage",
+        "Type": "Resource",
+        "Count": 4000
+      }
+    ]
+  },
+  "Conclave": true
+}

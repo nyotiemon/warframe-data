@@ -1,0 +1,22 @@
+{
+  "Name": "Fragor",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 80.5,
+    "Puncture": 17.3,
+    "Slash": 17.2
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 0.833,
+  "WallAttack": 230,
+  "SlideAttack": 230,
+  "JumpAttack": 230,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

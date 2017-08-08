@@ -1,0 +1,26 @@
+{
+  "Name": "Grinlok",
+  "Type": "Primary",
+  "Class": "Rifle",
+  "Mastery": 5,
+  "Damage": {
+    "Impact": 60,
+    "Puncture": 12,
+    "Slash": 48
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.35,
+  "Magazine": 6,
+  "Reload": 2.1,
+  "FireRate": 1.67,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 4,
+  "Conclave": true
+}

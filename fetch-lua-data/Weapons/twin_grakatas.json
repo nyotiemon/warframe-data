@@ -1,0 +1,26 @@
+{
+  "Name": "Twin Grakatas",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 8,
+    "Puncture": 6.7,
+    "Slash": 5.3
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 120,
+  "Reload": 3,
+  "FireRate": 20,
+  "Trigger": "Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 2,
+  "Conclave": true
+}

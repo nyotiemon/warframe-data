@@ -1,0 +1,25 @@
+{
+  "Name": "Kohm",
+  "Type": "Primary",
+  "Class": "Shotgun",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 6,
+    "Puncture": 6,
+    "Slash": 18
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Magazine": 245,
+  "Reload": 2,
+  "FireRate": 3.67,
+  "Trigger": "Auto-Spool",
+  "Disposition": 5,
+  "Bullet": {
+    "Type": "Hit-Scan"
+  }
+}

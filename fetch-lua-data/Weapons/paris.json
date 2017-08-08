@@ -1,0 +1,29 @@
+{
+  "Name": "Paris",
+  "Type": "Primary",
+  "Class": "Bow",
+  "Mastery": 0,
+  "Damage": {
+    "Impact": 9,
+    "Puncture": 144,
+    "Slash": 27
+  },
+  "Polarities": [
+    "Bar"
+  ],
+  "CritChance": 0.3,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Magazine": 1,
+  "Reload": 0.7,
+  "FireRate": 1,
+  "ChargeTime": 1,
+  "MaxAmmo": 72,
+  "Trigger": "Charge",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Family": "Paris",
+  "Disposition": 3,
+  "Conclave": true
+}

@@ -1,0 +1,21 @@
+{
+  "Name": "Sydon",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 3.8,
+    "Puncture": 71.3
+  },
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.25,
+  "Class": "Polearm",
+  "StancePolarity": "Ability",
+  "FireRate": 0.917,
+  "WallAttack": 125,
+  "SlideAttack": 167,
+  "JumpAttack": 150,
+  "ChannelMult": 1.5,
+  "Disposition": 2,
+  "Conclave": true
+}

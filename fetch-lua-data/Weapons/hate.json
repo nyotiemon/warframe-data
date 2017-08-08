@@ -1,0 +1,22 @@
+{
+  "Name": "Hate",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 10.5,
+    "Puncture": 10.5,
+    "Slash": 49
+  },
+  "CritChance": 0.2,
+  "CritMultiplier": 2.5,
+  "StatusChance": 0.15,
+  "Class": "Scythe",
+  "StancePolarity": "Bar",
+  "FireRate": 0.917,
+  "WallAttack": 140,
+  "SlideAttack": 140,
+  "JumpAttack": 140,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}

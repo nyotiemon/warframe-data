@@ -1,0 +1,20 @@
+{
+  "Name": "Lecta",
+  "Type": "Melee",
+  "Mastery": 0,
+  "Damage": {
+    "Electricity": 45
+  },
+  "CritChance": 0.05,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.25,
+  "Class": "Whip",
+  "StancePolarity": "D",
+  "FireRate": 1,
+  "WallAttack": 180,
+  "SlideAttack": 96,
+  "JumpAttack": 90,
+  "ChannelMult": 1.5,
+  "Disposition": 1,
+  "Conclave": true
+}

@@ -1,0 +1,26 @@
+{
+  "Name": "Vectis",
+  "Type": "Primary",
+  "Class": "Sniper",
+  "Mastery": 3,
+  "Damage": {
+    "Impact": 90,
+    "Puncture": 78.8,
+    "Slash": 56.3
+  },
+  "Polarities": [
+    "V"
+  ],
+  "CritChance": 0.25,
+  "CritMultiplier": 2,
+  "StatusChance": 0.3,
+  "Magazine": 1,
+  "Reload": 0.9,
+  "FireRate": 1.5,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Hit-Scan"
+  },
+  "Disposition": 3,
+  "Conclave": true
+}

@@ -1,0 +1,31 @@
+{
+  "Name": "Telos Akbolto",
+  "Type": "Secondary",
+  "Class": "Dual Pistols",
+  "Mastery": 6,
+  "Damage": {
+    "Impact": 5,
+    "Puncture": 45
+  },
+  "Polarities": [
+    "D",
+    "Bar"
+  ],
+  "CritChance": 0.1,
+  "CritMultiplier": 2,
+  "StatusChance": 0.125,
+  "Magazine": 30,
+  "Reload": 2.6,
+  "FireRate": 10,
+  "Trigger": "Semi-Auto",
+  "Bullet": {
+    "Type": "Projectile"
+  },
+  "Traits": [
+    "Syndicate",
+    "Arbiters of Hexis"
+  ],
+  "Disposition": 2,
+  "Family": "Bolto",
+  "Conclave": true
+}

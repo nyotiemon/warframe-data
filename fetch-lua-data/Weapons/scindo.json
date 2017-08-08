@@ -1,0 +1,22 @@
+{
+  "Name": "Scindo",
+  "Type": "Melee",
+  "Mastery": 2,
+  "Damage": {
+    "Impact": 10,
+    "Puncture": 10,
+    "Slash": 80
+  },
+  "CritChance": 0.15,
+  "CritMultiplier": 1.5,
+  "StatusChance": 0.1,
+  "Class": "Heavy Blade",
+  "StancePolarity": "V",
+  "FireRate": 0.917,
+  "WallAttack": 200,
+  "SlideAttack": 200,
+  "JumpAttack": 200,
+  "ChannelMult": 1.5,
+  "Disposition": 3,
+  "Conclave": true
+}

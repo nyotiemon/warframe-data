@@ -1,0 +1,23 @@
+{
+  "Name": "Sibear",
+  "Type": "Melee",
+  "Mastery": 6,
+  "Damage": {
+    "Cold": 130
+  },
+  "Polarities": [
+    "D"
+  ],
+  "CritChance": 0.15,
+  "CritMultiplier": 2,
+  "StatusChance": 0.1,
+  "Class": "Hammer",
+  "StancePolarity": "V",
+  "FireRate": 1,
+  "WallAttack": 260,
+  "SlideAttack": 260,
+  "JumpAttack": 260,
+  "ChannelMult": 1.5,
+  "Disposition": 5,
+  "Conclave": true
+}
