@@ -15,9 +15,10 @@ script, and then scrubbing the wikia pages manually for other entries.
 
 ## Usage
 
-- `npm run fetch-wikia`: Fetches data from the `Module:Weapons/data` script. Output should be in `/wikia-data-json`.
-- `npm run json-to-lua`: Converts said fetched (and possibly edited) json back into the lua format. Output is 
-in `/wikia-data/weapon-data.lua`.
-  - This requires that you've run `fetch-wikia` at least once, obviously.
+- `npm run fetch-lua`: Fetches data from the `Module:Weapons/data` script.
+  Output should be in `/fetch-lua-data`.
+- `npm run export-lua`: Converts said fetched (and possibly edited) json back into the lua format. 
+  Output is in `/export-lua/weapon-data.lua`.
+  - This requires that you've run `fetch-lua` at least once, obviously.
 
-Manual scrubbing controls still WIP.
+Manual scrubbing usage is still WIP.
