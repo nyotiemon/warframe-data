@@ -12,7 +12,6 @@ script, and then scrubbing the wikia pages manually for other entries.
 ## Requirements
 
 - node v8, npm 5
-- lua 5.1+ globally installed
 
 ## Usage
 

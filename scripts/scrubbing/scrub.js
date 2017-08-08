@@ -1,4 +1,3 @@
-const r = require('rethinkdb');
 const fs = require('fs-extra');
 const request = require('request-promise-native');
 const parseObjects = require('./parsing/parse-objects').default;
@@ -70,7 +69,7 @@ fs.emptyDir('./scrubbed').then(() => Promise.all([
         cats = execs.filter(a => a && a.length > 1).map(a => a[1]);
       }
 
-      const id = main.name.replace(/[^\w-_]/, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
+      const id = main.name.replace(/[^\w-_]+/g, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
 
       main.wiki_link = result.url;
       main.categories = cats;

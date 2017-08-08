@@ -1,8 +1,17 @@
 # Notes
 
+## Weapons
+
+http://warframe.wikia.com/wiki/Template:WeaponInfoboxU11
+http://warframe.wikia.com/wiki/Template:WeaponInfoboxAutomatic
+
+## Mods
+
+http://warframe.wikia.com/wiki/Template:ModBox
+
 ## Warframes
 
-- Health and Shields get a 3.0x multipler at rank 30
+- Health and Shields get a 3.0x multiplier at rank 30
 - Armor stays the same
 - Energy gets +0.5x at rank 30
 
