@@ -22,3 +22,9 @@ script, and then scrubbing the wikia pages manually for other entries.
   - This requires that you've run `fetch-lua` at least once, obviously.
 
 Manual scrubbing usage is still WIP.
+
+## License
+
+Data that is fetched is under CC-BY-SA, owned by the contributors to the [Warframe Wiki](http://warframe.wikia.com/wiki/WARFRAME_Wiki).
+
+Code is under MIT.
