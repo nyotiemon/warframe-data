@@ -1,3 +1,10 @@
 node_modules/
 .vscode/
+<<<<<<< HEAD
 /data/
+=======
+data/
+scrubbed/
+fetch-lua-data/
+export-lua/
+>>>>>>> master
