@@ -1,0 +1,22 @@
+{
+  "name": "warframe-data",
+  "version": "0.1.0",
+  "description": "Data for Warframe, in JSON, scrubbed from the Wikia",
+  "private": "true",
+  "scripts": {
+    "fetch-wikia": "node ./wikia-scripts/fetch-data.js",
+    "json-to-lua": "node ./wikia-scripts/json-to-lua.js"
+  },
+  "author": "Michael Fedora",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.1",
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^4.0.0",
+    "@types/node": "^8.0.19",
+    "@types/request-promise-native": "^1.0.6"
+  }
+}
