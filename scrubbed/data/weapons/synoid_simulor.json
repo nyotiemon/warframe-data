@@ -1,0 +1,40 @@
+{
+  "name": "Synoid Simulor",
+  "image": "SyndicateCSSimulor.png",
+  "mastery_level": 12,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Active",
+  "noise_level": "Alarming",
+  "rate_of_fire": 2.67,
+  "accuracy": 100,
+  "clip": 15,
+  "max_ammo": 75,
+  "reload": 2,
+  "disposition": 1,
+  "stat_proc": 35,
+  "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+  "elemental_damage": "20.0-50.0 <small>(on merge)</small>",
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "aoe": {
+    "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+    "elemental_damage": "50.0/sec <small><nowiki>[</nowiki>''citation needed''<nowiki>]</nowiki></small>"
+  },
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+    "elemental_damage": 75
+  },
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|D}}{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Synoid_Simulor",
+  "categories": [
+    "Cephalon",
+    "Update 17",
+    "Primary Weapons",
+    "Magnetic Damage",
+    "Syndicate Offerings",
+    "Electricity Damage",
+    "Weapons",
+    "Assault Rifle"
+  ]
+}

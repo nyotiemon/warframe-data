@@ -1,0 +1,33 @@
+{
+  "name": "Soma Prime",
+  "image": "PrimeSoma.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "45.0m",
+  "rate_of_fire": 15,
+  "accuracy": 28.6,
+  "clip": 200,
+  "max_ammo": 800,
+  "reload": 3,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 1,
+  "stat_proc": 10,
+  "physical_damage": 12,
+  "impact_damage": 1.2,
+  "puncture_damage": 4.8,
+  "slash_damage": 6,
+  "crit_chance": 30,
+  "crit_damage": 3,
+  "polarities": "2x {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Soma_Prime",
+  "categories": [
+    "Update 15",
+    "Prime",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Assault Rifle"
+  ]
+}

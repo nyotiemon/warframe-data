@@ -1,0 +1,29 @@
+{
+  "name": "Onorix",
+  "image": "Archaxe.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 5,
+  "attack_rate": 1,
+  "physical_damage": 290,
+  "impact_damage": 87,
+  "puncture_damage": 58,
+  "slash_damage": 145,
+  "crit_chance": 15,
+  "crit_damage": 1.3,
+  "slam": {
+    "physical_damage": 290
+  },
+  "slide": {
+    "physical_damage": 621
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Onorix",
+  "categories": [
+    "Archwing",
+    "Update 15",
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Melee",
+    "Slash Damage Weapons"
+  ]
+}

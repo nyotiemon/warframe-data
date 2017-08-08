@@ -1,0 +1,32 @@
+{
+  "name": "Synapse",
+  "image": "U10InfPrimary.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Continuous",
+  "noise_level": "25.0m",
+  "rate_of_fire": 10,
+  "accuracy": 12.5,
+  "clip": 100,
+  "max_ammo": 540,
+  "reload": 1.5,
+  "disposition": "{{Icon|Dis|5|text}}",
+  "stat_proc": 10,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 12.5,
+  "crit_chance": 50,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Synapse",
+  "categories": [
+    "Research",
+    "Infested",
+    "Assault Rifle",
+    "Electricity Damage Weapons",
+    "Primary Weapons",
+    "Update 10",
+    "Weapons",
+    "Continuous Weapons"
+  ]
+}

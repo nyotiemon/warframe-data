@@ -1,0 +1,31 @@
+{
+  "name": "Sonicor",
+  "image": "CrpAirPistolArray.png",
+  "mastery_level": 2,
+  "slot": "Secondary",
+  "trigger": "Semi-Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 1.25,
+  "accuracy": 100,
+  "clip": 15,
+  "max_ammo": 150,
+  "reload": 3,
+  "projectile_speed": "80.0m/s",
+  "disposition": "{{Icon|Dis|1|text}}",
+  "physical_damage": 150,
+  "impact_damage": 150,
+  "aoe": {
+    "physical_damage": 50,
+    "impact_damage": 50
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Sonicor",
+  "categories": [
+    "Update 17",
+    "Single Sidearm",
+    "Corpus",
+    "Impact Damage Weapons",
+    "Secondary Weapons",
+    "Weapons"
+  ]
+}

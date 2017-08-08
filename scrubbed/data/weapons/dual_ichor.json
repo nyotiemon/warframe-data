@@ -1,0 +1,37 @@
+{
+  "name": "Dual Ichor",
+  "image": "DualInfestedAxes.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 4,
+  "stat_proc": 15,
+  "attack_rate": 1.1,
+  "elemental_damage_type": "{{Icon|Proc|Toxin|Text}}",
+  "elemental_damage": 35,
+  "crit_chance": 25,
+  "crit_damage": 3,
+  "slam": {
+    "physical_damage": 140,
+    "impact_damage": 15,
+    "radius": 1
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Toxin|Text}}",
+    "elemental_damage": 210
+  },
+  "finisher_damage": 55,
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Dual_Ichor",
+  "categories": [
+    "Dual Swords",
+    "Research",
+    "Infested",
+    "Toxin Damage Weapons",
+    "Melee Weapons",
+    "Update 10",
+    "Weapons"
+  ]
+}

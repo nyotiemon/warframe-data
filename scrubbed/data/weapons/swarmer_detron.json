@@ -1,0 +1,15 @@
+{
+  "name": "Swarmer Detron",
+  "image": "DECorpusHandCannon.png",
+  "type": "Shotgun",
+  "trigger": "Semi-Auto",
+  "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+  "pellets": 7,
+  "wiki_link": "/wiki/Swarmer_Detron",
+  "categories": [
+    "Enemy Weapon",
+    "Weapons",
+    "Speculation",
+    "Corpus"
+  ]
+}

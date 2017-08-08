@@ -1,0 +1,38 @@
+{
+  "name": "Panthera",
+  "image": "TennoMiter.png",
+  "mastery_level": 7,
+  "slot": "Primary",
+  "type": "Launcher",
+  "trigger": "Auto",
+  "rate_of_fire": 3,
+  "accuracy": 100,
+  "clip": 60,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "40.0m/s",
+  "disposition": 5,
+  "stat_proc": 20,
+  "physical_damage": 100,
+  "impact_damage": 20,
+  "puncture_damage": 10,
+  "slash_damage": 70,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "secondary": {
+    "physical_damage": 225,
+    "slash_damage": 225
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Panthera",
+  "categories": [
+    "Update 15",
+    "Tenno",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Hybrid Weapons",
+    "Launcher",
+    "Continuous Weapons"
+  ]
+}

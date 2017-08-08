@@ -1,0 +1,33 @@
+{
+  "name": "Buzlok",
+  "image": "GrnGorgSniperRifle.png",
+  "mastery_level": 9,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 6.25,
+  "accuracy": 13.3,
+  "clip": 50,
+  "max_ammo": 540,
+  "reload": 3,
+  "projectile_speed": "40.0 m/s",
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 60,
+  "impact_damage": 30,
+  "puncture_damage": 24,
+  "slash_damage": 6,
+  "crit_chance": 15,
+  "crit_damage": 2.5,
+  "wiki_link": "/wiki/Buzlok",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Grineer",
+    "Update 14",
+    "Assault Rifle",
+    "Research",
+    "Impact Damage Weapons"
+  ]
+}

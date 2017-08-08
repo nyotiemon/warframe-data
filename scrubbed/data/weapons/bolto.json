@@ -1,0 +1,31 @@
+{
+  "name": "Bolto",
+  "image": "Bolto.png",
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Semi-Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 6.8,
+  "accuracy": 26.7,
+  "clip": 15,
+  "max_ammo": 210,
+  "reload": 1.3,
+  "projectile_speed": "75.0m/s",
+  "disposition": 5,
+  "stat_proc": 7.5,
+  "physical_damage": 45,
+  "impact_damage": 4.5,
+  "puncture_damage": 40.5,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Bolto",
+  "categories": [
+    "Single Sidearm",
+    "Tenno",
+    "Secondary Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

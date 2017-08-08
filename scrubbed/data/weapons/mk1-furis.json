@@ -1,0 +1,33 @@
+{
+  "name": "MK1-Furis",
+  "image": "Furis.png",
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 8.33,
+  "accuracy": 15.4,
+  "clip": 35,
+  "max_ammo": 210,
+  "reload": 1.4,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 1,
+  "physical_damage": 13,
+  "impact_damage": 1.95,
+  "puncture_damage": 9.1,
+  "slash_damage": 1.95,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/MK1-Furis",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Single Sidearm",
+    "MK1",
+    "Update 14",
+    "Tenno",
+    "Puncture Damage Weapons"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Anku",
+  "image": "ParisScythe.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Scythe",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1.08,
+  "physical_damage": 70,
+  "impact_damage": 10.5,
+  "puncture_damage": 56,
+  "slash_damage": 3.5,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 140
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Anku",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Tenno",
+    "Update 16",
+    "Scythe",
+    "Puncture Damage Weapons",
+    "Research"
+  ]
+}

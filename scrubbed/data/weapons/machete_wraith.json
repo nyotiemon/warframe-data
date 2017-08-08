@@ -1,0 +1,37 @@
+{
+  "name": "Machete Wraith",
+  "image": "DEWraithMachete.png",
+  "mastery_level": 1,
+  "slot": "Melee",
+  "type": "Machete",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1.08,
+  "physical_damage": 45,
+  "impact_damage": 6.75,
+  "puncture_damage": 6.75,
+  "slash_damage": 31.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 45,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 135
+  },
+  "max_targets": 2,
+  "polarities": "2x {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Machete_Wraith",
+  "categories": [
+    "Event Reward",
+    "Grineer",
+    "Wraith",
+    "Machete",
+    "Melee Weapons",
+    "Update 10",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Baro Ki'Teer Offering"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Boltace",
+  "image": "Boltonfa.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Tonfa",
+  "disposition": 3,
+  "stat_proc": 25,
+  "attack_rate": 0.917,
+  "physical_damage": 85,
+  "impact_damage": 8.5,
+  "puncture_damage": 68,
+  "slash_damage": 8.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 85
+  },
+  "slide": {
+    "physical_damage": 510
+  },
+  "wiki_link": "/wiki/Boltace",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Tonfa",
+    "Update 16",
+    "Puncture Damage Weapons",
+    "Tenno",
+    "Hybrid Weapons"
+  ]
+}

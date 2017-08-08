@@ -1,0 +1,42 @@
+{
+  "name": "Paris",
+  "image": "Paris.png",
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 1,
+  "accuracy": "16.7 (100.0 Aimed)",
+  "max_ammo": 72,
+  "reload": 0.7,
+  "projectile_speed": "70.0m/s",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 10,
+  "physical_damage": 90,
+  "impact_damage": 4.5,
+  "puncture_damage": 72,
+  "slash_damage": 13.5,
+  "crit_chance": 30,
+  "crit_damage": 1.5,
+  "charge": {
+    "physical_damage": 180,
+    "impact_damage": 9,
+    "puncture_damage": 144,
+    "slash_damage": 27,
+    "speed": 1,
+    "crit_chance": 30,
+    "crit_damage": 2
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Paris",
+  "categories": [
+    "Bow",
+    "Tenno",
+    "Primary Weapons",
+    "Update 7",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Silent",
+    "Single-Shot"
+  ]
+}

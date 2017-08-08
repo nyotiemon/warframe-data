@@ -1,0 +1,33 @@
+{
+  "name": "Stug",
+  "image": "GrineerCrossbowGooGun.png",
+  "mastery_level": 2,
+  "slot": "Secondary",
+  "type": "Blob Launcher",
+  "trigger": "Auto",
+  "rate_of_fire": 4,
+  "accuracy": 100,
+  "clip": 20,
+  "max_ammo": 210,
+  "reload": 2,
+  "projectile_speed": "35.0m/s",
+  "disposition": 5,
+  "elemental_damage_type": "{{Icon|Proc|Corrosive|text}}",
+  "elemental_damage": 156,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Corrosive|text}}",
+    "elemental_damage": 936
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Stug",
+  "categories": [
+    "Grineer",
+    "Single Sidearm",
+    "Secondary Weapons",
+    "Update 11",
+    "Weapons",
+    "Corrosive Damage Weapons"
+  ]
+}

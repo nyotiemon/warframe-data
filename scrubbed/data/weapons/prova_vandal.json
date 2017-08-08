@@ -1,0 +1,37 @@
+{
+  "name": "Prova Vandal",
+  "image": "VandalElectroProd.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Machete",
+  "disposition": 4,
+  "stat_proc": 20,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 48,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 96,
+    "radius": 3
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 144
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Prova_Vandal",
+  "categories": [
+    "Vandal",
+    "Melee Weapons",
+    "Corpus",
+    "Update 13",
+    "Machete",
+    "Electricity Damage Weapons",
+    "Event Reward",
+    "Weapons",
+    "Baro Ki'Teer Offering"
+  ]
+}

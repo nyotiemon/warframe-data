@@ -1,0 +1,42 @@
+{
+  "name": "Javlok",
+  "image": "GrnFlameSpear.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Charge",
+  "noise_level": "Alarming",
+  "rate_of_fire": 3.33,
+  "accuracy": 100,
+  "clip": 6,
+  "max_ammo": 540,
+  "reload": 2.2,
+  "disposition": "{{Icon|Dis|3|text}}",
+  "charge": {
+    "elemental_damage_type": "{{Icon|Proc|Heat|Text}}",
+    "elemental_damage": 235,
+    "speed": 0.3,
+    "crit_chance": 20,
+    "crit_damage": 2,
+    "stat_proc": 25
+  },
+  "secondary": {
+    "physical_damage": 150,
+    "impact_damage": 45,
+    "puncture_damage": 75,
+    "slash_damage": 30,
+    "elemental_damage_type": "{{Icon|Proc|Heat|Text}}",
+    "elemental_damage": "300.0 (base) + 20% Per Ammo"
+  },
+  "polarities": "{{Icon|Pol|V}}x2",
+  "wiki_link": "/wiki/Javlok",
+  "categories": [
+    "Grineer",
+    "Primary Weapons",
+    "Weapons",
+    "Heat Damage Weapons",
+    "Update 19",
+    "Speargun",
+    "Thrown"
+  ]
+}

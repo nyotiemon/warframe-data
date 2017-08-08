@@ -1,0 +1,24 @@
+{
+  "name": "Artax",
+  "image": "SentinelArtax.png",
+  "slot": "Sentinel",
+  "type": "Rifle",
+  "trigger": "Held",
+  "noise_level": "Alarming",
+  "rate_of_fire": 1,
+  "accuracy": 12.5,
+  "clip": 100,
+  "reload": 1.5,
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": "3.0/sec",
+  "elemental_damage_type": "{{Icon|Proc|Cold|Text}}",
+  "elemental_damage": 5,
+  "crit_chance": 2,
+  "crit_damage": 1.5,
+  "wiki_link": "/wiki/Artax",
+  "categories": [
+    "Cold Damage Weapons",
+    "Update 19",
+    "Assault Rifle"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Akzani",
+  "image": "Akzani.png",
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 20,
+  "accuracy": 8.7,
+  "clip": 100,
+  "max_ammo": 400,
+  "reload": 2,
+  "disposition": 5,
+  "stat_proc": 5,
+  "physical_damage": 13,
+  "impact_damage": 2,
+  "puncture_damage": 9.1,
+  "slash_damage": 1.9,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Akzani",
+  "categories": [
+    "Secondary Weapons",
+    "Update 14",
+    "Tenno",
+    "Dual Sidearms",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

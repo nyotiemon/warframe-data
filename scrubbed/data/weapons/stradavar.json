@@ -1,0 +1,38 @@
+{
+  "name": "Stradavar",
+  "image": "TennoTommyGun.png",
+  "mastery_level": 8,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto/Semi-Auto",
+  "noise_level": "45.0m",
+  "rate_of_fire": 10,
+  "accuracy": "28.6*",
+  "clip": 65,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|4|text}}",
+  "stat_proc": 5,
+  "physical_damage": 28,
+  "impact_damage": 9.8,
+  "puncture_damage": 9.8,
+  "slash_damage": 8.4,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "secondary": {
+    "physical_damage": 50,
+    "impact_damage": 7.5,
+    "puncture_damage": 30,
+    "slash_damage": 12.5
+  },
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Stradavar",
+  "categories": [
+    "Assault Rifle",
+    "Update 18",
+    "Tenno",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Magistar",
+  "image": "PaladinMace.png",
+  "mastery_level": 1,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 3,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 80,
+  "impact_damage": 64,
+  "puncture_damage": 12,
+  "slash_damage": 4,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 100,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 100,
+    "impact_damage": 70,
+    "puncture_damage": 15,
+    "slash_damage": 15
+  },
+  "finisher_damage": 200,
+  "max_targets": 3,
+  "cleave_radius": 0.2,
+  "wiki_link": "/wiki/Magistar",
+  "categories": [
+    "Hammer",
+    "Tenno",
+    "Melee Weapons",
+    "Update 11",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Blast Damage"
+  ]
+}

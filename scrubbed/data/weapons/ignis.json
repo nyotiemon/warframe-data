@@ -1,0 +1,33 @@
+{
+  "name": "Ignis",
+  "image": "GrineerFlameThrower.png",
+  "mastery_level": 4,
+  "slot": "Primary",
+  "type": "Flamethrower",
+  "trigger": "Held",
+  "noise_level": "25.0m",
+  "rate_of_fire": 10,
+  "accuracy": 100,
+  "clip": 150,
+  "max_ammo": 750,
+  "reload": 2,
+  "projectile_speed": "Hit-scan",
+  "disposition": "{{Icon|Dis|2|text}}",
+  "stat_proc": 25,
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 27,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "punch_through": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Ignis",
+  "categories": [
+    "Research",
+    "Grineer",
+    "Primary Weapons",
+    "Heat Damage Weapons",
+    "Update 8",
+    "Weapons",
+    "Continuous Weapons"
+  ]
+}

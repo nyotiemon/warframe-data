@@ -1,0 +1,38 @@
+{
+  "name": "Heat Sword",
+  "image": "Heat.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 20,
+  "attack_rate": 0.917,
+  "physical_damage": 44,
+  "impact_damage": 4.4,
+  "puncture_damage": 4.4,
+  "slash_damage": 35.2,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+    "elemental_damage": 30,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 94,
+    "crit_chance": 5,
+    "crit_damage": 150
+  },
+  "finisher_damage": 75,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Heat_Sword",
+  "categories": [
+    "Tenno",
+    "Sword",
+    "Heat Damage",
+    "Melee Weapons",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

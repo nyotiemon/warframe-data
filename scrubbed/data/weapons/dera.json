@@ -1,0 +1,33 @@
+{
+  "name": "Dera",
+  "image": "CorpusEnergyRifle.png",
+  "mastery_level": 4,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "rate_of_fire": 11.3,
+  "accuracy": 100,
+  "clip": 45,
+  "max_ammo": 540,
+  "reload": 2.4,
+  "projectile_speed": "100.0 m/s",
+  "disposition": 4,
+  "stat_proc": 10,
+  "physical_damage": 22,
+  "impact_damage": 4.4,
+  "puncture_damage": 16.5,
+  "slash_damage": 1.1,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "None",
+  "wiki_link": "/wiki/Dera",
+  "categories": [
+    "Research",
+    "Corpus",
+    "Assault Rifle",
+    "Primary Weapons",
+    "Update 8",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

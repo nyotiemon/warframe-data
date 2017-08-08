@@ -1,0 +1,36 @@
+{
+  "name": "Lecta",
+  "image": "CorpusWhip.png",
+  "slot": "Melee",
+  "type": "Whip",
+  "disposition": 1,
+  "stat_proc": 25,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|Text}}",
+  "elemental_damage": 45,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|Text}}",
+    "elemental_damage": 25,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 96,
+    "impact_damage": 11.25,
+    "puncture_damage": 11.25,
+    "slash_damage": 52.5
+  },
+  "finisher_damage": 75,
+  "max_targets": 5,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Lecta",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Whip",
+    "Corpus",
+    "Electricity Damage Weapons",
+    "Update 11"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Rathbone",
+  "image": "ArchHammer.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 7.5,
+  "attack_rate": 0.917,
+  "physical_damage": 280,
+  "impact_damage": 224,
+  "puncture_damage": 42,
+  "slash_damage": 14,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 280
+  },
+  "slide": {
+    "physical_damage": 600
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Rathbone",
+  "categories": [
+    "Archwing",
+    "Update 15",
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Melee",
+    "Impact Damage Weapons"
+  ]
+}

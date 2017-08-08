@@ -1,0 +1,31 @@
+{
+  "name": "Plasma Sword",
+  "image": "Plasma.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 0.667,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 35,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 1
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 75
+  },
+  "cleave_radius": 1,
+  "wiki_link": "/wiki/Plasma_Sword",
+  "categories": [
+    "Tenno",
+    "Sword",
+    "Electricity Damage Weapons",
+    "Melee Weapons",
+    "Weapons",
+    "Update 8"
+  ]
+}

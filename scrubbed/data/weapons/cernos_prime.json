@@ -1,0 +1,39 @@
+{
+  "name": "Cernos Prime",
+  "image": "CernosPrime.png",
+  "mastery_level": 8,
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 1,
+  "accuracy": "16.7 (100.0 Aimed)",
+  "max_ammo": 72,
+  "reload": 1,
+  "projectile_speed": "70.0 m/s",
+  "disposition": "{{Icon|Dis|2|text}}",
+  "stat_proc": 10,
+  "physical_damage": 180,
+  "impact_damage": 162,
+  "puncture_damage": 9,
+  "slash_damage": 9,
+  "crit_chance": 35,
+  "crit_damage": 2,
+  "charge": {
+    "physical_damage": 360,
+    "impact_damage": 324,
+    "puncture_damage": 18,
+    "slash_damage": 18,
+    "speed": 1
+  },
+  "polarities": "2x{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Cernos_Prime",
+  "categories": [
+    "Prime",
+    "Bow",
+    "Single-Shot",
+    "Update 19",
+    "Tenno",
+    "Impact Damage Weapons"
+  ]
+}

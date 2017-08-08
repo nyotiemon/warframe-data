@@ -1,0 +1,31 @@
+{
+  "name": "Knell",
+  "image": "PriestPistol.png",
+  "mastery_level": 10,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Semi-Auto",
+  "noise_level": "35.0 m",
+  "rate_of_fire": 4,
+  "accuracy": 32,
+  "clip": 1,
+  "max_ammo": 10,
+  "reload": 1,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 3,
+  "stat_proc": 5,
+  "physical_damage": 150,
+  "impact_damage": 63,
+  "puncture_damage": 69,
+  "slash_damage": 18,
+  "crit_chance": 20,
+  "crit_damage": 1.5,
+  "polarities": "None",
+  "wiki_link": "/wiki/Knell",
+  "categories": [
+    "Tenno",
+    "Single Sidearm",
+    "Single-Shot",
+    "Update 21"
+  ]
+}

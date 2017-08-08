@@ -1,0 +1,33 @@
+{
+  "name": "Dark Split-Sword",
+  "image": "DarkSwordDaggerHybrid.png",
+  "mastery_level": 5,
+  "slot": "Melee",
+  "type": "Heavy Blade / Dual Swords",
+  "disposition": 4,
+  "stat_proc": "25.0 / 15.0",
+  "attack_rate": "0.917 / 1.17",
+  "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+  "elemental_damage": "90.0 / 65.0",
+  "crit_chance": "10.0 / 25.0",
+  "crit_damage": "2.0 / 2.5",
+  "slam": {
+    "elemental_damage": "160.0 / 130.0"
+  },
+  "slide": {
+    "elemental_damage": "160.0 / 390.0"
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Dark_Split-Sword",
+  "categories": [
+    "Melee Weapons",
+    "Weapons",
+    "Radiation Damage Weapons",
+    "Update 18",
+    "Tenno",
+    "Research",
+    "Heavy Blade",
+    "Dual Swords",
+    "Hybrid"
+  ]
+}

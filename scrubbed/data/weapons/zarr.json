@@ -1,0 +1,37 @@
+{
+  "name": "Zarr",
+  "image": "GrineerCannon.png",
+  "mastery_level": 7,
+  "slot": "Primary",
+  "type": "Launcher",
+  "trigger": "Semi-Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 1.67,
+  "accuracy": 100,
+  "clip": 3,
+  "max_ammo": 84,
+  "reload": 2.3,
+  "disposition": 3,
+  "stat_proc": 20,
+  "physical_damage": 25,
+  "impact_damage": 25,
+  "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+  "elemental_damage": 175,
+  "crit_chance": 15,
+  "crit_damage": 2.5,
+  "secondary": {
+    "physical_damage": 560,
+    "impact_damage": 168,
+    "puncture_damage": 280,
+    "slash_damage": 112
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Zarr",
+  "categories": [
+    "Update 19",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Blast Damage",
+    "Grineer"
+  ]
+}

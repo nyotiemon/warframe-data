@@ -1,0 +1,34 @@
+{
+  "name": "Furax",
+  "image": "Furax.png",
+  "slot": "Melee",
+  "type": "Fist",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 35,
+  "impact_damage": 24.5,
+  "puncture_damage": 5.25,
+  "slash_damage": 5.25,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 3
+  },
+  "slide": {
+    "physical_damage": 105
+  },
+  "finisher_damage": 30,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Furax",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Fist",
+    "Grineer",
+    "Closed Beta",
+    "Impact Damage Weapons"
+  ]
+}

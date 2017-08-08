@@ -1,0 +1,32 @@
+{
+  "name": "Vulkar Wraith",
+  "image": "VulkarWraith.png",
+  "slot": "Primary",
+  "type": "Sniper Rifle",
+  "trigger": "Semi-Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 1.5,
+  "accuracy": 13.3,
+  "clip": 8,
+  "max_ammo": 72,
+  "reload": 3,
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|5|text}}",
+  "stat_proc": 25,
+  "physical_damage": 250,
+  "impact_damage": 225,
+  "puncture_damage": 25,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Vulkar_Wraith",
+  "categories": [
+    "Weapons",
+    "Sniper Rifle",
+    "Grineer",
+    "Wraith",
+    "Event Reward",
+    "Update 18",
+    "Impact Damage Weapons"
+  ]
+}

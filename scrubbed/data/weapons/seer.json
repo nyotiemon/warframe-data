@@ -1,0 +1,30 @@
+{
+  "name": "Seer",
+  "image": "CaptainVorPistol.png",
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Semi-Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 2,
+  "accuracy": 16,
+  "clip": 8,
+  "max_ammo": 210,
+  "reload": 2.8,
+  "projectile_speed": "200.0 m/s",
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 84,
+  "impact_damage": 28,
+  "puncture_damage": 28,
+  "slash_damage": 28,
+  "polarities": "None",
+  "wiki_link": "/wiki/Seer",
+  "categories": [
+    "Single Sidearm",
+    "Grineer",
+    "Secondary Weapons",
+    "Update 9",
+    "Weapons",
+    "Balanced Physical Damage Weapons"
+  ]
+}

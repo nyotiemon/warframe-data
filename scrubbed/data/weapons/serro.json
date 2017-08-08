@@ -1,0 +1,32 @@
+{
+  "name": "Serro",
+  "image": "Corpuspolearm.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 5,
+  "stat_proc": 25,
+  "attack_rate": 0.917,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 75,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage": 150
+  },
+  "slide": {
+    "elemental_damage": 167
+  },
+  "polarities": "{{Icon|Pol|V|text}}",
+  "wiki_link": "/wiki/Serro",
+  "categories": [
+    "Corpus",
+    "Polearm",
+    "Electricity Damage Weapons",
+    "Melee Weapons",
+    "Update 13",
+    "Research",
+    "Weapons",
+    "Blast Damage"
+  ]
+}

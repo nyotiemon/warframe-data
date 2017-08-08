@@ -1,0 +1,36 @@
+{
+  "name": "Dakra Prime",
+  "image": "SwordPrime.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 4,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 60,
+  "impact_damage": 6,
+  "puncture_damage": 6,
+  "slash_damage": 48,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 3
+  },
+  "slide": {
+    "physical_damage": 129
+  },
+  "finisher_damage": 120,
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|Bar}} {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Dakra_Prime",
+  "categories": [
+    "Prime",
+    "Sword",
+    "Melee Weapons",
+    "Update 10",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

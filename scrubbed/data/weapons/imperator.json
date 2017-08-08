@@ -1,0 +1,27 @@
+{
+  "name": "Imperator",
+  "image": "ArchwingMachinegun.png",
+  "slot": "Arch-Gun",
+  "trigger": "Auto",
+  "rate_of_fire": 16.7,
+  "accuracy": 25,
+  "clip": 250,
+  "stat_proc": 5,
+  "physical_damage": 40,
+  "impact_damage": 16,
+  "puncture_damage": 14,
+  "slash_damage": 10,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Imperator",
+  "categories": [
+    "Update 15",
+    "Archwing",
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Gun",
+    "Tenno",
+    "Impact Damage Weapons"
+  ]
+}

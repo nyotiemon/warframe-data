@@ -1,0 +1,32 @@
+{
+  "name": "Dragon Nikana",
+  "image": "DragonKatana.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Nikana",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 1,
+  "physical_damage": 85,
+  "impact_damage": 4.25,
+  "puncture_damage": 8.5,
+  "slash_damage": 72.25,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 85
+  },
+  "slide": {
+    "physical_damage": 182
+  },
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Dragon_Nikana",
+  "categories": [
+    "Nikana",
+    "Tenno",
+    "Melee Weapons",
+    "Update 13",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

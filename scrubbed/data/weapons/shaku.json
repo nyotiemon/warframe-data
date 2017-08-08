@@ -1,0 +1,30 @@
+{
+  "name": "Shaku",
+  "image": "TnoNunchaku.png",
+  "slot": "Melee",
+  "type": "Nunchaku",
+  "disposition": 5,
+  "stat_proc": 25,
+  "attack_rate": 1.17,
+  "physical_damage": 55,
+  "impact_damage": 55,
+  "crit_chance": 7.5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 55
+  },
+  "slide": {
+    "physical_damage": 118
+  },
+  "wiki_link": "/wiki/Shaku",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Nunchaku",
+    "Tenno",
+    "Research",
+    "Warframe China Timed Exclusive",
+    "Update 18",
+    "Impact Damage Weapons"
+  ]
+}

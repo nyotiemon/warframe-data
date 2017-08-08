@@ -1,0 +1,34 @@
+{
+  "name": "Fragor",
+  "image": "DEFragor.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 3,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 115,
+  "impact_damage": 80.5,
+  "puncture_damage": 17.3,
+  "slash_damage": 17.2,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 230,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 230
+  },
+  "finisher_damage": 200,
+  "cleave_radius": 0.2,
+  "wiki_link": "/wiki/Fragor",
+  "categories": [
+    "Hammer",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Tenno"
+  ]
+}

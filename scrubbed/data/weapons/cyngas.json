@@ -1,0 +1,26 @@
+{
+  "name": "Cyngas",
+  "image": "ArchBurstGun.png",
+  "mastery_level": 4,
+  "slot": "Arch-Gun",
+  "trigger": "Burst",
+  "noise_level": "Alarming",
+  "rate_of_fire": 9.09,
+  "accuracy": 33.3,
+  "clip": 30,
+  "stat_proc": 30,
+  "physical_damage": 200,
+  "impact_damage": 66,
+  "puncture_damage": 66,
+  "slash_damage": 68,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "wiki_link": "/wiki/Cyngas",
+  "categories": [
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Gun",
+    "Update 19",
+    "Slash Damage Weapons"
+  ]
+}

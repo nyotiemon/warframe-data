@@ -1,0 +1,41 @@
+{
+  "name": "Tenora",
+  "image": "TnBardRifle.png",
+  "mastery_level": 10,
+  "slot": "Primary",
+  "type": "Rifle",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 11.67,
+  "accuracy": 12.5,
+  "clip": 150,
+  "max_ammo": 800,
+  "reload": 2.5,
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 15,
+  "physical_damage": 23,
+  "impact_damage": 6.9,
+  "puncture_damage": 9.2,
+  "slash_damage": 6.9,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "charge": {
+    "physical_damage": 23,
+    "impact_damage": 4.6,
+    "puncture_damage": 13.8,
+    "slash_damage": 4.6,
+    "speed": 0.8,
+    "crit_chance": 33,
+    "crit_damage": 3,
+    "stat_proc": 11
+  },
+  "polarities": "None",
+  "wiki_link": "/wiki/Tenora",
+  "categories": [
+    "Update 20",
+    "Puncture Damage Weapons",
+    "Assault Rifle",
+    "Tenno"
+  ]
+}

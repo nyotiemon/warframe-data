@@ -1,6 +1,3 @@
 node_modules/
 .vscode/
-wikia-data-json/
-wikia-data/
-data/
-scrubbed/
+/data/

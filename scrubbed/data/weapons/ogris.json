@@ -1,0 +1,39 @@
+{
+  "name": "Ogris",
+  "image": "OgrisNew.png",
+  "mastery_level": 8,
+  "slot": "Primary",
+  "type": "Launcher",
+  "trigger": "Charge",
+  "noise_level": "?m: ALARMING",
+  "rate_of_fire": 1,
+  "accuracy": 100,
+  "clip": 5,
+  "max_ammo": 20,
+  "reload": 2.5,
+  "projectile_speed": "40.0m/s",
+  "disposition": 4,
+  "stat_proc": 35,
+  "charge": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+    "elemental_damage": 100,
+    "speed": 0.8,
+    "crit_chance": 5,
+    "crit_damage": 2
+  },
+  "aoe": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+    "elemental_damage": 600
+  },
+  "polarities": "None",
+  "wiki_link": "/wiki/Ogris",
+  "categories": [
+    "Research",
+    "Launcher",
+    "Grineer",
+    "Blast Damage",
+    "Primary Weapons",
+    "Update 8",
+    "Weapons"
+  ]
+}

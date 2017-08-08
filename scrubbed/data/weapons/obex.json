@@ -1,0 +1,36 @@
+{
+  "name": "Obex",
+  "image": "CorpusKickNPunch.png",
+  "slot": "Melee",
+  "type": "Sparring",
+  "disposition": 3,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 25,
+  "impact_damage": 17.5,
+  "puncture_damage": 3.8,
+  "slash_damage": 3.7,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 50,
+    "radius": 6
+  },
+  "slide": {
+    "physical_damage": 100
+  },
+  "finisher_damage": 75,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Obex",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Sparring",
+    "Corpus",
+    "Update 10",
+    "Impact Damage Weapons",
+    "Electricity Damage"
+  ]
+}

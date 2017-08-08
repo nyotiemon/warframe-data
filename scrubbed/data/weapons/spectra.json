@@ -1,0 +1,33 @@
+{
+  "name": "Spectra",
+  "image": "Spectra.png",
+  "mastery_level": 4,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Held",
+  "rate_of_fire": 5,
+  "accuracy": 100,
+  "clip": 80,
+  "max_ammo": 360,
+  "reload": 2,
+  "disposition": "{{Icon|Dis|5|text}}",
+  "stat_proc": 20,
+  "physical_damage": 30,
+  "impact_damage": 3,
+  "puncture_damage": 21,
+  "slash_damage": 6,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Spectra",
+  "categories": [
+    "Single Sidearm",
+    "Corpus",
+    "Research",
+    "Secondary Weapons",
+    "Update 9",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Continuous Weapons"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Paracyst",
+  "image": "InfQuantaRifle.png",
+  "mastery_level": 2,
+  "slot": "Primary",
+  "type": "Rifle",
+  "trigger": "Burst",
+  "rate_of_fire": 11.11,
+  "accuracy": 25,
+  "clip": 60,
+  "max_ammo": 540,
+  "reload": 2,
+  "disposition": 5,
+  "stat_proc": 30,
+  "elemental_damage_type": "{{Icon|Proc|Toxin|Text}}",
+  "elemental_damage": 30,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "wiki_link": "/wiki/Paracyst",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Infested",
+    "Update 15",
+    "Mutalist",
+    "Burst Fire",
+    "Toxin Damage Weapons"
+  ]
+}

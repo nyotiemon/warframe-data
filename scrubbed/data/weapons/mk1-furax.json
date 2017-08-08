@@ -1,0 +1,34 @@
+{
+  "name": "MK1-Furax",
+  "image": "Furax.png",
+  "slot": "Melee",
+  "type": "Fist",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 30,
+  "impact_damage": 21,
+  "puncture_damage": 4.5,
+  "slash_damage": 4.5,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 60,
+    "radius": 3
+  },
+  "slide": {
+    "physical_damage": 90
+  },
+  "finisher_damage": 30,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/MK1-Furax",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Fist",
+    "MK1",
+    "Grineer",
+    "Update 14"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Karak",
+  "image": "GrineerM16Rifle.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 11.67,
+  "accuracy": 28.6,
+  "clip": 30,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 4,
+  "stat_proc": 7.5,
+  "physical_damage": 27,
+  "impact_damage": 12.15,
+  "puncture_damage": 8.1,
+  "slash_damage": 6.75,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Karak",
+  "categories": [
+    "Assault Rifle",
+    "Grineer",
+    "Primary Weapons",
+    "Update 11",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

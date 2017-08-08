@@ -1,0 +1,31 @@
+{
+  "name": "Atterax",
+  "image": "GrineerWhip.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Whip",
+  "disposition": 1,
+  "stat_proc": 20,
+  "attack_rate": 0.917,
+  "physical_damage": 45,
+  "impact_damage": 2.25,
+  "puncture_damage": 2.25,
+  "slash_damage": 40.5,
+  "crit_chance": 25,
+  "crit_damage": 3,
+  "slam": {
+    "physical_damage": 90
+  },
+  "slide": {
+    "physical_damage": 96
+  },
+  "wiki_link": "/wiki/Atterax",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Whip",
+    "Grineer",
+    "Update 14",
+    "Slash Damage Weapons"
+  ]
+}

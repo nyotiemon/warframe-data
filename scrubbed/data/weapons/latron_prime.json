@@ -1,0 +1,32 @@
+{
+  "name": "Latron Prime",
+  "image": "DELatronPrime.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Semi-Auto",
+  "noise_level": "45.0m",
+  "rate_of_fire": 4.17,
+  "accuracy": 28.6,
+  "clip": 15,
+  "max_ammo": 540,
+  "reload": 2.4,
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 25,
+  "physical_damage": 85,
+  "impact_damage": 8.5,
+  "puncture_damage": 68,
+  "slash_damage": 8.5,
+  "crit_chance": 15,
+  "crit_damage": 2.5,
+  "polarities": "{{Icon|Pol|V}} {{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Latron_Prime",
+  "categories": [
+    "Prime",
+    "Primary Weapons",
+    "Update 8",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Assault Rifle"
+  ]
+}

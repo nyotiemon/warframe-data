@@ -1,0 +1,31 @@
+{
+  "name": "Viper",
+  "image": "Viper.png",
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Auto",
+  "rate_of_fire": 14.4,
+  "accuracy": 15.4,
+  "clip": 14,
+  "max_ammo": 210,
+  "reload": 1.1,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 1,
+  "physical_damage": 16,
+  "impact_damage": 9.6,
+  "puncture_damage": 1.6,
+  "slash_damage": 4.8,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Viper",
+  "categories": [
+    "Grineer",
+    "Single Sidearm",
+    "Secondary Weapons",
+    "Update 7",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

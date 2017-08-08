@@ -1,0 +1,30 @@
+{
+  "name": "Centaur",
+  "image": "Archswordandshield.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 20,
+  "attack_rate": 1.08,
+  "physical_damage": 280,
+  "impact_damage": 28,
+  "puncture_damage": 56,
+  "slash_damage": 196,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 280
+  },
+  "slide": {
+    "physical_damage": 600
+  },
+  "conclave": 10,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Centaur",
+  "categories": [
+    "Archwing",
+    "Archwing Weapons",
+    "Archwing Melee",
+    "Weapons",
+    "Update 15",
+    "Slash Damage Weapons"
+  ]
+}

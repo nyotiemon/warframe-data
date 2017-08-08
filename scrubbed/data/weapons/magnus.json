@@ -1,0 +1,32 @@
+{
+  "name": "Magnus",
+  "image": "TennoMagnum.png",
+  "slot": "Secondary",
+  "type": "Revolver",
+  "trigger": "Semi-Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 5.8,
+  "accuracy": 16,
+  "clip": 8,
+  "max_ammo": 210,
+  "reload": 2,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 20,
+  "physical_damage": 45.1,
+  "impact_damage": 20.3,
+  "puncture_damage": 12.4,
+  "slash_damage": 12.4,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Magnus",
+  "categories": [
+    "Tenno",
+    "Single Sidearm",
+    "Secondary Weapons",
+    "Update 11",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

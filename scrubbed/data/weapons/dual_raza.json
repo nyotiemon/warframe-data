@@ -1,0 +1,32 @@
+{
+  "name": "Dual Raza",
+  "image": "SomaDualKamas.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 5,
+  "attack_rate": 0.917,
+  "physical_damage": 48,
+  "impact_damage": 4.8,
+  "puncture_damage": 14.4,
+  "slash_damage": 28.8,
+  "crit_chance": 20,
+  "crit_damage": 3,
+  "slam": {
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 288
+  },
+  "wiki_link": "/wiki/Dual_Raza",
+  "categories": [
+    "Dual Swords",
+    "Tenno",
+    "Melee Weapons",
+    "Weapons",
+    "Update 16",
+    "Slash Damage Weapons",
+    "Research"
+  ]
+}

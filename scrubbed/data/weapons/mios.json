@@ -1,0 +1,33 @@
+{
+  "name": "Mios",
+  "image": "DEMios.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Blade and Whip",
+  "disposition": 3,
+  "stat_proc": 25,
+  "attack_rate": 1.08,
+  "physical_damage": 80,
+  "impact_damage": 24,
+  "puncture_damage": 20,
+  "slash_damage": 36,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 80
+  },
+  "slide": {
+    "physical_damage": 171
+  },
+  "polarities": "{{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Mios",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Community Concept",
+    "Infested",
+    "Slash Damage Weapons",
+    "Blade and Whip",
+    "Research"
+  ]
+}

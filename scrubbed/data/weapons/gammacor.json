@@ -1,0 +1,30 @@
+{
+  "name": "Gammacor",
+  "image": "Gammacor.png",
+  "mastery_level": 2,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Held",
+  "noise_level": "10.0m",
+  "rate_of_fire": 5,
+  "accuracy": 100,
+  "clip": 50,
+  "max_ammo": 210,
+  "reload": 2,
+  "disposition": 1,
+  "stat_proc": 5,
+  "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+  "elemental_damage": 50,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Gammacor",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Magnetic Damage",
+    "Update 15",
+    "Cephalon",
+    "Continuous Weapons"
+  ]
+}

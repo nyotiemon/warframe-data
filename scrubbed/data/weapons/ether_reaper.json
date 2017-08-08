@@ -1,0 +1,29 @@
+{
+  "name": "Ether Reaper",
+  "image": "EtherScythe.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Scythe",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 1.08,
+  "physical_damage": 65.1,
+  "impact_damage": 9.8,
+  "puncture_damage": 9.8,
+  "slash_damage": 45.5,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 130
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Ether_Reaper",
+  "categories": [
+    "Scythe",
+    "Tenno",
+    "Melee Weapons",
+    "Update 10",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

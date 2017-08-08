@@ -1,0 +1,37 @@
+{
+  "name": "Redeemer",
+  "image": "TnoGunblade.png",
+  "mastery_level": 4,
+  "slot": "Melee",
+  "type": "Gunblade",
+  "disposition": 4,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 60,
+  "impact_damage": 6,
+  "puncture_damage": 12,
+  "slash_damage": 42,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "charge": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|Text}}",
+    "elemental_damage": 300
+  },
+  "slam": {
+    "physical_damage": 120
+  },
+  "slide": {
+    "physical_damage": 180
+  },
+  "wiki_link": "/wiki/Redeemer",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Update 15",
+    "Tenno",
+    "Blast Damage",
+    "Gunblade",
+    "Hybrid Weapons",
+    "Slash Damage Weapons"
+  ]
+}

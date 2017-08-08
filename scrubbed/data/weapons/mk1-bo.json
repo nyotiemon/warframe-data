@@ -1,0 +1,30 @@
+{
+  "name": "MK1-Bo",
+  "image": "BoStaff.png",
+  "slot": "Melee",
+  "type": "Staff",
+  "disposition": 4,
+  "stat_proc": 20,
+  "attack_rate": 1,
+  "physical_damage": 45,
+  "impact_damage": 40.5,
+  "puncture_damage": 4.5,
+  "crit_chance": 12.5,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 96
+  },
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/MK1-Bo",
+  "categories": [
+    "Weapons",
+    "Staff",
+    "MK1",
+    "Update 14",
+    "Melee Weapons",
+    "Tenno",
+    "Impact Damage Weapons"
+  ]
+}

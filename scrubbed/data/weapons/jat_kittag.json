@@ -1,0 +1,35 @@
+{
+  "name": "Jat Kittag",
+  "image": "GrnJetPwrPolearm.png",
+  "mastery_level": 5,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 2,
+  "stat_proc": 25,
+  "attack_rate": 1,
+  "physical_damage": 130,
+  "impact_damage": 104,
+  "puncture_damage": 19.5,
+  "slash_damage": 6.5,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 260,
+    "radius": 10
+  },
+  "slide": {
+    "physical_damage": 260
+  },
+  "polarities": "{{Icon|Pol|Bar}} {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Jat_Kittag",
+  "categories": [
+    "Grineer",
+    "Research",
+    "Hammer",
+    "Melee Weapons",
+    "Update 12",
+    "Weapons",
+    "Blast Damage",
+    "Impact Damage Weapons"
+  ]
+}

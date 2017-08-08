@@ -1,0 +1,13 @@
+{
+  "name": "Fire Baton",
+  "image": "Prova8point2.png",
+  "type": "Longsword",
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 30,
+  "wiki_link": "/wiki/Fire_Baton",
+  "categories": [
+    "Enemy Weapon",
+    "Grineer",
+    "Speculation"
+  ]
+}

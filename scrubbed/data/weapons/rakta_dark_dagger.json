@@ -1,0 +1,33 @@
+{
+  "name": "Rakta Dark Dagger",
+  "image": "RVDarkDagger.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Dagger",
+  "disposition": 1,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+  "elemental_damage": 50,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage": 100
+  },
+  "slide": {
+    "elemental_damage": 107
+  },
+  "polarities": "{{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Rakta_Dark_Dagger",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Dagger",
+    "Special Weapons",
+    "Augmented Weapons",
+    "Syndicate Offerings",
+    "Update 19",
+    "Radiation Damage Weapons",
+    "Tenno"
+  ]
+}

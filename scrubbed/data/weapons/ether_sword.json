@@ -1,0 +1,34 @@
+{
+  "name": "Ether Sword",
+  "image": "Ether-Sword.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 37,
+  "impact_damage": 5.55,
+  "puncture_damage": 5.55,
+  "slash_damage": 25.9,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 79
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Ether_Sword",
+  "categories": [
+    "Sword",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons",
+    "Radiation Damage Weapons",
+    "Slash Damage Weapons",
+    "Tenno"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Sancti Magistar",
+  "image": "NLMagistar.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 3,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 120,
+  "impact_damage": 96,
+  "puncture_damage": 18,
+  "slash_damage": 6,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 240
+  },
+  "slide": {
+    "physical_damage": 240
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Sancti_Magistar",
+  "categories": [
+    "Hammer",
+    "Update 19",
+    "Syndicate Offerings",
+    "Weapons",
+    "Tenno"
+  ]
+}

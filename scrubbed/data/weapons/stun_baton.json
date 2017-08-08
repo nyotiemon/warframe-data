@@ -1,0 +1,14 @@
+{
+  "name": "Stun Baton",
+  "image": "480px-ProdCrewman2DE2.png",
+  "type": "Longsword",
+  "physical_damage": "~60.0",
+  "finisher_damage": "~120.0",
+  "max_targets": 1,
+  "wiki_link": "/wiki/Stun_Baton",
+  "categories": [
+    "Enemy Weapon",
+    "Grineer",
+    "Corpus"
+  ]
+}

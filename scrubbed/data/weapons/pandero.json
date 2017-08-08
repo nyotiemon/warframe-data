@@ -1,0 +1,35 @@
+{
+  "name": "Pandero",
+  "image": "TnBardPistol.png",
+  "mastery_level": 7,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Semi-Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 3,
+  "accuracy": 16,
+  "clip": 8,
+  "max_ammo": 210,
+  "reload": 1,
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 15,
+  "physical_damage": 76,
+  "impact_damage": 19,
+  "puncture_damage": 19,
+  "slash_damage": 38,
+  "crit_chance": 30,
+  "crit_damage": 2.5,
+  "secondary": {
+    "physical_damage": 76,
+    "impact_damage": 19,
+    "puncture_damage": 19,
+    "slash_damage": 38
+  },
+  "polarities": "None",
+  "wiki_link": "/wiki/Pandero",
+  "categories": [
+    "Update 20",
+    "Slash Damage Weapons"
+  ]
+}

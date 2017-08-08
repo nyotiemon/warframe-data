@@ -1,0 +1,34 @@
+{
+  "name": "Lesion",
+  "image": "InfTipedo.png",
+  "mastery_level": 7,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 1,
+  "stat_proc": 30,
+  "attack_rate": 1,
+  "physical_damage": 100,
+  "impact_damage": 20,
+  "puncture_damage": 5,
+  "slash_damage": 75,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 100
+  },
+  "slide": {
+    "physical_damage": 222
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Lesion",
+  "categories": [
+    "Melee Weapons",
+    "Update 18",
+    "Weapons",
+    "Polearm",
+    "Hybrid Weapons",
+    "Slash Damage Weapons",
+    "Infested",
+    "Toxin Damage"
+  ]
+}

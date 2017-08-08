@@ -1,0 +1,42 @@
+{
+  "name": "Cernos",
+  "image": "DECernos.png",
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 1,
+  "accuracy": "16.7 (100.0 Aimed)",
+  "max_ammo": 72,
+  "reload": 0.6,
+  "projectile_speed": "70.0m/s",
+  "disposition": 2,
+  "stat_proc": 10,
+  "physical_damage": 100,
+  "impact_damage": 90,
+  "puncture_damage": 5,
+  "slash_damage": 5,
+  "crit_chance": 35,
+  "crit_damage": 2,
+  "charge": {
+    "physical_damage": 200,
+    "impact_damage": 180,
+    "puncture_damage": 10,
+    "slash_damage": 10,
+    "speed": 1,
+    "crit_chance": 35,
+    "crit_damage": 2
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Cernos",
+  "categories": [
+    "Bow",
+    "Tenno",
+    "Primary Weapons",
+    "Update 11",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Silent",
+    "Single-Shot"
+  ]
+}

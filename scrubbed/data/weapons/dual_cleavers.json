@@ -1,0 +1,40 @@
+{
+  "name": "Dual Cleavers",
+  "image": "Dual Cleavers.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 3,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 35,
+  "impact_damage": 5.25,
+  "puncture_damage": 5.25,
+  "slash_damage": 24.5,
+  "crit_chance": 25,
+  "crit_damage": 3,
+  "slam": {
+    "physical_damage": 25,
+    "impact_damage": 25,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 75,
+    "impact_damage": 11.25,
+    "puncture_damage": 11.25,
+    "slash_damage": 52.5
+  },
+  "finisher_damage": 55,
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Dual_Cleavers",
+  "categories": [
+    "Dual Swords",
+    "Grineer",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "AT Ogris",
+  "image": "OgrisNew.png",
+  "type": "Auto Targeting Rocket Launcher",
+  "projectile_speed": "Slow",
+  "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+  "wiki_link": "/wiki/AT_Ogris",
+  "categories": [
+    "Enemy Weapon",
+    "Grineer",
+    "Speculation"
+  ]
+}

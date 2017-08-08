@@ -1,0 +1,33 @@
+{
+  "name": "Kama",
+  "image": "Kama.png",
+  "mastery_level": 1,
+  "slot": "Melee",
+  "type": "Machete",
+  "disposition": 5,
+  "stat_proc": 2,
+  "attack_rate": 1.17,
+  "physical_damage": 45,
+  "impact_damage": 6.75,
+  "puncture_damage": 6.75,
+  "slash_damage": 31.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 45
+  },
+  "slide": {
+    "physical_damage": 135
+  },
+  "max_targets": 3,
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Kama",
+  "categories": [
+    "Tenno",
+    "Machete",
+    "Melee Weapons",
+    "Update 10",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

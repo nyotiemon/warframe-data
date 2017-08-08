@@ -1,0 +1,32 @@
+{
+  "name": "Vasto",
+  "image": "Vasto.png",
+  "slot": "Secondary",
+  "type": "Revolver",
+  "trigger": "Semi-Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 5,
+  "accuracy": 16,
+  "clip": 6,
+  "max_ammo": 210,
+  "reload": 1,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 5,
+  "physical_damage": 50,
+  "impact_damage": 12.5,
+  "puncture_damage": 12.5,
+  "slash_damage": 25,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Vasto",
+  "categories": [
+    "Single Sidearm",
+    "Tenno",
+    "Secondary Weapons",
+    "Update 9",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

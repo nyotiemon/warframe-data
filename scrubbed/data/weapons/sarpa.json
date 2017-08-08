@@ -1,0 +1,37 @@
+{
+  "name": "Sarpa",
+  "image": "TnoGunbladeAuto.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Gunblade",
+  "noise_level": "Silent",
+  "disposition": 4,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 70,
+  "impact_damage": 7,
+  "puncture_damage": 14,
+  "slash_damage": 49,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "pellets": 5,
+  "charge": {
+    "physical_damage": 35
+  },
+  "slam": {
+    "physical_damage": "?"
+  },
+  "slide": {
+    "physical_damage": 210
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Sarpa",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Update 19",
+    "Tenno",
+    "Gunblade",
+    "Slash Damage Weapons"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Corvas",
+  "image": "ArchLaunchGrenade.png",
+  "slot": "Arch-Gun",
+  "type": "Shotgun",
+  "trigger": "Charge",
+  "rate_of_fire": 2,
+  "accuracy": 9.1,
+  "clip": 25,
+  "stat_proc": 10,
+  "physical_damage": 420,
+  "impact_damage": 336,
+  "puncture_damage": 42,
+  "slash_damage": 42,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "pellets": 12,
+  "charge": {
+    "physical_damage": 840,
+    "impact_damage": 672,
+    "puncture_damage": 84,
+    "slash_damage": 84,
+    "speed": 0.5,
+    "crit_chance": 15,
+    "crit_damage": 2
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Corvas",
+  "categories": [
+    "Archwing",
+    "Archwing Weapons",
+    "Update 15",
+    "Archwing Gun",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Tenno"
+  ]
+}

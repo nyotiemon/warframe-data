@@ -1,0 +1,31 @@
+{
+  "name": "Ankyros Prime",
+  "image": "PrimeAnkyros.png",
+  "slot": "Melee",
+  "type": "Fist",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 1.25,
+  "physical_damage": 38,
+  "impact_damage": 26.6,
+  "puncture_damage": 5.7,
+  "slash_damage": 5.7,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 114
+  },
+  "slide": {
+    "physical_damage": 114
+  },
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Ankyros_Prime",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Fist",
+    "Prime",
+    "Update 12",
+    "Impact Damage Weapons"
+  ]
+}

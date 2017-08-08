@@ -1,0 +1,26 @@
+{
+  "name": "Karyst",
+  "image": "KarystDagger.png",
+  "slot": "Melee",
+  "type": "Dagger",
+  "disposition": 4,
+  "stat_proc": 15,
+  "attack_rate": 0.75,
+  "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+  "elemental_damage": 50,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 107
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Karyst",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Dagger",
+    "Tenno",
+    "Toxin Damage Weapons",
+    "Update 14"
+  ]
+}

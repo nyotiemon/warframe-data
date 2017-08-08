@@ -1,0 +1,30 @@
+{
+  "name": "Velocitus",
+  "image": "ArchRailgun.png",
+  "slot": "Arch-Gun",
+  "trigger": "Charge",
+  "rate_of_fire": 5,
+  "accuracy": 28.6,
+  "clip": 100,
+  "stat_proc": 25,
+  "elemental_damage_type": "{{Icon|Proc|Magnetic|text}}",
+  "elemental_damage": 200,
+  "crit_chance": 25,
+  "crit_damage": 3,
+  "charge": {
+    "elemental_damage_type": "{{Icon|Proc|Magnetic|text}}",
+    "elemental_damage": 1800,
+    "speed": 1,
+    "crit_chance": 25,
+    "crit_damage": 3
+  },
+  "wiki_link": "/wiki/Velocitus",
+  "categories": [
+    "Archwing",
+    "Archwing Weapons",
+    "Archwing Gun",
+    "Weapons",
+    "Update 15",
+    "Magnetic Damage"
+  ]
+}

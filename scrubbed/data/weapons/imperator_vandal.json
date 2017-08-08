@@ -1,0 +1,29 @@
+{
+  "name": "Imperator Vandal",
+  "image": "ImperatorVandal.png",
+  "slot": "Arch-Gun",
+  "trigger": "Auto",
+  "rate_of_fire": 25,
+  "accuracy": 25,
+  "clip": 300,
+  "stat_proc": 10,
+  "physical_damage": 40,
+  "impact_damage": 16,
+  "puncture_damage": 14,
+  "slash_damage": 10,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Imperator_Vandal",
+  "categories": [
+    "Vandal",
+    "Archwing",
+    "Archwing Weapons",
+    "Archwing Gun",
+    "Event Reward",
+    "Update 15",
+    "Weapons",
+    "Tenno",
+    "Impact Damage Weapons"
+  ]
+}

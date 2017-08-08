@@ -1,0 +1,28 @@
+{
+  "name": "Bo Prime",
+  "image": "PrimeBo.png",
+  "mastery_level": 5,
+  "slot": "Melee",
+  "type": "Staff",
+  "disposition": 4,
+  "stat_proc": 25,
+  "attack_rate": 1.08,
+  "physical_damage": 75,
+  "impact_damage": 67.5,
+  "puncture_damage": 7.5,
+  "crit_chance": 12.5,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 161
+  },
+  "polarities": "{{Icon|Pol|D}} {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Bo_Prime",
+  "categories": [
+    "Prime",
+    "Staff",
+    "Melee Weapons",
+    "Update 13",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

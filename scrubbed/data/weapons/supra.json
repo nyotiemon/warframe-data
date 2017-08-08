@@ -1,0 +1,33 @@
+{
+  "name": "Supra",
+  "image": "CorpusMachineGun.png",
+  "mastery_level": 7,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "rate_of_fire": 12.5,
+  "accuracy": 8.3,
+  "clip": 180,
+  "max_ammo": 1080,
+  "reload": 3,
+  "projectile_speed": "80.0m/s",
+  "disposition": 4,
+  "stat_proc": 5,
+  "physical_damage": 45,
+  "impact_damage": 4.5,
+  "puncture_damage": 33.8,
+  "slash_damage": 6.7,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "None",
+  "wiki_link": "/wiki/Supra",
+  "categories": [
+    "Research",
+    "Corpus",
+    "Assault Rifle",
+    "Primary Weapons",
+    "Update 8",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

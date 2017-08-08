@@ -1,0 +1,35 @@
+{
+  "name": "Pangolin Sword",
+  "image": "Pangolin.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 12,
+  "attack_rate": 0.917,
+  "physical_damage": 37,
+  "impact_damage": 1.85,
+  "puncture_damage": 5.55,
+  "slash_damage": 29.6,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 79
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Pangolin_Sword",
+  "categories": [
+    "Tenno",
+    "Sword",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

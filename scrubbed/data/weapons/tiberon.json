@@ -1,0 +1,33 @@
+{
+  "name": "Tiberon",
+  "image": "Tiberon.png",
+  "mastery_level": 4,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Burst",
+  "rate_of_fire": 9.09,
+  "accuracy": 33.3,
+  "clip": 30,
+  "max_ammo": 540,
+  "reload": 2.26,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 2.5,
+  "physical_damage": 60,
+  "impact_damage": 15,
+  "puncture_damage": 30,
+  "slash_damage": 15,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Tiberon",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Tenno",
+    "Assault Rifle",
+    "Update 14",
+    "Puncture Damage Weapons",
+    "Burst Fire"
+  ]
+}

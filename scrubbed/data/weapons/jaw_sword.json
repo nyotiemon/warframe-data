@@ -1,0 +1,35 @@
+{
+  "name": "Jaw Sword",
+  "image": "Jaw.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 44,
+  "impact_damage": 2.2,
+  "puncture_damage": 8.8,
+  "slash_damage": 33,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 22,
+    "radius": 4
+  },
+  "slide": {
+    "physical_damage": 94,
+    "crit_chance": 5,
+    "crit_damage": 150
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Jaw_Sword",
+  "categories": [
+    "Tenno",
+    "Sword",
+    "Melee Weapons",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

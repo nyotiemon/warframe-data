@@ -1,0 +1,36 @@
+{
+  "name": "Grattler",
+  "image": "GrnAntiAirGun.png",
+  "slot": "Arch-Gun",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 6.25,
+  "accuracy": 25,
+  "clip": 60,
+  "stat_proc": 25,
+  "physical_damage": 175,
+  "impact_damage": 17.5,
+  "puncture_damage": 140,
+  "slash_damage": 17.5,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "aoe": {
+    "physical_damage": 100,
+    "impact_damage": 10,
+    "puncture_damage": 80,
+    "slash_damage": 10
+  },
+  "conclave": 1,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Grattler",
+  "categories": [
+    "Archwing",
+    "Weapons",
+    "Archwing Gun",
+    "Archwing Weapons",
+    "Update 17",
+    "Research",
+    "Grineer",
+    "Puncture Damage Weapons"
+  ]
+}

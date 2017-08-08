@@ -1,0 +1,13 @@
+{
+  "name": "Pyrotechnic Ogris",
+  "image": "Torid2.png",
+  "type": "Pyrotechnic Rocket Launcher",
+  "projectile_speed": "Slow",
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "wiki_link": "/wiki/Pyrotechnic_Ogris",
+  "categories": [
+    "Enemy Weapon",
+    "Grineer",
+    "Speculation"
+  ]
+}

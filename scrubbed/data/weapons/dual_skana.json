@@ -1,0 +1,33 @@
+{
+  "name": "Dual Skana",
+  "image": "DualSkana.png",
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 32,
+  "impact_damage": 4.8,
+  "puncture_damage": 4.8,
+  "slash_damage": 22.4,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 64,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 192
+  },
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Dual_Skana",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Dual Swords",
+    "Closed Beta",
+    "Slash Damage Weapons",
+    "Vanilla"
+  ]
+}

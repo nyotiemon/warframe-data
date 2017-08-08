@@ -1,0 +1,33 @@
+{
+  "name": "Machete",
+  "image": "Machete.png",
+  "mastery_level": 1,
+  "slot": "Melee",
+  "type": "Machete",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 25,
+  "impact_damage": 3.75,
+  "puncture_damage": 3.75,
+  "slash_damage": 17.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 75
+  },
+  "max_targets": 1,
+  "wiki_link": "/wiki/Machete",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Machete",
+    "Grineer",
+    "Update 8",
+    "Slash Damage Weapons"
+  ]
+}

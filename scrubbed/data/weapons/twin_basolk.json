@@ -1,0 +1,32 @@
+{
+  "name": "Twin Basolk",
+  "image": "GrnDualFireAxe.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 4,
+  "stat_proc": 40,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Heat|Text}}",
+  "elemental_damage": 65,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 65
+  },
+  "slide": {
+    "physical_damage": 390
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Twin_Basolk",
+  "categories": [
+    "Melee Weapons",
+    "Grineer",
+    "Dual Swords",
+    "Heat Damage",
+    "Hybrid Weapons",
+    "Market",
+    "Update 17",
+    "Weapons"
+  ]
+}

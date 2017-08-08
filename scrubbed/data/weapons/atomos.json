@@ -1,0 +1,32 @@
+{
+  "name": "Atomos",
+  "image": "GrnHeatGun.png",
+  "mastery_level": 4,
+  "slot": "Secondary",
+  "type": "Particle Cannon",
+  "trigger": "Held",
+  "noise_level": "[[Noise Level|Alarming]]",
+  "rate_of_fire": 5,
+  "accuracy": 12.5,
+  "clip": 50,
+  "max_ammo": 210,
+  "reload": 2,
+  "projectile_speed": "Hit-scan",
+  "disposition": 2,
+  "stat_proc": 10,
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 50,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Atomos",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Heat Damage",
+    "Grineer",
+    "Update 16",
+    "Silent",
+    "Continuous Weapons"
+  ]
+}

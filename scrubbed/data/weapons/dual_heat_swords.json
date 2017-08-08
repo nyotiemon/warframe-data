@@ -1,0 +1,36 @@
+{
+  "name": "Dual Heat Swords",
+  "image": "DualHeat.png",
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 45,
+  "impact_damage": 6.75,
+  "puncture_damage": 6.75,
+  "slash_damage": 31.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+    "elemental_damage": 40,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 270
+  },
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Dual_Heat_Swords",
+  "categories": [
+    "Dual Swords",
+    "Tenno",
+    "Heat Damage",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

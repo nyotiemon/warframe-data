@@ -1,0 +1,33 @@
+{
+  "name": "Sybaris",
+  "image": "TnoLeverActionRifle.png",
+  "mastery_level": 5,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Burst",
+  "noise_level": "45.0m",
+  "rate_of_fire": 3.98,
+  "accuracy": 28.6,
+  "clip": 10,
+  "max_ammo": 540,
+  "reload": 2,
+  "disposition": 2,
+  "stat_proc": 10,
+  "physical_damage": 70,
+  "impact_damage": 23.1,
+  "puncture_damage": 23.1,
+  "slash_damage": 23.8,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "wiki_link": "/wiki/Sybaris",
+  "categories": [
+    "Primary Weapons",
+    "Assault Rifle",
+    "Research",
+    "Tenno",
+    "Update 13",
+    "Weapons",
+    "Burst Fire",
+    "Balanced Physical Damage Weapons"
+  ]
+}

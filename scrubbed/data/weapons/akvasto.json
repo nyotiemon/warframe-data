@@ -1,0 +1,32 @@
+{
+  "name": "Akvasto",
+  "image": "Dual vastos.png",
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Semi-Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 10,
+  "accuracy": 11.1,
+  "clip": 12,
+  "max_ammo": 210,
+  "reload": 1.8,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 4,
+  "stat_proc": 5,
+  "physical_damage": 50,
+  "impact_damage": 12.5,
+  "puncture_damage": 12.5,
+  "slash_damage": 25,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "polarities": "None",
+  "wiki_link": "/wiki/Akvasto",
+  "categories": [
+    "Dual Sidearms",
+    "Secondary Weapons",
+    "Update 9",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Tenno"
+  ]
+}

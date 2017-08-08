@@ -1,0 +1,33 @@
+{
+  "name": "Heliocor",
+  "image": "CephHammer.png",
+  "mastery_level": 9,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 3,
+  "stat_proc": 2.5,
+  "attack_rate": 0.833,
+  "physical_damage": 140,
+  "impact_damage": 119,
+  "puncture_damage": 14,
+  "slash_damage": 7,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 280
+  },
+  "slide": {
+    "physical_damage": 280
+  },
+  "polarities": "None",
+  "wiki_link": "/wiki/Heliocor",
+  "categories": [
+    "Update 19",
+    "Hammer",
+    "Syndicate Offerings",
+    "Cephalon Simaris",
+    "Cephalon",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

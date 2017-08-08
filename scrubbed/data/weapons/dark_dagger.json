@@ -1,0 +1,32 @@
+{
+  "name": "Dark Dagger",
+  "image": "DarkDagger.png",
+  "slot": "Melee",
+  "type": "Dagger",
+  "disposition": 1,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+  "elemental_damage": 35,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+    "elemental_damage": 25
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+    "elemental_damage": 75
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Dark_Dagger",
+  "categories": [
+    "Tenno",
+    "Dagger",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Radiation Damage Weapons"
+  ]
+}

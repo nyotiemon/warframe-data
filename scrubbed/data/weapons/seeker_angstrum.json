@@ -1,0 +1,13 @@
+{
+  "name": "Seeker Angstrum",
+  "image": "CorpusHandRocket.png",
+  "type": "Seeking Multi-Missile Launcher",
+  "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+  "wiki_link": "/wiki/Seeker_Angstrum",
+  "categories": [
+    "Enemy Weapon",
+    "Corpus",
+    "Speculation",
+    "Weapons"
+  ]
+}

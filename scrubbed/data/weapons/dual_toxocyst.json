@@ -1,0 +1,33 @@
+{
+  "name": "Dual Toxocyst",
+  "image": "InfVomitGun.png",
+  "mastery_level": 8,
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Semi-Auto",
+  "rate_of_fire": 1,
+  "accuracy": 16,
+  "clip": 12,
+  "max_ammo": 72,
+  "reload": 2.3,
+  "disposition": 4,
+  "stat_proc": 35,
+  "physical_damage": 70,
+  "impact_damage": 7,
+  "puncture_damage": 56,
+  "slash_damage": 7,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}} {{Icon|Pol|Naramon}}",
+  "wiki_link": "/wiki/Dual_Toxocyst",
+  "categories": [
+    "Update 18",
+    "Secondary Weapons",
+    "Weapons",
+    "Dual Sidearms",
+    "Puncture Damage Weapons",
+    "Infested",
+    "Research",
+    "Toxin Damage"
+  ]
+}

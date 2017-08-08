@@ -1,0 +1,34 @@
+{
+  "name": "Sydon",
+  "image": "GrnTridentWeapon.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 2,
+  "stat_proc": 25,
+  "attack_rate": 0.917,
+  "physical_damage": 75,
+  "impact_damage": 3.75,
+  "puncture_damage": 71.25,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|Text}}",
+    "elemental_damage": 20,
+    "radius": 10
+  },
+  "slide": {
+    "physical_damage": 167
+  },
+  "wiki_link": "/wiki/Sydon",
+  "categories": [
+    "Polearm",
+    "Melee Weapons",
+    "Update 18",
+    "Puncture Damage Weapons",
+    "Research",
+    "Grineer",
+    "Weapons",
+    "Warframe China Timed Exclusive"
+  ]
+}

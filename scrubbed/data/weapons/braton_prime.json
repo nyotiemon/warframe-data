@@ -1,0 +1,32 @@
+{
+  "name": "Braton Prime",
+  "image": "PrimeBraton.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "45.0m",
+  "rate_of_fire": 9.58,
+  "accuracy": 28.6,
+  "clip": 75,
+  "max_ammo": 375,
+  "reload": 2.15,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 3,
+  "stat_proc": 20,
+  "physical_damage": 35,
+  "impact_damage": 1.75,
+  "puncture_damage": 12.25,
+  "slash_damage": 21,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Braton_Prime",
+  "categories": [
+    "Update 9",
+    "Prime",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Assault Rifle"
+  ]
+}

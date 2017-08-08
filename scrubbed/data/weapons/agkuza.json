@@ -1,0 +1,30 @@
+{
+  "name": "Agkuza",
+  "image": "ArchHookSword.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 350,
+  "impact_damage": 52.5,
+  "puncture_damage": 245,
+  "slash_damage": 52.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 350
+  },
+  "slide": {
+    "physical_damage": 750
+  },
+  "conclave": 10,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Agkuza",
+  "categories": [
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Melee",
+    "Update 19",
+    "Puncture Damage Weapons",
+    "Tenno"
+  ]
+}

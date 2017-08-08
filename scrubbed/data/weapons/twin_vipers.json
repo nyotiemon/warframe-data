@@ -1,0 +1,30 @@
+{
+  "name": "Twin Vipers",
+  "image": "Viper,_dual.png",
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Auto",
+  "rate_of_fire": 25,
+  "accuracy": 8.7,
+  "clip": 28,
+  "max_ammo": 210,
+  "reload": 2,
+  "disposition": 5,
+  "stat_proc": 1,
+  "physical_damage": 16,
+  "impact_damage": 9.6,
+  "puncture_damage": 1.6,
+  "slash_damage": 4.8,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Twin_Vipers",
+  "categories": [
+    "Grineer",
+    "Dual Sidearms",
+    "Secondary Weapons",
+    "Update 7",
+    "Weapons",
+    "Impact Damage Weapons"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Cronus",
+  "image": "Cronus.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 35,
+  "impact_damage": 10.5,
+  "puncture_damage": 5.3,
+  "slash_damage": 19.2,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 3
+  },
+  "slide": {
+    "physical_damage": 75
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Cronus",
+  "categories": [
+    "Sword",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Grineer",
+    "Tenno",
+    "Vanilla"
+  ]
+}

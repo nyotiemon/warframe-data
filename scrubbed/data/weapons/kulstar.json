@@ -1,0 +1,38 @@
+{
+  "name": "Kulstar",
+  "image": "GrnTorpedoPistol.png",
+  "mastery_level": 4,
+  "slot": "Secondary",
+  "type": "Launcher",
+  "trigger": "Active",
+  "noise_level": "Alarming",
+  "rate_of_fire": 2,
+  "accuracy": 100,
+  "clip": 3,
+  "max_ammo": 30,
+  "reload": 2,
+  "disposition": 3,
+  "stat_proc": 10,
+  "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+  "elemental_damage": 175,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "aoe": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+    "elemental_damage": 200
+  },
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+    "elemental_damage": 75
+  },
+  "polarities": "{{Icon|Pol|Vazarin}}",
+  "wiki_link": "/wiki/Kulstar",
+  "categories": [
+    "Grineer",
+    "Update 17",
+    "Weapons",
+    "Secondary Weapons",
+    "Launcher",
+    "Blast Damage"
+  ]
+}

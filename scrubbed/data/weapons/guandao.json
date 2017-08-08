@@ -1,0 +1,31 @@
+{
+  "name": "Guandao",
+  "image": "Guandao.png",
+  "mastery_level": 4,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 3,
+  "stat_proc": 4,
+  "attack_rate": 0.833,
+  "physical_damage": 90,
+  "impact_damage": 22.5,
+  "puncture_damage": 4.5,
+  "slash_damage": 63,
+  "crit_chance": 24,
+  "crit_damage": 2.2,
+  "slam": {
+    "physical_damage": "<!-- 180.0 -->"
+  },
+  "slide": {
+    "physical_damage": 200
+  },
+  "polarities": "{{Icon|Pol|D}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Guandao",
+  "categories": [
+    "Update 21",
+    "Tenno",
+    "Slash Damage Weapons",
+    "Research",
+    "Weapons"
+  ]
+}

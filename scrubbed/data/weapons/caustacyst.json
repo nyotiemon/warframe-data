@@ -1,0 +1,32 @@
+{
+  "name": "Caustacyst",
+  "image": "EmbolistScythe.png",
+  "mastery_level": 7,
+  "slot": "Melee",
+  "type": "Scythe",
+  "disposition": 4,
+  "stat_proc": 30,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Corrosive|Text}}",
+  "elemental_damage": 75,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Corrosive|Text}}",
+    "elemental_damage": 150
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Corrosive|Text}}",
+    "elemental_damage": 150
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Caustacyst",
+  "categories": [
+    "Infested",
+    "Update 19",
+    "Weapons",
+    "Corrosive Damage Weapons",
+    "Scythe",
+    "Research"
+  ]
+}

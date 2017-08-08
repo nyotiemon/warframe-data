@@ -1,0 +1,30 @@
+{
+  "name": "Akmagnus",
+  "image": "DEAkmagnus.png",
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Semi-auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 8.3,
+  "accuracy": 11.1,
+  "clip": 16,
+  "reload": 3,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 4,
+  "stat_proc": 25,
+  "physical_damage": 45.1,
+  "impact_damage": 20.3,
+  "puncture_damage": 12.4,
+  "slash_damage": 12.4,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "wiki_link": "/wiki/Akmagnus",
+  "categories": [
+    "Dual Sidearms",
+    "Secondary Weapons",
+    "Update 11",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Tenno"
+  ]
+}

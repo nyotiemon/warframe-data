@@ -1,0 +1,32 @@
+{
+  "name": "Lacera",
+  "image": "StalkerMios.png",
+  "mastery_level": 7,
+  "slot": "Melee",
+  "type": "Blade and Whip",
+  "disposition": 5,
+  "stat_proc": 45,
+  "attack_rate": 0.917,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|Text}}",
+  "elemental_damage": 80,
+  "crit_chance": 2.5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 80
+  },
+  "slide": {
+    "elemental_damage_type": "Electricity",
+    "elemental_damage": 171
+  },
+  "polarities": "{{Icon|Pol|Naramon}}",
+  "wiki_link": "/wiki/Lacera",
+  "categories": [
+    "Melee Weapons",
+    "Blade and Whip",
+    "Research",
+    "Tenno",
+    "Update 18",
+    "Weapons",
+    "Electricity Damage Weapons"
+  ]
+}

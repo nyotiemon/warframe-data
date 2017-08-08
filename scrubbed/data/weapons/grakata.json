@@ -1,0 +1,33 @@
+{
+  "name": "Grakata",
+  "image": "GrineerAssaultRifle.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 20,
+  "accuracy": 28.6,
+  "clip": 60,
+  "max_ammo": 750,
+  "reload": 2.37,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 3,
+  "stat_proc": 20,
+  "physical_damage": 11,
+  "impact_damage": 4.4,
+  "puncture_damage": 3.67,
+  "slash_damage": 2.93,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Grakata",
+  "categories": [
+    "Assault Rifle",
+    "Grineer",
+    "Primary Weapons",
+    "Update 7",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Clem"
+  ]
+}

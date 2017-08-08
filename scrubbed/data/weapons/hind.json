@@ -1,0 +1,39 @@
+{
+  "name": "Hind",
+  "image": "Hind.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Burst",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 6.25,
+  "accuracy": 33.3,
+  "clip": 65,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 30,
+  "impact_damage": 7.5,
+  "puncture_damage": 7.5,
+  "slash_damage": 15,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "secondary": {
+    "physical_damage": 60,
+    "impact_damage": 12,
+    "puncture_damage": 12,
+    "slash_damage": 36
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Hind",
+  "categories": [
+    "Update 9",
+    "Grineer",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Assault Rifle",
+    "Burst Fire"
+  ]
+}

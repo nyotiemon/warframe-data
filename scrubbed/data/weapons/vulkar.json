@@ -1,0 +1,32 @@
+{
+  "name": "Vulkar",
+  "image": "Vulkar.png",
+  "slot": "Primary",
+  "type": "Sniper Rifle",
+  "trigger": "Semi-Auto",
+  "rate_of_fire": 1.5,
+  "accuracy": 13.3,
+  "clip": 6,
+  "max_ammo": 72,
+  "reload": 3,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 25,
+  "physical_damage": 225,
+  "impact_damage": 180,
+  "puncture_damage": 33.8,
+  "slash_damage": 11.2,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Vulkar",
+  "categories": [
+    "Grineer",
+    "Sniper Rifle",
+    "Primary Weapons",
+    "Update 8",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Semi-Automatic"
+  ]
+}

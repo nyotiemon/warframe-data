@@ -1,0 +1,35 @@
+{
+  "name": "Skana",
+  "image": "DESkana.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 4,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 35,
+  "impact_damage": 5.25,
+  "puncture_damage": 5.25,
+  "slash_damage": 24.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 75,
+    "crit_chance": 5
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Skana",
+  "categories": [
+    "Sword",
+    "Tenno",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Vanilla"
+  ]
+}

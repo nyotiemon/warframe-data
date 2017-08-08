@@ -1,0 +1,33 @@
+{
+  "name": "Zhuge",
+  "image": "RepeatingCrossbow.png",
+  "slot": "Primary",
+  "type": "Crossbow",
+  "trigger": "Auto",
+  "noise_level": "Silent",
+  "rate_of_fire": 4.17,
+  "accuracy": 40,
+  "clip": 20,
+  "max_ammo": 540,
+  "reload": 2.5,
+  "disposition": 3,
+  "stat_proc": 35,
+  "physical_damage": 100,
+  "impact_damage": 5,
+  "puncture_damage": 75,
+  "slash_damage": 20,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Zhuge",
+  "categories": [
+    "Primary Weapons",
+    "Tenno",
+    "Automatic",
+    "Bow",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Update 18",
+    "Warframe China Timed Exclusive"
+  ]
+}

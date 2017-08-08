@@ -1,0 +1,29 @@
+{
+  "name": "Dual Kamas",
+  "image": "DEDualKamas.png",
+  "mastery_level": 1,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 2,
+  "stat_proc": 7.5,
+  "attack_rate": 1.17,
+  "physical_damage": 42,
+  "impact_damage": 2.1,
+  "puncture_damage": 4.2,
+  "slash_damage": 35.7,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slide": {
+    "physical_damage": 252
+  },
+  "max_targets": 3,
+  "wiki_link": "/wiki/Dual_Kamas",
+  "categories": [
+    "Dual Swords",
+    "Tenno",
+    "Melee Weapons",
+    "Update 11",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

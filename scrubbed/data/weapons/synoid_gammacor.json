@@ -1,0 +1,33 @@
+{
+  "name": "Synoid Gammacor",
+  "image": "SynoidGammacor.png",
+  "mastery_level": 6,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Held",
+  "noise_level": "10.0m",
+  "rate_of_fire": 15,
+  "accuracy": 100,
+  "clip": 150,
+  "max_ammo": 450,
+  "reload": 2,
+  "disposition": 1,
+  "stat_proc": 20,
+  "elemental_damage_type": "{{Icon|Proc|Magnetic|text}}",
+  "elemental_damage": 28,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|D}}{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Synoid_Gammacor",
+  "categories": [
+    "Syndicate Offerings",
+    "Weapons",
+    "Secondary Weapons",
+    "Magnetic Damage",
+    "Update 15",
+    "Augmented Weapons",
+    "Special Weapons",
+    "Cephalon",
+    "Continuous Weapons"
+  ]
+}

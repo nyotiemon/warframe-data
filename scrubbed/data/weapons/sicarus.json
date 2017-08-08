@@ -1,0 +1,33 @@
+{
+  "name": "Sicarus",
+  "image": "Sicarus.png",
+  "mastery_level": 3,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Burst",
+  "rate_of_fire": 7.39,
+  "accuracy": 20,
+  "clip": 15,
+  "reload": 2,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 5,
+  "physical_damage": 40,
+  "impact_damage": 28,
+  "puncture_damage": 6,
+  "slash_damage": 6,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Sicarus",
+  "categories": [
+    "Single Sidearm",
+    "Tenno",
+    "Secondary Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Burst Fire",
+    "Vanilla"
+  ]
+}

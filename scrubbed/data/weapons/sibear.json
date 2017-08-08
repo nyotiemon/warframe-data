@@ -1,0 +1,29 @@
+{
+  "name": "Sibear",
+  "image": "IceHammer.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Cold|Text}}",
+  "elemental_damage": 130,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "elemental_damage": 130
+  },
+  "slide": {
+    "elemental_damage": 260
+  },
+  "polarities": "{{Icon|Pol|Vazarin}}",
+  "wiki_link": "/wiki/Sibear",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Hammer",
+    "Cold Damage Weapons",
+    "Update 18"
+  ]
+}

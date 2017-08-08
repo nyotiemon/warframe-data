@@ -1,0 +1,35 @@
+{
+  "name": "Prova",
+  "image": "Prova8point2.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Machete",
+  "disposition": 4,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 35,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 25,
+    "radius": 3
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 105
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Prova",
+  "categories": [
+    "Research",
+    "Corpus",
+    "Electricity Damage Weapons",
+    "Machete",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons"
+  ]
+}

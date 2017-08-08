@@ -1,0 +1,37 @@
+{
+  "name": "Harpak",
+  "image": "GrnHarpoonGun.png",
+  "mastery_level": 3,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Burst/Charge",
+  "noise_level": "Alarming",
+  "rate_of_fire": 6,
+  "accuracy": 18.2,
+  "clip": 45,
+  "max_ammo": 540,
+  "reload": 2,
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 50,
+  "impact_damage": 5,
+  "puncture_damage": 37.5,
+  "slash_damage": 7.5,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "secondary": {
+    "physical_damage": 50,
+    "puncture_damage": 50
+  },
+  "polarities": "{{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Harpak",
+  "categories": [
+    "Grineer",
+    "Update 17",
+    "Weapons",
+    "Primary Weapons",
+    "Assault Rifle",
+    "Puncture Damage Weapons",
+    "Burst Fire"
+  ]
+}

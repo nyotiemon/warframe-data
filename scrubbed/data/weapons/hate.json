@@ -1,0 +1,34 @@
+{
+  "name": "Hate",
+  "image": "DEStalkerScythe.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Scythe",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 0.917,
+  "physical_damage": 70,
+  "impact_damage": 10.5,
+  "puncture_damage": 10.5,
+  "slash_damage": 49,
+  "crit_chance": 20,
+  "crit_damage": 2.5,
+  "slam": {
+    "physical_damage": 30,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 140
+  },
+  "max_targets": 3,
+  "cleave_radius": 0.2,
+  "wiki_link": "/wiki/Hate",
+  "categories": [
+    "Scythe",
+    "Stalker",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

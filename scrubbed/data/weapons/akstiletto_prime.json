@@ -1,0 +1,33 @@
+{
+  "name": "Akstiletto Prime",
+  "image": "PrimeAkstiletto.png",
+  "mastery_level": 5,
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 7.08,
+  "accuracy": 23.5,
+  "clip": 40,
+  "max_ammo": 400,
+  "reload": 1.1,
+  "projectile_speed": "Hit-scan",
+  "disposition": 1,
+  "stat_proc": 30,
+  "physical_damage": 36,
+  "impact_damage": 21.6,
+  "puncture_damage": 3.6,
+  "slash_damage": 10.8,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Bar}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Akstiletto_Prime",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Dual Sidearms",
+    "Prime",
+    "Update 18",
+    "Impact Damage Weapons"
+  ]
+}

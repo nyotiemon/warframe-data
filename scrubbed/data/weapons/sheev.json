@@ -1,0 +1,35 @@
+{
+  "name": "Sheev",
+  "image": "GrineerCombatKnife.png",
+  "slot": "Melee",
+  "type": "Dagger",
+  "disposition": 3,
+  "stat_proc": 25,
+  "attack_rate": 0.667,
+  "physical_damage": 45,
+  "impact_damage": 2.25,
+  "puncture_damage": 2.25,
+  "slash_damage": 40.5,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 90
+  },
+  "slide": {
+    "physical_damage": 96
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Sheev",
+  "categories": [
+    "Weapons",
+    "Dagger",
+    "Grineer",
+    "Melee Weapons",
+    "Update 14",
+    "Event Reward",
+    "Heat Damage",
+    "Sortie Reward",
+    "Slash Damage Weapons",
+    "Invasion Reward"
+  ]
+}

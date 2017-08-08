@@ -1,0 +1,35 @@
+{
+  "name": "Telos Boltace",
+  "image": "AHBoltace.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Tonfa",
+  "disposition": 3,
+  "stat_proc": 25,
+  "attack_rate": 1.08,
+  "physical_damage": 85,
+  "impact_damage": 8.5,
+  "puncture_damage": 72.3,
+  "slash_damage": 4.2,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 170
+  },
+  "slide": {
+    "physical_damage": 510
+  },
+  "polarities": "1x{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Telos_Boltace",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Special Weapons",
+    "Augmented Weapons",
+    "Syndicate Offerings",
+    "Tonfa",
+    "Update 19",
+    "Puncture Damage Weapons",
+    "Tenno"
+  ]
+}

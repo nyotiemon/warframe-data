@@ -1,0 +1,33 @@
+{
+  "name": "Aklato",
+  "image": "Aklato.png",
+  "mastery_level": 1,
+  "slot": "Secondary",
+  "type": "Dual Sidearms",
+  "trigger": "Semi-Auto",
+  "rate_of_fire": 8.3,
+  "accuracy": 11.1,
+  "clip": 30,
+  "max_ammo": 210,
+  "reload": 2.4,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 3,
+  "physical_damage": 30,
+  "impact_damage": 4.5,
+  "puncture_damage": 7.5,
+  "slash_damage": 18,
+  "crit_chance": 10,
+  "crit_damage": 1.8,
+  "polarities": "None",
+  "wiki_link": "/wiki/Aklato",
+  "categories": [
+    "Dual Sidearms",
+    "Secondary Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Tenno",
+    "Vanilla"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Kunai",
+  "image": "Kunai2.png",
+  "mastery_level": 2,
+  "slot": "Secondary",
+  "type": "Thrown",
+  "trigger": "Auto",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 3.3,
+  "accuracy": 100,
+  "clip": 10,
+  "max_ammo": 210,
+  "reload": 0.8,
+  "projectile_speed": "70.0m/s",
+  "disposition": 5,
+  "stat_proc": 2.5,
+  "physical_damage": 45,
+  "impact_damage": 4.5,
+  "puncture_damage": 33.8,
+  "slash_damage": 6.7,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Kunai",
+  "categories": [
+    "Thrown",
+    "Secondary Weapons",
+    "Update 8",
+    "Silent",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Gram",
+  "image": "DEGram.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Heavy Blade",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 0.95,
+  "physical_damage": 100,
+  "impact_damage": 15,
+  "puncture_damage": 15,
+  "slash_damage": 70,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 200,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 200
+  },
+  "finisher_damage": 200,
+  "max_targets": 3,
+  "cleave_radius": 0.2,
+  "wiki_link": "/wiki/Gram",
+  "categories": [
+    "Heavy Blade",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Tenno",
+    "Slash Damage Weapons"
+  ]
+}

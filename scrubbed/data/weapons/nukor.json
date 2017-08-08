@@ -1,0 +1,29 @@
+{
+  "name": "Nukor",
+  "image": "GrineerMicrowaveGun.png",
+  "mastery_level": 4,
+  "slot": "Secondary",
+  "trigger": "Held",
+  "noise_level": "~45.0m",
+  "rate_of_fire": 5,
+  "accuracy": 100,
+  "clip": 50,
+  "max_ammo": 210,
+  "reload": 2,
+  "disposition": "{{Icon|Dis|5|text}}",
+  "stat_proc": 20,
+  "elemental_damage_type": "{{Icon|Proc|Radiation|Text}}",
+  "elemental_damage": 32,
+  "crit_chance": 1,
+  "crit_damage": 4,
+  "wiki_link": "/wiki/Nukor",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Single Sidearm",
+    "Grineer",
+    "Radiation Damage Weapons",
+    "Update 14",
+    "Continuous Weapons"
+  ]
+}

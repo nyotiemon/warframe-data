@@ -1,0 +1,32 @@
+{
+  "name": "Dual Kamas Prime",
+  "image": "DualKamasPrime.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 2,
+  "stat_proc": 20,
+  "attack_rate": 1.17,
+  "physical_damage": 70,
+  "impact_damage": 3.5,
+  "puncture_damage": 14,
+  "slash_damage": 52.5,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 70
+  },
+  "slide": {
+    "physical_damage": 420
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Dual_Kamas_Prime",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Dual Swords",
+    "Prime",
+    "Update 17",
+    "Slash Damage Weapons"
+  ]
+}

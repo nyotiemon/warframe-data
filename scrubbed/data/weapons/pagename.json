@@ -1,0 +1,29 @@
+{
+  "name": "{{PAGENAME}}",
+  "image": "Nunchaku.png",
+  "slot": "Melee",
+  "type": "Nunchaku",
+  "disposition": 5,
+  "stat_proc": 35,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 45,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "elemental_damage": 45
+  },
+  "slide": {
+    "elemental_damage": 96
+  },
+  "wiki_link": "/wiki/Ninkondi",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Nunchaku",
+    "Tenno",
+    "Electricity Damage Weapons",
+    "Update 17",
+    "Warframe China Timed Exclusive"
+  ]
+}

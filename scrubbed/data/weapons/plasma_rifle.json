@@ -1,0 +1,12 @@
+{
+  "name": "Plasma Rifle",
+  "image": "PlasmaRifle.png",
+  "type": "Rifle",
+  "trigger": "Auto",
+  "physical_damage": "Low",
+  "wiki_link": "/wiki/Plasma_Rifle",
+  "categories": [
+    "Corpus",
+    "Enemy Weapon"
+  ]
+}

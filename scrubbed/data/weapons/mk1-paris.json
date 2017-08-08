@@ -1,0 +1,43 @@
+{
+  "name": "MK1-Paris",
+  "image": "Paris.png",
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 1,
+  "accuracy": "16.7 (100.0 Aimed)",
+  "max_ammo": 72,
+  "reload": 0.6,
+  "projectile_speed": "70.0m/s",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 10,
+  "physical_damage": 60,
+  "impact_damage": 3,
+  "puncture_damage": 48,
+  "slash_damage": 9,
+  "crit_chance": 30,
+  "crit_damage": 1.5,
+  "charge": {
+    "physical_damage": 120,
+    "impact_damage": 6,
+    "puncture_damage": 96,
+    "slash_damage": 18,
+    "speed": 0.5,
+    "crit_chance": 30,
+    "crit_damage": 2
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/MK1-Paris",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Bow",
+    "MK1",
+    "Tenno",
+    "Update 14",
+    "Silent",
+    "Single-Shot",
+    "Puncture Damage Weapons"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Scoliac",
+  "image": "DEScoliac2.png",
+  "mastery_level": 6,
+  "slot": "Melee",
+  "type": "Whip",
+  "disposition": 4,
+  "stat_proc": 15,
+  "attack_rate": 1.25,
+  "physical_damage": 55,
+  "impact_damage": 8.25,
+  "puncture_damage": 8.25,
+  "slash_damage": 38.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+    "elemental_damage": 25,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 74,
+    "impact_damage": 11,
+    "puncture_damage": 11,
+    "slash_damage": 52
+  },
+  "finisher_damage": 75,
+  "max_targets": 5,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Scoliac",
+  "categories": [
+    "Whip",
+    "Research",
+    "Infested",
+    "Toxin Damage",
+    "Melee Weapons",
+    "Update 11",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

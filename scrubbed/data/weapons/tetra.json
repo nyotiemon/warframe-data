@@ -1,0 +1,32 @@
+{
+  "name": "Tetra",
+  "image": "DETetra.png",
+  "mastery_level": 3,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 6.7,
+  "accuracy": 18.2,
+  "clip": 60,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "100.0m/s",
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 30,
+  "impact_damage": 6,
+  "puncture_damage": 24,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "None",
+  "wiki_link": "/wiki/Tetra",
+  "categories": [
+    "Corpus",
+    "Assault Rifle",
+    "Primary Weapons",
+    "Update 11",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

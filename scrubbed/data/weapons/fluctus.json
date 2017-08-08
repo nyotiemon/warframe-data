@@ -1,0 +1,27 @@
+{
+  "name": "Fluctus",
+  "image": "ArchRocketCrossbow.png",
+  "slot": "Arch-Gun",
+  "trigger": "Semi-Auto",
+  "rate_of_fire": 5,
+  "accuracy": 100,
+  "clip": 25,
+  "stat_proc": 10,
+  "physical_damage": 200,
+  "impact_damage": 40,
+  "puncture_damage": 20,
+  "slash_damage": 140,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Fluctus",
+  "categories": [
+    "Archwing",
+    "Archwing Weapons",
+    "Weapons",
+    "Update 15",
+    "Archwing Gun",
+    "Research",
+    "Slash Damage Weapons"
+  ]
+}

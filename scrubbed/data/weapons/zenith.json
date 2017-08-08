@@ -1,0 +1,40 @@
+{
+  "name": "Zenith",
+  "image": "SundialRifle.png",
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto / Semi-auto",
+  "rate_of_fire": "10.83 / 1.0",
+  "accuracy": 33.3,
+  "clip": 90,
+  "max_ammo": 540,
+  "reload": "1.6 / 1.4",
+  "projectile_speed": "Hit-Scan",
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 30,
+  "physical_damage": 30,
+  "impact_damage": 4.5,
+  "puncture_damage": 6,
+  "slash_damage": 19.5,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "secondary": {
+    "physical_damage": 150,
+    "impact_damage": 15,
+    "puncture_damage": 120,
+    "slash_damage": 15
+  },
+  "polarities": "{{Icon|Pol|Bar}} {{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Zenith",
+  "categories": [
+    "Assault Rifle",
+    "Update 20",
+    "Daily Tribute Rewards",
+    "Tenno",
+    "Slash Damage Weapons",
+    "Primary Weapons",
+    "Semi-Automatic",
+    "Automatic",
+    "Puncture Damage Weapons"
+  ]
+}

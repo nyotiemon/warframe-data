@@ -1,0 +1,30 @@
+{
+  "name": "Hema",
+  "image": "InfestedBurstRifle.png",
+  "mastery_level": 7,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Burst",
+  "rate_of_fire": 6,
+  "accuracy": 20,
+  "clip": 60,
+  "reload": 2,
+  "disposition": 3,
+  "stat_proc": 25,
+  "elemental_damage_type": "{{Icon|Proc|Viral|Text}}",
+  "elemental_damage": 45,
+  "crit_chance": 7.5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Hema",
+  "categories": [
+    "Primary Weapons",
+    "Research",
+    "Infested",
+    "Viral Damage Weapons",
+    "Assault Rifle",
+    "Burst Fire",
+    "Update 19",
+    "Weapons"
+  ]
+}

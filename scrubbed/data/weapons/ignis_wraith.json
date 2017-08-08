@@ -1,0 +1,31 @@
+{
+  "name": "Ignis Wraith",
+  "image": "IgnisWraith.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Flamethrower",
+  "trigger": "Held",
+  "noise_level": "25.0m",
+  "rate_of_fire": 10,
+  "accuracy": 100,
+  "clip": 200,
+  "max_ammo": 800,
+  "reload": 2,
+  "projectile_speed": "Hit-scan",
+  "disposition": "{{Icon|Dis|2|text}}",
+  "stat_proc": 30,
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 25,
+  "crit_chance": 12,
+  "crit_damage": 2,
+  "punch_through": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Ignis_Wraith",
+  "categories": [
+    "Wraith",
+    "Grineer",
+    "Heat Damage Weapons",
+    "Update 19",
+    "Continuous Weapons"
+  ]
+}

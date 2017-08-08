@@ -1,0 +1,38 @@
+{
+  "name": "Mire",
+  "image": "MireInfestedSword.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1.08,
+  "physical_damage": 35,
+  "impact_damage": 5.25,
+  "puncture_damage": 5.25,
+  "slash_damage": 24.5,
+  "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+  "elemental_damage": "3.5 (10% of Base Damage)",
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+    "elemental_damage": 25,
+    "radius": 5
+  },
+  "slide": {
+    "physical_damage": 75
+  },
+  "finisher_damage": 75,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Mire",
+  "categories": [
+    "Infested",
+    "Toxin Damage",
+    "Sword",
+    "Melee Weapons",
+    "Update 7",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

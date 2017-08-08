@@ -1,0 +1,47 @@
+{
+  "name": "Mutalist Cernos",
+  "image": "InfCernos.png",
+  "mastery_level": 5,
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "Silent",
+  "rate_of_fire": 1,
+  "accuracy": 16.7,
+  "max_ammo": 72,
+  "reload": 0.6,
+  "disposition": 4,
+  "stat_proc": 45,
+  "physical_damage": 125,
+  "impact_damage": 112.5,
+  "puncture_damage": 6.25,
+  "slash_damage": 6.25,
+  "crit_chance": 15,
+  "crit_damage": 1.5,
+  "charge": {
+    "physical_damage": 225,
+    "impact_damage": 202.5,
+    "puncture_damage": 11.25,
+    "slash_damage": 11.25,
+    "speed": 1,
+    "crit_chance": 15,
+    "crit_damage": 2
+  },
+  "aoe": {
+    "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+    "elemental_damage": "5/sec",
+    "number_of_ticks": 10
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Mutalist_Cernos",
+  "categories": [
+    "Update 18",
+    "Primary Weapons",
+    "Bow",
+    "Weapons",
+    "Mutalist",
+    "Impact Damage Weapons",
+    "Toxin Damage",
+    "Single-Shot"
+  ]
+}

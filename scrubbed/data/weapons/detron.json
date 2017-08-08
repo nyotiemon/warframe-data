@@ -1,0 +1,33 @@
+{
+  "name": "Detron",
+  "image": "DECorpusHandCannon.png",
+  "mastery_level": 6,
+  "slot": "Secondary",
+  "type": "Shotgun Sidearm",
+  "trigger": "Semi-Auto",
+  "noise_level": "30.0m",
+  "rate_of_fire": 3.3,
+  "accuracy": 7.1,
+  "clip": 5,
+  "max_ammo": 210,
+  "reload": 1,
+  "projectile_speed": "150.0m/s",
+  "disposition": 3,
+  "stat_proc": 20,
+  "elemental_damage_type": "{{Icon|Proc|Radiation|text}}",
+  "elemental_damage": 280,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "pellets": 7,
+  "polarities": "None",
+  "wiki_link": "/wiki/Detron",
+  "categories": [
+    "Corpus",
+    "Single Sidearm",
+    "Radiation Damage Weapons",
+    "Secondary Weapons",
+    "Update 11",
+    "Weapons",
+    "Shotgun Sidearm"
+  ]
+}

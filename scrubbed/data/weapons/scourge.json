@@ -1,0 +1,37 @@
+{
+  "name": "Scourge",
+  "image": "PriestSpearGun.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Speargun",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 2.67,
+  "accuracy": 100,
+  "clip": 20,
+  "max_ammo": 540,
+  "reload": 2.5,
+  "projectile_speed": "Hitscan",
+  "disposition": 3,
+  "stat_proc": 30,
+  "elemental_damage_type": "{{Icon|Proc|Corrosive|Text}}",
+  "elemental_damage": 60,
+  "crit_chance": 2,
+  "crit_damage": 1.5,
+  "secondary": {
+    "physical_damage": 700,
+    "impact_damage": 455,
+    "puncture_damage": 72.5,
+    "slash_damage": 122.5,
+    "elemental_damage_type": "{{Icon|Proc|Corrosive|Text}}",
+    "elemental_damage": 50
+  },
+  "wiki_link": "/wiki/Scourge",
+  "categories": [
+    "Corrosive Damage",
+    "Update 21",
+    "Tenno",
+    "Speargun",
+    "Thrown"
+  ]
+}

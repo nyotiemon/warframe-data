@@ -1,0 +1,30 @@
+{
+  "name": "Tonbo",
+  "image": "FlowerPowerPolearm.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 5,
+  "stat_proc": 25,
+  "attack_rate": 1,
+  "physical_damage": 80,
+  "impact_damage": 8,
+  "puncture_damage": 12,
+  "slash_damage": 60,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slide": {
+    "physical_damage": 178,
+    "crit_chance": 5
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Tonbo",
+  "categories": [
+    "Melee Weapons",
+    "Polearm",
+    "Weapons",
+    "Update 15",
+    "Tenno",
+    "Slash Damage Weapons"
+  ]
+}

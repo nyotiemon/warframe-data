@@ -1,0 +1,33 @@
+{
+  "name": "Despair",
+  "image": "Despair.png",
+  "slot": "Secondary",
+  "type": "Thrown",
+  "trigger": "Auto",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 3.3,
+  "accuracy": 100,
+  "clip": 10,
+  "max_ammo": 210,
+  "reload": 0.8,
+  "projectile_speed": "70.0m/s",
+  "disposition": 4,
+  "stat_proc": 2.5,
+  "physical_damage": 55,
+  "impact_damage": 2.75,
+  "puncture_damage": 44,
+  "slash_damage": 8.25,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Despair",
+  "categories": [
+    "Stalker",
+    "Thrown",
+    "Secondary Weapons",
+    "Update 8",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Silent"
+  ]
+}

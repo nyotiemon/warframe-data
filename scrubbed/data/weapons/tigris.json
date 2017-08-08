@@ -1,0 +1,31 @@
+{
+  "name": "Tigris",
+  "image": "DETigris.png",
+  "mastery_level": 4,
+  "slot": "Primary",
+  "type": "Shotgun",
+  "trigger": "Duplex-Auto",
+  "rate_of_fire": 2,
+  "accuracy": 9.1,
+  "clip": 2,
+  "max_ammo": 120,
+  "reload": 1.8,
+  "disposition": 1,
+  "stat_proc": 25,
+  "physical_damage": "1,050.0",
+  "impact_damage": 105,
+  "puncture_damage": 105,
+  "slash_damage": 840,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "pellets": 5,
+  "wiki_link": "/wiki/Tigris",
+  "categories": [
+    "Update 11",
+    "Tenno",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Shotgun"
+  ]
+}

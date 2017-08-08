@@ -1,0 +1,37 @@
+{
+  "name": "Daikyu",
+  "image": "AsymmetricBow.png",
+  "slot": "Primary",
+  "type": "Bow",
+  "trigger": "Charge",
+  "noise_level": "0.0m (Silent)",
+  "rate_of_fire": 1,
+  "accuracy": "16.7 (100.0 Aimed)",
+  "max_ammo": 72,
+  "reload": 0.6,
+  "projectile_speed": "85.0m/s",
+  "disposition": 4,
+  "stat_proc": 50,
+  "charge": {
+    "physical_damage": 500,
+    "impact_damage": 100,
+    "puncture_damage": 300,
+    "slash_damage": 100,
+    "speed": 1.75,
+    "crit_chance": 20,
+    "crit_damage": 2
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Daikyu",
+  "categories": [
+    "Tenno",
+    "Weapons",
+    "Primary Weapons",
+    "Bow",
+    "Silent",
+    "Update 16",
+    "Puncture Damage Weapons",
+    "Research",
+    "Single-Shot"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Dual Decurion",
+  "image": "ArchHeavyPistols.png",
+  "slot": "Arch-Gun",
+  "type": "Arch-Gun",
+  "trigger": "Auto",
+  "rate_of_fire": 8.3,
+  "accuracy": 100,
+  "clip": 32,
+  "stat_proc": 10,
+  "physical_damage": 60,
+  "impact_damage": 27,
+  "puncture_damage": 16.5,
+  "slash_damage": 16.5,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "wiki_link": "/wiki/Dual_Decurion",
+  "categories": [
+    "Update 15",
+    "Archwing",
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Gun",
+    "Impact Damage Weapons",
+    "Tenno"
+  ]
+}

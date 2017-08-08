@@ -1,0 +1,30 @@
+{
+  "name": "Dark Sword",
+  "image": "DarkSword.png",
+  "slot": "Melee",
+  "type": "Sword",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "elemental_damage_type": "{{Icon|Proc|Radiation|Text}}",
+  "elemental_damage": 37,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 25,
+    "radius": 3
+  },
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Radiation|Text}}",
+    "elemental_damage": 79
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Dark_Sword",
+  "categories": [
+    "Sword",
+    "Melee Weapons",
+    "Weapons",
+    "Radiation Damage Weapons"
+  ]
+}

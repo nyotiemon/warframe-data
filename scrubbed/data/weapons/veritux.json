@@ -1,0 +1,30 @@
+{
+  "name": "Veritux",
+  "image": "ArchSword.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 10,
+  "attack_rate": 0.833,
+  "physical_damage": 300,
+  "impact_damage": 45,
+  "puncture_damage": 45,
+  "slash_damage": 210,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 300
+  },
+  "slide": {
+    "physical_damage": 643
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Veritux",
+  "categories": [
+    "Weapons",
+    "Archwing Weapons",
+    "Archwing Melee",
+    "Archwing",
+    "Update 15",
+    "Tenno",
+    "Slash Damage Weapons"
+  ]
+}

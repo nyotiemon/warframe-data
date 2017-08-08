@@ -1,0 +1,40 @@
+{
+  "name": "Quanta Vandal",
+  "image": "QuantaVandal.png",
+  "mastery_level": 4,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Held",
+  "noise_level": "25.0m",
+  "rate_of_fire": 1,
+  "accuracy": 100,
+  "clip": 90,
+  "max_ammo": 540,
+  "reload": 2,
+  "projectile_speed": "Hit-scan",
+  "disposition": 2,
+  "stat_proc": 25,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|Text}}",
+  "elemental_damage": 220,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|Text}}",
+    "elemental_damage": "250.0 (Auto)<br>500.0 (Manual)"
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Quanta_Vandal",
+  "categories": [
+    "Weapons",
+    "Assault Rifle",
+    "Vandal",
+    "Corpus",
+    "Electricity Damage Weapons",
+    "Blast Damage",
+    "Event Reward",
+    "Update 16",
+    "Baro Ki'Teer Offering",
+    "Special Weapons",
+    "Continuous Weapons"
+  ]
+}

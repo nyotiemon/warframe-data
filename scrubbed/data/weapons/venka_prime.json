@@ -1,0 +1,34 @@
+{
+  "name": "Venka Prime",
+  "image": "VenkaPrime.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Claws",
+  "disposition": 1,
+  "stat_proc": 15,
+  "attack_rate": 1.05,
+  "physical_damage": 55,
+  "impact_damage": 2.75,
+  "puncture_damage": 11,
+  "slash_damage": 41.25,
+  "crit_chance": 25,
+  "crit_damage": 2.5,
+  "slam": {
+    "physical_damage": 110
+  },
+  "slide": {
+    "physical_damage": 165
+  },
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|Naramon}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Venka_Prime",
+  "categories": [
+    "Tenno",
+    "Prime",
+    "Update 19",
+    "Melee Weapons",
+    "Claws",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

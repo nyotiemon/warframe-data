@@ -1,0 +1,31 @@
+{
+  "name": "Cycron",
+  "image": "Cycron.png",
+  "mastery_level": 9,
+  "slot": "Secondary",
+  "trigger": "Held",
+  "noise_level": "Alarming",
+  "rate_of_fire": 5,
+  "accuracy": 100,
+  "clip": 20,
+  "reload": 5,
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 30,
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 60,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "punch_through": 2,
+  "polarities": "{{Icon|Pol|Bar}} {{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Cycron",
+  "categories": [
+    "Secondary Weapons",
+    "Weapons",
+    "Single Sidearm",
+    "Corpus",
+    "Research",
+    "Update 20",
+    "Heat Damage Weapons",
+    "Continuous Weapons"
+  ]
+}

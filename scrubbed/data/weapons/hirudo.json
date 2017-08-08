@@ -1,0 +1,32 @@
+{
+  "name": "Hirudo",
+  "image": "InfestedKogake.png",
+  "mastery_level": 7,
+  "slot": "Melee",
+  "type": "Sparring",
+  "disposition": 1,
+  "stat_proc": 5,
+  "attack_rate": 1,
+  "physical_damage": 55,
+  "impact_damage": 8.3,
+  "puncture_damage": 44,
+  "slash_damage": 2.7,
+  "crit_chance": 15,
+  "crit_damage": 3,
+  "slide": {
+    "physical_damage": 220,
+    "impact_damage": 33.2,
+    "puncture_damage": 176,
+    "slash_damage": 10.8
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Hirudo",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Puncture Damage Weapons",
+    "Sparring",
+    "Infested",
+    "Update 19"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Ballistica Prime",
+  "image": "BallisticaPrime.png",
+  "mastery_level": "?",
+  "slot": "Secondary",
+  "type": "Crossbow",
+  "trigger": "Burst / Charge",
+  "wiki_link": "/wiki/Ballistica_Prime",
+  "categories": [
+    "Prime",
+    "Single Sidearm",
+    "Tenno",
+    "Update 21",
+    "Secondary Weapons",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Burst Fire",
+    "Speculation"
+  ]
+}

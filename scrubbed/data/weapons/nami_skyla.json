@@ -1,0 +1,28 @@
+{
+  "name": "Nami Skyla",
+  "image": "TnoCutlassAndPoignard.png",
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 50,
+  "impact_damage": 7.5,
+  "puncture_damage": 7.5,
+  "slash_damage": 35,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slide": {
+    "physical_damage": 300
+  },
+  "wiki_link": "/wiki/Nami_Skyla",
+  "categories": [
+    "Tenno",
+    "Dual Swords",
+    "Melee Weapons",
+    "Update 13",
+    "Weapons",
+    "Research",
+    "Slash Damage Weapons"
+  ]
+}

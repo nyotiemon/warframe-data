@@ -1,0 +1,34 @@
+{
+  "name": "Fang",
+  "image": "DualDaggers.png",
+  "slot": "Melee",
+  "type": "Dual Daggers",
+  "disposition": 5,
+  "stat_proc": 8,
+  "attack_rate": 0.917,
+  "physical_damage": 30,
+  "impact_damage": 4.5,
+  "puncture_damage": 21,
+  "slash_damage": 4.5,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 30,
+    "radius": 3
+  },
+  "slide": {
+    "physical_damage": 150
+  },
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Fang",
+  "categories": [
+    "Dual Daggers",
+    "Tenno",
+    "Melee Weapons",
+    "Update 7",
+    "Weapons",
+    "Puncture Damage Weapons"
+  ]
+}

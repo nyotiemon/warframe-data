@@ -1,0 +1,32 @@
+{
+  "name": "Prisma Veritux",
+  "image": "PrismaVerituxFix.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 20,
+  "attack_rate": 1,
+  "physical_damage": 300,
+  "impact_damage": 45,
+  "puncture_damage": 45,
+  "slash_damage": 210,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 300
+  },
+  "slide": {
+    "physical_damage": 643
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Prisma_Veritux",
+  "categories": [
+    "Archwing",
+    "Prisma",
+    "Archwing Melee",
+    "Archwing Weapons",
+    "Weapons",
+    "Baro Ki'Teer Offering",
+    "Special Weapons",
+    "Update 15",
+    "Slash Damage Weapons"
+  ]
+}

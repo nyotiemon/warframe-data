@@ -1,0 +1,21 @@
+{
+  "name": "Rampart",
+  "image": "Rampart.png",
+  "slot": "Emplacement",
+  "type": "Dual Machine Gun",
+  "trigger": "Auto",
+  "rate_of_fire": 13.3,
+  "clip": 200,
+  "projectile_speed": "Hit-Scan",
+  "physical_damage": 200,
+  "impact_damage": 66.7,
+  "puncture_damage": 66.6,
+  "slash_damage": 66.6,
+  "wiki_link": "/wiki/Rampart",
+  "categories": [
+    "Objects",
+    "Update 17",
+    "Grineer",
+    "Emplacement Weapons"
+  ]
+}

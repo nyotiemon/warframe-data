@@ -1,0 +1,40 @@
+{
+  "name": "Simulor",
+  "image": "CephPrimary.png",
+  "mastery_level": 5,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Active",
+  "noise_level": "Alarming",
+  "rate_of_fire": 2,
+  "accuracy": 100,
+  "clip": 10,
+  "max_ammo": 60,
+  "reload": 3,
+  "disposition": 1,
+  "stat_proc": 30,
+  "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+  "elemental_damage": "50.0-75.0 <small>(on merge)</small>",
+  "crit_chance": 12,
+  "crit_damage": 2,
+  "aoe": {
+    "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+    "elemental_damage": "50.0/sec <small><nowiki>[</nowiki>''citation needed''<nowiki>]</nowiki></small>"
+  },
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Magnetic|Text}}",
+    "elemental_damage": 75
+  },
+  "polarities": "{{Icon|Pol|D}} {{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Simulor",
+  "categories": [
+    "Syndicate Offerings",
+    "Weapons",
+    "Magnetic Damage",
+    "Update 16",
+    "Cephalon",
+    "Cephalon Simaris",
+    "Electricity Damage",
+    "Assault Rifle"
+  ]
+}

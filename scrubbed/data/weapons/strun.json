@@ -1,0 +1,33 @@
+{
+  "name": "Strun",
+  "image": "Strun.png",
+  "mastery_level": 1,
+  "slot": "Primary",
+  "type": "Shotgun",
+  "trigger": "Semi-Auto",
+  "rate_of_fire": 2.5,
+  "accuracy": 4,
+  "clip": 6,
+  "max_ammo": 120,
+  "reload": 3.8,
+  "disposition": 5,
+  "stat_proc": 20,
+  "physical_damage": 300,
+  "impact_damage": 165,
+  "puncture_damage": 45,
+  "slash_damage": 90,
+  "crit_chance": 7.5,
+  "crit_damage": 1.5,
+  "pellets": 10,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Strun",
+  "categories": [
+    "Shotgun",
+    "Primary Weapons",
+    "Tenno",
+    "Closed Beta",
+    "Weapons",
+    "Impact Damage Weapons",
+    "Vanilla"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Tipedo",
+  "image": "Tipedo.png",
+  "mastery_level": 3,
+  "slot": "Melee",
+  "type": "Staff",
+  "disposition": 5,
+  "stat_proc": 20,
+  "attack_rate": 1.33,
+  "physical_damage": 50,
+  "impact_damage": 5,
+  "puncture_damage": 5,
+  "slash_damage": 40,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 100
+  },
+  "slide": {
+    "physical_damage": 107
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Tipedo",
+  "categories": [
+    "Melee Weapons",
+    "Staff",
+    "Weapons",
+    "Tenno",
+    "Update 15",
+    "Hybrid Weapons",
+    "Slash Damage Weapons"
+  ]
+}

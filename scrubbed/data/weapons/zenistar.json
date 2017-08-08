@@ -1,0 +1,41 @@
+{
+  "name": "Zenistar",
+  "image": "SundialAxe.png",
+  "mastery_level": "<!--4-->",
+  "slot": "Melee",
+  "type": "Heavy Blade",
+  "disposition": 1,
+  "stat_proc": 25,
+  "attack_rate": "0.833/0.967<sup>†</sup>",
+  "physical_damage": "130.0†",
+  "impact_damage": "13.0†",
+  "puncture_damage": "13.0†",
+  "slash_damage": "104.0†",
+  "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+  "elemental_damage": 130,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": "260.0†",
+    "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+    "elemental_damage": 260
+  },
+  "slide": {
+    "physical_damage": "260.0†",
+    "elemental_damage_type": "{{Icon|Proc|Heat|text}}",
+    "elemental_damage": 260
+  },
+  "max_targets": 3,
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Zenistar",
+  "categories": [
+    "Heavy Blade",
+    "Update 19",
+    "Daily Tribute Rewards",
+    "Tenno",
+    "Melee Weapons",
+    "Heat Damage",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

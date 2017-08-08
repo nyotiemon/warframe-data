@@ -1,0 +1,42 @@
+{
+  "name": "Miter",
+  "image": "miter.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "type": "Launcher",
+  "trigger": "Charge",
+  "noise_level": "Loud",
+  "rate_of_fire": 2.5,
+  "accuracy": 100,
+  "clip": 20,
+  "max_ammo": 72,
+  "reload": 2,
+  "projectile_speed": "60.0m/s",
+  "disposition": 5,
+  "physical_damage": 125,
+  "impact_damage": 6.25,
+  "puncture_damage": 6.25,
+  "slash_damage": 112.5,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "charge": {
+    "physical_damage": 250,
+    "impact_damage": 12.5,
+    "puncture_damage": 12.5,
+    "slash_damage": 225,
+    "speed": 0.75,
+    "crit_chance": 10,
+    "crit_damage": 2,
+    "stat_proc": 50
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Miter",
+  "categories": [
+    "Update 9",
+    "Grineer",
+    "Weapons",
+    "Primary Weapons",
+    "Slash Damage Weapons",
+    "Launcher"
+  ]
+}

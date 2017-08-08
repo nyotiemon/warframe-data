@@ -1,0 +1,31 @@
+{
+  "name": "Okina",
+  "image": "TennoSais.png",
+  "mastery_level": 5,
+  "slot": "Melee",
+  "type": "Dual Dagger",
+  "disposition": 5,
+  "stat_proc": 15,
+  "attack_rate": 1.08,
+  "physical_damage": 40,
+  "impact_damage": 2,
+  "puncture_damage": 18,
+  "slash_damage": 20,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 80
+  },
+  "slide": {
+    "physical_damage": 200
+  },
+  "polarities": "{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Okina",
+  "categories": [
+    "Dual Daggers",
+    "Tenno",
+    "Update 19",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

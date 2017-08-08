@@ -1,0 +1,34 @@
+{
+  "name": "Synoid Heliocor",
+  "image": "CSHeliocor.png",
+  "mastery_level": 9,
+  "slot": "Melee",
+  "type": "Hammer",
+  "disposition": 3,
+  "stat_proc": 20,
+  "attack_rate": 1.08,
+  "physical_damage": 120,
+  "impact_damage": 102,
+  "puncture_damage": 12,
+  "slash_damage": 6,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 240
+  },
+  "slide": {
+    "physical_damage": 240
+  },
+  "wiki_link": "/wiki/Synoid_Heliocor",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Hammer",
+    "Special Weapons",
+    "Augmented Weapons",
+    "Syndicate Offerings",
+    "Cephalon",
+    "Update 19",
+    "Impact Damage Weapons"
+  ]
+}

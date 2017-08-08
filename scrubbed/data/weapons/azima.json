@@ -1,0 +1,37 @@
+{
+  "name": "Azima",
+  "image": "SundialPistol.png",
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 10,
+  "accuracy": 15.4,
+  "clip": 75,
+  "max_ammo": 525,
+  "reload": 1.4,
+  "projectile_speed": "Hit-Scan",
+  "disposition": 5,
+  "stat_proc": 10,
+  "physical_damage": 20,
+  "impact_damage": 2,
+  "puncture_damage": 5,
+  "slash_damage": 13,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "secondary": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|text}}",
+    "elemental_damage": 75
+  },
+  "polarities": "{{Icon|Pol|Naramon}} {{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Azima",
+  "categories": [
+    "Weapons",
+    "Secondary Weapons",
+    "Single Sidearm",
+    "Daily Tribute Rewards",
+    "Update 18",
+    "Tenno",
+    "Slash Damage Weapons"
+  ]
+}

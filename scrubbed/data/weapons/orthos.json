@@ -1,0 +1,36 @@
+{
+  "name": "Orthos",
+  "image": "DEOrthos.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Polearm",
+  "disposition": 1,
+  "stat_proc": 15,
+  "attack_rate": 0.917,
+  "physical_damage": 50,
+  "impact_damage": 7.5,
+  "puncture_damage": 7.5,
+  "slash_damage": 35,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage_type": "{{Icon|Proc|Blast|Text}}",
+    "elemental_damage": 20,
+    "radius": 10
+  },
+  "slide": {
+    "physical_damage": 111
+  },
+  "finisher_damage": 200,
+  "max_targets": 5,
+  "cleave_radius": 0.15,
+  "wiki_link": "/wiki/Orthos",
+  "categories": [
+    "Polearm",
+    "Tenno",
+    "Melee Weapons",
+    "Update 8",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

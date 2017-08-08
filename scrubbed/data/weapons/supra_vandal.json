@@ -1,0 +1,33 @@
+{
+  "name": "Supra Vandal",
+  "image": "SupraVandal.png",
+  "mastery_level": 10,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Auto",
+  "noise_level": "Alarming",
+  "rate_of_fire": 12.5,
+  "accuracy": 13.3,
+  "clip": 300,
+  "max_ammo": 1600,
+  "reload": 3,
+  "projectile_speed": "80.0m/s",
+  "disposition": 4,
+  "stat_proc": 5,
+  "physical_damage": 45,
+  "impact_damage": 4.5,
+  "puncture_damage": 33.8,
+  "slash_damage": 6.7,
+  "crit_chance": 2.5,
+  "crit_damage": 1.5,
+  "polarities": "{{Icon|Pol|V}}{{Icon|Pol|V}}",
+  "wiki_link": "/wiki/Supra_Vandal",
+  "categories": [
+    "Puncture Damage Weapons",
+    "Event Reward",
+    "Assault Rifle",
+    "Vandal",
+    "Update 20",
+    "Corpus"
+  ]
+}

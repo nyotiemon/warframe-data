@@ -1,0 +1,31 @@
+{
+  "name": "Embolist",
+  "image": "InfestedPistol.png",
+  "mastery_level": 8,
+  "slot": "Secondary",
+  "type": "Pistol",
+  "trigger": "Held",
+  "rate_of_fire": 10,
+  "accuracy": 100,
+  "clip": 100,
+  "max_ammo": 210,
+  "reload": 1.5,
+  "disposition": 5,
+  "stat_proc": 10,
+  "elemental_damage_type": "{{Icon|Proc|Toxin|text}}",
+  "elemental_damage": 18.5,
+  "crit_chance": 2.5,
+  "crit_damage": 2,
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Embolist",
+  "categories": [
+    "Research",
+    "Infested",
+    "Single Sidearm",
+    "Toxin Damage Weapons",
+    "Secondary Weapons",
+    "Update 10",
+    "Weapons",
+    "Continuous Weapons"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Lanka",
+  "image": "Lanka2.png",
+  "mastery_level": 7,
+  "slot": "Primary",
+  "type": "Sniper Rifle",
+  "trigger": "Charge",
+  "noise_level": "Alarming",
+  "rate_of_fire": 1,
+  "accuracy": 100,
+  "clip": 10,
+  "max_ammo": 72,
+  "reload": 2,
+  "projectile_speed": "200.0m/s",
+  "disposition": 3,
+  "stat_proc": 25,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 150,
+  "crit_chance": 25,
+  "crit_damage": 2,
+  "charge": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 525,
+    "speed": 1.5,
+    "crit_chance": 25,
+    "crit_damage": 2
+  },
+  "polarities": "None",
+  "wiki_link": "/wiki/Lanka",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Sniper Rifle",
+    "Research",
+    "Electricity Damage Weapons",
+    "Corpus",
+    "Update 8"
+  ]
+}

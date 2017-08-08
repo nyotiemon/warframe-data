@@ -1,0 +1,33 @@
+{
+  "name": "Broken Scepter",
+  "image": "GrnQueenSceptre.png",
+  "mastery_level": 5,
+  "slot": "Melee",
+  "type": "Staff",
+  "disposition": 4,
+  "stat_proc": 30,
+  "attack_rate": 1.25,
+  "physical_damage": 60,
+  "impact_damage": 42,
+  "puncture_damage": 6,
+  "slash_damage": 12,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 120
+  },
+  "slide": {
+    "physical_damage": 129
+  },
+  "polarities": "{{Icon|Pol|Bar}}",
+  "wiki_link": "/wiki/Broken_Scepter",
+  "categories": [
+    "Staff",
+    "Weapons",
+    "Melee Weapons",
+    "Impact Damage Weapons",
+    "Orokin",
+    "Quest",
+    "Update 19"
+  ]
+}

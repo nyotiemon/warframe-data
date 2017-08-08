@@ -1,0 +1,31 @@
+{
+  "name": "Kaszas",
+  "image": "ArchScythe.png",
+  "slot": "Arch-Melee",
+  "stat_proc": 15,
+  "attack_rate": 1,
+  "physical_damage": 325,
+  "impact_damage": 16.3,
+  "puncture_damage": 260,
+  "slash_damage": 48.7,
+  "crit_chance": 10,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 325
+  },
+  "slide": {
+    "physical_damage": 696
+  },
+  "conclave": 20,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Kaszas",
+  "categories": [
+    "Update 17",
+    "Archwing",
+    "Archwing Melee",
+    "Archwing Weapons",
+    "Weapons",
+    "Puncture Damage Weapons",
+    "Tenno"
+  ]
+}

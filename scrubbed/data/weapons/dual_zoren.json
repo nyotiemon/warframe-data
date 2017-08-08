@@ -1,0 +1,35 @@
+{
+  "name": "Dual Zoren",
+  "image": "DualZoren.png",
+  "mastery_level": 2,
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 5,
+  "attack_rate": 1.17,
+  "physical_damage": 30,
+  "impact_damage": 1.5,
+  "puncture_damage": 1.5,
+  "slash_damage": 27,
+  "crit_chance": 25,
+  "crit_damage": 3,
+  "slam": {
+    "physical_damage": 120,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 180
+  },
+  "max_targets": 3,
+  "cleave_radius": 0.25,
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Dual_Zoren",
+  "categories": [
+    "Dual Swords",
+    "Tenno",
+    "Melee Weapons",
+    "Closed Beta",
+    "Weapons",
+    "Slash Damage Weapons"
+  ]
+}

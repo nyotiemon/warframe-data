@@ -1,0 +1,32 @@
+{
+  "name": "Dual Ether",
+  "image": "Dual_Ether.png",
+  "slot": "Melee",
+  "type": "Dual Swords",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 1,
+  "physical_damage": 40,
+  "impact_damage": 6,
+  "puncture_damage": 6,
+  "slash_damage": 28,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "physical_damage": 80,
+    "radius": 1
+  },
+  "slide": {
+    "physical_damage": 240
+  },
+  "max_targets": 3,
+  "wiki_link": "/wiki/Dual_Ether",
+  "categories": [
+    "Dual Swords",
+    "Melee Weapons",
+    "Update 7",
+    "Weapons",
+    "Slash Damage Weapons",
+    "Tenno"
+  ]
+}

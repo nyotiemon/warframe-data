@@ -1,0 +1,27 @@
+{
+  "name": "Ohma",
+  "image": "CorpusTonfa.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Tonfa",
+  "disposition": 3,
+  "stat_proc": 30,
+  "attack_rate": 0.917,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+  "elemental_damage": 100,
+  "crit_chance": 15,
+  "crit_damage": 2,
+  "slide": {
+    "elemental_damage_type": "{{Icon|Proc|Electricity|text}}",
+    "elemental_damage": 600
+  },
+  "polarities": "{{Icon|Pol|Naramon}}{{Icon|Pol|Madurai}}",
+  "wiki_link": "/wiki/Ohma",
+  "categories": [
+    "Update 19",
+    "Tonfa",
+    "Electricity Damage Weapons",
+    "Corpus",
+    "Weapons"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "Secura Lecta",
+  "image": "PSLecta.png",
+  "mastery_level": 8,
+  "slot": "Melee",
+  "type": "Whip",
+  "disposition": 1,
+  "stat_proc": 25,
+  "attack_rate": 1.25,
+  "elemental_damage_type": "{{Icon|Proc|Electric|Text}}",
+  "elemental_damage": 75,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "elemental_damage": 150
+  },
+  "slide": {
+    "elemental_damage": 161
+  },
+  "polarities": "{{Icon|Pol|D}}",
+  "wiki_link": "/wiki/Secura_Lecta",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Special Weapons",
+    "Augmented Weapons",
+    "Syndicate Offerings",
+    "Whip",
+    "Update 19",
+    "Electricity Damage Weapons",
+    "Corpus"
+  ]
+}

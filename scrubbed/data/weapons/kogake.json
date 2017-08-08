@@ -1,0 +1,35 @@
+{
+  "name": "Kogake",
+  "image": "Kogake0.png",
+  "slot": "Melee",
+  "type": "Sparring",
+  "disposition": 5,
+  "stat_proc": 10,
+  "attack_rate": 0.917,
+  "physical_damage": 35,
+  "impact_damage": 24.5,
+  "puncture_damage": 5.3,
+  "slash_damage": 5.2,
+  "crit_chance": 20,
+  "crit_damage": 2,
+  "slam": {
+    "physical_damage": 25,
+    "impact_damage": 25,
+    "radius": 3.5
+  },
+  "slide": {
+    "physical_damage": 100
+  },
+  "finisher_damage": 75,
+  "max_targets": 1,
+  "cleave_radius": 0.25,
+  "wiki_link": "/wiki/Kogake",
+  "categories": [
+    "Weapons",
+    "Melee Weapons",
+    "Sparring",
+    "Tenno",
+    "Update 8",
+    "Impact Damage Weapons"
+  ]
+}

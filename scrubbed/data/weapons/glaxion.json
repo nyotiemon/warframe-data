@@ -1,0 +1,32 @@
+{
+  "name": "Glaxion",
+  "image": "CrpFreezeRayRifle.png",
+  "mastery_level": 6,
+  "slot": "Primary",
+  "trigger": "Held",
+  "noise_level": "25.0m",
+  "rate_of_fire": 20,
+  "accuracy": 100,
+  "clip": 300,
+  "max_ammo": "1,500",
+  "reload": 1.5,
+  "projectile_speed": "Hit-scan",
+  "disposition": 5,
+  "stat_proc": 35,
+  "elemental_damage_type": "{{Icon|Proc|Cold|Text}}",
+  "elemental_damage": 16.6,
+  "crit_chance": 5,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Glaxion",
+  "categories": [
+    "Corpus",
+    "Primary Weapons",
+    "Cold Damage Weapons",
+    "Research",
+    "Weapons",
+    "Update 14",
+    "Holiday Content",
+    "Continuous Weapons"
+  ]
+}

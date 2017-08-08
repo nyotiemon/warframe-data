@@ -1,0 +1,32 @@
+{
+  "name": "Amprex",
+  "image": "ChainLightningGunEdit.png",
+  "mastery_level": 5,
+  "slot": "Primary",
+  "type": "Assault Rifle",
+  "trigger": "Held",
+  "noise_level": "25.0m",
+  "rate_of_fire": 20,
+  "accuracy": 12.5,
+  "clip": 100,
+  "max_ammo": 540,
+  "reload": 2.7,
+  "disposition": "{{Icon|Dis|3|text}}",
+  "stat_proc": 20,
+  "elemental_damage_type": "{{Icon|Proc|Electricity|Text}}",
+  "elemental_damage": 7.5,
+  "crit_chance": 50,
+  "crit_damage": 2,
+  "polarities": "None",
+  "wiki_link": "/wiki/Amprex",
+  "categories": [
+    "Weapons",
+    "Primary Weapons",
+    "Assault Rifle",
+    "Research",
+    "Corpus",
+    "Electricity Damage Weapons",
+    "Update 13",
+    "Continuous Weapons"
+  ]
+}

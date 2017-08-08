@@ -1,0 +1,30 @@
+{
+  "name": "Silva & Aegis",
+  "image": "TennoSwordShield.png",
+  "slot": "Melee",
+  "type": "Sword & Shield",
+  "disposition": 3,
+  "stat_proc": 20,
+  "attack_rate": 1,
+  "elemental_damage_type": "{{Icon|Proc|Heat|Text}}",
+  "elemental_damage": 35,
+  "crit_chance": 5,
+  "crit_damage": 1.5,
+  "slam": {
+    "radius": 4
+  },
+  "slide": {
+    "elemental_damage_type": "Heat",
+    "elemental_damage": 75
+  },
+  "wiki_link": "/wiki/Silva_%26_Aegis",
+  "categories": [
+    "Sword and Shield",
+    "Melee Weapons",
+    "Update 14",
+    "Tenno",
+    "Weapons",
+    "Heat Damage",
+    "Community Concept"
+  ]
+}
