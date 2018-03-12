@@ -11,13 +11,17 @@ module.exports.default = function cleanData(data) {
   ])).then(() => {
     for(const key in data) {
       if(data[key] instanceof Array) for(const item of data[key]) {
-        const id = item.Name.replace(/[^\w_-]+/g, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
-        fs.writeJsonSync(`${rootDir}/${key}/${id}.json`, item, { spaces: 2 });
+        if(typeof item.Name === 'undefined') { continue; } else {
+          const id = item.Name.replace(/[^\w_-]+/g, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
+          fs.writeJsonSync(`${rootDir}/${key}/${id}.json`, item, { spaces: 2 });
+        }
       } else for(const itemKey in data[key]) {
         const item = data[key][itemKey];
-        const id = item.Name.replace(/[^\w_-]+/g, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
-        fs.writeJsonSync(`${rootDir}/${key}/${id}.json`, item, { spaces: 2 });
+        if(typeof item.Name === 'undefined') { continue; } else {
+          const id = item.Name.replace(/[^\w_-]+/g, '_').replace(/(^_+)|(_+$)/g, '').toLocaleLowerCase();
+          fs.writeJsonSync(`${rootDir}/${key}/${id}.json`, item, { spaces: 2 });
       }
+    }
     }
   });
 }
