@@ -71,6 +71,9 @@ module.exports.toJS = function toJS(lua) {
   // convert keys properly, convert = to :
   lua = lua.replace(/(?:(?:(?:\[")(.+)(?:"\]))|([a-zA-Z_]\w+))\s*=\s*/g, '"$1$2": ');
 
+  // remove comment section after double dash
+  lua = lua.replace(/--.*\n/g, "");
+
   // pull strings out
   let i = 0;
   const strings = [];
