@@ -2,7 +2,7 @@
   "name": "warframe-data",
   "version": "0.1.0",
   "description": "Data for Warframe, in JSON, scrubbed from the Wikia",
-  "private": "true",
+  "private": true,
   "scripts": {
     "fetch-lua": "node ./scripts/fetch-lua/fetch-data.js",
     "export-lua": "node ./scripts/fetch-lua/export-lua.js"

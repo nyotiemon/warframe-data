@@ -3,6 +3,7 @@
  * MIT licensed
  * Source: https://github.com/Ensequence/js2lua/blob/master/lib/converter.js
  */
+/*jshint esversion: 6 */
 
 function escapeString(str) {
   return str
@@ -59,7 +60,7 @@ module.exports.toLua = function toLua (obj, whitespace, indent) {
       else return '{' + indent + props.join(',') + '}';
     }
   }
-}
+};
 
 /**
  * Converts a lua object to a js object
@@ -83,7 +84,7 @@ module.exports.toJS = function toJS(lua) {
   });
 
   lua = lua.replace(/nil/g, 'null'); // replace nil with null
-  lua = lua.replace(/([^\w])(\.\d)/g, '$10$2') // clean up decimal points
+  lua = lua.replace(/([^\w])(\.\d)/g, '$10$2'); // clean up decimal points
 
   let j = 0;
   let objects = [];
@@ -93,7 +94,7 @@ module.exports.toJS = function toJS(lua) {
     lastJ = j;
     lua = lua.replace(/{[^{]+?}/, (sub) => {
       objects.push(sub);
-      return `$o${j++}$`
+      return `$o${j++}$`;
     });
   }
 
@@ -117,6 +118,6 @@ module.exports.toJS = function toJS(lua) {
   lua = lua.replace(/\$s(\d+)\$/g, (sub, $1) => strings[$1]); // put strings back
 
   lua = lua.replace(/,(\s*(?:}|]))/g, '$1'); // clean up extra commas
-
+  
   return JSON.parse(lua);
-}
+};
